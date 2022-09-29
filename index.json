@@ -4,4 +4,124 @@
         "question" : "Introduce Yourself",
         "answerLink" : ""
     }, 
+    {
+        "id" : "2",
+        "question" : "What are your strengths?",
+        "answerLink" : ""
+    }, 
+    {
+        "id" : "3",
+        "question" : "What are your weaknesses?",
+        "answerLink" : ""
+    }, 
+    {
+        "id" : "4",
+        "question" : "Why do you want this job?",
+        "answerLink" : ""
+    }, 
+    {
+        "id" : "5",
+        "question" : "Where would you like to be in your career five years from now?",
+        "answerLink" : ""
+    }, 
+    {
+        "id" : "6",
+        "question" : "What's your ideal company?",
+        "answerLink" : ""
+    }, 
+    {
+        "id" : "7",
+        "question" : "Why should we hire you?",
+        "answerLink" : ""
+    }, 
+        {
+        "id" : "8",
+        "question" : "What can you do for us that other candidates can't?",
+        "answerLink" : ""
+    }, 
+        {
+        "id" : "9",
+        "question" : "Give me an example of a time that you felt you went above and beyond the call of duty at work.",
+        "answerLink" : ""
+    }, 
+        {
+        "id" : "10",
+        "question" : "Can you describe a time when your work was criticized?",
+        "answerLink" : ""
+    }, 
+        {
+        "id" : "11",
+        "question" : "What is your greatest failure, and what did you learn from it?",
+        "answerLink" : ""
+    }, 
+        {
+        "id" : "12",
+        "question" : "Tell me about a time where you had to deal with conflict on the job.",
+        "answerLink" : ""
+    }, 
+        {
+        "id" : "13",
+        "question" : "How do you want to improve yourself in the next year?",
+        "answerLink" : ""
+    }, 
+        {
+        "id" : "14",
+        "question" : "How would you describe your work style?",
+        "answerLink" : ""
+    }, 
+        {
+        "id" : "15",
+        "question" : "What would be your ideal working environment?",
+        "answerLink" : ""
+    }, 
+        {
+        "id" : "16",
+        "question" : "What techniques and tools do you use to keep yourself organized?",
+        "answerLink" : ""
+    }, 
+        {
+        "id" : "17",
+        "question" : "Tell me about your proudest achievement.",
+        "answerLink" : ""
+    }, 
+        {
+        "id" : "18",
+        "question" : "Was there a person in your career who really made a difference?",
+        "answerLink" : ""
+    }, 
+        {
+        "id" : "19",
+        "question" : "What are you most proud of?",
+        "answerLink" : ""
+    }, 
+        {
+        "id" : "20",
+        "question" : "What are your lifelong dreams?",
+        "answerLink" : ""
+    }, 
+        {
+        "id" : "21",
+        "question" : "What are three positive things your last boss would say about you?",
+        "answerLink" : ""
+    }, 
+        {
+        "id" : "22",
+        "question" : "List five words that describe your character.",
+        "answerLink" : ""
+    }, 
+        {
+        "id" : "23",
+        "question" : "What is your greatest fear?",
+        "answerLink" : ""
+    }, 
+        {
+        "id" : "24",
+        "question" : "What is your biggest regret and why?",
+        "answerLink" : ""
+    }, 
+        {
+        "id" : "25",
+        "question" : "What are the qualities of a good leader? A bad leader?",
+        "answerLink" : ""
+    }, 
 ]
