@@ -472,6 +472,9 @@
     },
 {
         "id" : "85",
+        "question" : "What is a checkpoint in DBMS?",
+        "answerLink" : "The Checkpoint is a type of mechanism where all the previous logs are removed from the system and permanently stored in the storage disk.There are two ways which can help the DBMS in recovering and maintaining the ACID properties, and they are- maintaining the log of each transaction and maintaining shadow pages. So, when it comes to log based recovery system, checkpoints come into existence. Checkpoints are those points to which the database engine can recover after a crash as a specified minimal point from where the transaction log record can be used to recover all the committed data up to the point of the crash."
+        "id" : "85",
         "question" : "What is that?",
         "answerLink" : "Sir/Madam that is a demontrative program."
     },
