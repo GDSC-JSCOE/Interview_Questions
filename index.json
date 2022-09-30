@@ -27,7 +27,7 @@
     {
         "id" : "6",
         "question" : "What's your ideal company?",
-        "answerLink" : ""
+        "answerLink" : "https://www.firstnaukri.com/career-guidance/hr-interview-question-whats-your-ideal-company#:~:text=Sample%20answer%203%3A,landmarks%20along%20my%20career%20path.%E2%80%9D"
     }, 
     {
         "id" : "7",
@@ -147,4 +147,5 @@
         "question" : "What are your unique habits?",
         "answerLink" : ""
     }, 
+   
 ]
