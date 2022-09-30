@@ -9,15 +9,15 @@
 
  # Example
 
- {
+ [{
  
     "id" : "6",
 
-    "question" : "QUESTION",
+    "question" : "Who is your fac actor?",
     
-    "answerLink" : "Write your ANSWER HERE"
+    "answerLink" : "Allu Arjun"
         
-}
+}]
 
 
 
