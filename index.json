@@ -523,4 +523,11 @@
         "id" : "93",
         "question" : "what is creative writing?",
         "answerLink" : "Think about a task in a different way "},
+
+{
+        "id" : "113",
+        "question" : "What is RAID structure in OS? What are the different levels of RAID configuration?",
+        "answerLink" : "RAID (Redundant Arrays of Independent Disks) is a method used to store data on Multiple hard disks therefore it is considered as data storage virtualization technology that combines multiple hard disks. It simply balances data protection, system performance, storage space, etc. It is used to improve the overall performance and reliability of data storage. It also increases the storage capacity of the system and its main purpose is to achieve data redundancy to reduce data loss. 
+"
+    },
 ]
