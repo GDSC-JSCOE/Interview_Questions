@@ -153,4 +153,12 @@
         "question" : "What is your tech skills?",
         "answerLink" : "According to the person"
     }, 
+    {
+
+    "id" : "32",
+
+    "question" : "Do you possess any soft skill ?",
+
+    "answerLink" : "Depends on the person"
+    }, 
 ]
