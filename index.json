@@ -137,7 +137,8 @@
     {
         "id" : "28",
         "question" : "What are your thoughts about yourself?",
-
+        "answerLink":"https://activechristianity.org/what-do-you-think-about-yourself"
+    },
         "id" : "29",
         "question" : "What are your bad habits?",
         "answerLink" : ""
