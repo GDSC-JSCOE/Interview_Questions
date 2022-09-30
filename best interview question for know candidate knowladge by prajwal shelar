@@ -1,0 +1,39 @@
+{
+        "id" : "26",
+        "question" : " How Does an Android App Work?",
+        "answerLink" : "1-Building the APK File
+                          a-Code Compilation
+                          b-Conversion into Dalvik bytecodes
+                          c-Generating .apk file
+                          d-App Distribution
+                        2-Deploy the Application
+                          a-Establish the ADB Server
+                          b-Transfer .apk file to the Device
+                        3-Run the Application  
+                          a-App launch request
+                          b-Conversion of the .dex code to native OAT format"
+    }, 
+    {
+        "id" : "27",
+        "question" : "What can you bring to the company?",
+        "answerLink" : "Well, I’m currently an account executive at Smith, where I handle our top-performing client."
+    }, 
+     {
+        "id" : "28",
+        "question" : "Q.Find the output of the following program?
+ public class Prg {  
+    public static void main(String args[]){  
+        System.out.print("A" + "B" + 'A');  
+    }  
+}  ",
+        "answerLink" : "Then answer is ABA because it is the string concatination here ."
+    }, 
+      {
+        "id" : "29",
+        "question" : "Why do we use the word “debugger” in javascript?",
+        "answerLink" : "The debugger keyword is used in the code to force stop the execution of the code at a breaking point and calls the debugging function.
+        The debugger function is executed if any debugging is needed at all else no action is performed"
+    }, 
+      
+           
+           ]
