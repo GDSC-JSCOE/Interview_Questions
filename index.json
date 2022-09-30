@@ -469,9 +469,14 @@
         "id" : "84",
         "question" : "How do you manage your priorities to meet deadlines?",
         "answerLink" : "I usually start by making a square grid to list each task I have to complete in order of relevance and priority. Then I complete the most time-consuming tasks first, so I can take my time focusing on getting each element right, depending on the topic of the assignment. If it's a large assignment, such as a research project, this method helps me get the bulk of the project done so I can focus on the little things last. "
+    }
+{
+    "id" : "85",
+    "question" : "What is your greatest failure, and what did you learn from it?",
+    "answerLink" : "https://www.google.com/search?q=%22What+is+your+greatest+failure%2C+and+what+did+you+learn+from+it%3F%22+answer&rlz=1C1YTUH_enIN1014IN1014&oq=%22What+is+your+greatest+failure%2C+and+what+did+you+learn+from+it%3F%22+answer&aqs=chrome..69i57.18225j0j15&sourceid=chrome&ie=UTF-8
     },
 {
-        "id" : "85",
+        "id" : "86",
         "question" : "What is a checkpoint in DBMS?",
         "answerLink" : "The Checkpoint is a type of mechanism where all the previous logs are removed from the system and permanently stored in the storage disk.There are two ways which can help the DBMS in recovering and maintaining the ACID properties, and they are- maintaining the log of each transaction and maintaining shadow pages. So, when it comes to log based recovery system, checkpoints come into existence. Checkpoints are those points to which the database engine can recover after a crash as a specified minimal point from where the transaction log record can be used to recover all the committed data up to the point of the crash."
         "id" : "85",
@@ -479,7 +484,7 @@
         "answerLink" : "Sir/Madam that is a demontrative program."
     },
 
-    {  "id" : "86",
+    {  "id" : "87",
         "question" : "what is competitive programming? ",
         "answerLink" : " Programming… Competitive Programming… It teaches you how to think?
     If you are a programmer, you might have understood the deep meaning of these lines quoted by
