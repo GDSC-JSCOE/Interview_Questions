@@ -344,7 +344,11 @@
         "question" : "which is the most often thing you like about yourself?",
         "answerLink" : "https://in.indeed.com/career-advice/interviewing/interview-question-how-would-you-describe-yourself"
     }, 
-
+    {
+        "id" : "64",
+        "question" : "What would you do if you were working under a bad boss?",
+        "answerLink" : "I will try asking my colleagues how they have worked on dealing with the boss. If things get worse, I will contact HR to get a solution regarding this."
+    },
     
     
     ]
