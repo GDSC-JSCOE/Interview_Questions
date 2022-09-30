@@ -34,6 +34,23 @@
         "answerLink" : "The debugger keyword is used in the code to force stop the execution of the code at a breaking point and calls the debugging function.
         The debugger function is executed if any debugging is needed at all else no action is performed"
     }, 
+       {
+        "id" : "30",
+        "question" : "What are javascript Cookies?",
+        "answerLink" : "Cookies are the small test files stored in a computer, and they get created when the user visits the websites to store information that they need. Examples could be User Name details and shopping cart information from previous visits."
+    }, 
+     {
+        "id" : "31",
+        "question" : "What are the disadvantages of using innerHTML in JavaScript?",
+        "answerLink" : "If you use innerHTML in JavaScript, the disadvantage is
+
+Content is replaced everywhere
+We cannot use it like “appending to innerHTML
+Even if you use +=like “innerHTML = innerHTML + ‘html'” still the old content is replaced by html
+The entire innerHTML content is re-parsed and builds into elements. Therefore, it’s much slower
+The innerHTML does not provide validation, and therefore we can potentially insert valid and broken HTML in the document and break it"
+    }, 
+    
       
            
            ]
