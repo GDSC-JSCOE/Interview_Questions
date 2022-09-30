@@ -547,4 +547,10 @@
         "answerLink" : "https://elementor.com/resources/glossary/what-is-a-css-framework/"
     },
 
+    {
+        "id" : "99",
+        "question" : " What are your salary expectations?",
+        "answerLink" : "https://in.indeed.com/career-advice/interviewing/how-to-answer-your-expected-ctc"
+    },
+
 ]
