@@ -348,7 +348,7 @@
     {
         "id" : "63",
         "question" :"Why do you want this job?",
-        "answerLink" : "https://youtu.be/ujOUlx0cT6o
+        "answerLink" : "https://youtu.be/ujOUlx0cT6o",
     } 
         
      {
@@ -406,16 +406,10 @@
         "id" : "72",
         "question" : "A horse jumps over a castle, then lands on a man. The man disappears. What’s happening?",
         "answerLink" : "https://en.wikipedia.org/wiki/Chess"}, 
-
-{
-        "id" : "73",
-        "question" : "Tell me about a time where you made a mistake",
-        "answerLink" : "https://careersidekick.com/tricky-interview-questions-and-answers/"
-    }, 
-{
-    "id":"74",
-    "question":"What motivates you?",
-    "answerLink":"https://www.thomsonreuters.com/en/careers/careers-blog/20-ways-employees-are-motivated-by-work.html#:~:text=A%20great%20work%20environment,in%20so%20that%20you%20succeed."
-},
 ]
 
+ {
+        "id" : "85",
+        "question" : "It is always with us,but can't catch it? ",
+        "answerLink" : "https://en.wikipedia.org/wiki/puzzles"}, 
+]
