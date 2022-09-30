@@ -150,7 +150,7 @@
         {
     "id" : "29",
         "question" : "What are your bad habits?",
-        "answerLink" : ""
+        "answerLink" : "i am too good for this world"
     }, 
     {
         "id" : "30",
@@ -291,6 +291,7 @@
         "question" : "What are the techniques you may use to define the scope of a project? ",
         "answerLink" : ""
     },
+
      {
         "id" : "53",
         "question" : "How to Introduce Yourself?  ",
@@ -342,6 +343,158 @@
         "id" : "62",
         "question" : "What are your hobbies? ",
         "answerLink" : "https://leverageedu.com/blog/what-are-your-hobbies/"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ {
+        "id" : "86",
+        "question" : "Are you willing to learn things out of your comfrot zone?",
+        "answerLink" : "Yes sir, I don't have any problem with that."
     },
     
 
@@ -472,6 +625,22 @@
     },
 {
         "id" : "85",
+        "question" : "What is the use of isNAN function in Javascript?",
+        "answerLink" : "isNan function returns true if the argument is not a number; otherwise, it is false. "
+    },
+{
+        "id" : "86",
+        "question" : "What is the working of timers in JavaScript?",
+        "answerLink" : "Timers are used to execute a piece of code at a set time or repeat the code in a given interval. This is done by using the functions setTimeout, setInterval, and clearInterval."
+
+    },
+{
+    "id" : "87",
+    "question" : "What is your greatest failure, and what did you learn from it?",
+    "answerLink" : "https://www.google.com/search?q=%22What+is+your+greatest+failure%2C+and+what+did+you+learn+from+it%3F%22+answer&rlz=1C1YTUH_enIN1014IN1014&oq=%22What+is+your+greatest+failure%2C+and+what+did+you+learn+from+it%3F%22+answer&aqs=chrome..69i57.18225j0j15&sourceid=chrome&ie=UTF-8
+    },
+{
+        "id" : "88",
         "question" : "What is a checkpoint in DBMS?",
         "answerLink" : "The Checkpoint is a type of mechanism where all the previous logs are removed from the system and permanently stored in the storage disk.There are two ways which can help the DBMS in recovering and maintaining the ACID properties, and they are- maintaining the log of each transaction and maintaining shadow pages. So, when it comes to log based recovery system, checkpoints come into existence. Checkpoints are those points to which the database engine can recover after a crash as a specified minimal point from where the transaction log record can be used to recover all the committed data up to the point of the crash."
         "id" : "85",
@@ -479,7 +648,7 @@
         "answerLink" : "Sir/Madam that is a demontrative program."
     },
 
-    {  "id" : "86",
+    {  "id" : "89",
         "question" : "what is competitive programming? ",
         "answerLink" : " Programming… Competitive Programming… It teaches you how to think?
     If you are a programmer, you might have understood the deep meaning of these lines quoted by
@@ -489,10 +658,17 @@
     logic-based creativity to solve a problem from different angles. Programming is fun, programming is an exercise for your brain, 
     programming is a mental sport and when this sport is held on the
     internet involving sports programmer as a contestant, then it is called Competitive Programming. Check what Wikipedia says about"
-}
+},
 {
-        "id" : "87",
+        "id" : "90",
         "question" : " Are you willing to relocate?",
         "answerLink" : "https://www.themuse.com/advice/are-you-willing-to-relocate-interview-question-answer-example",
 },
+
+
+   {
+        "id" : "91",
+        "question" : "Tell me about a time you demonstrated leadership skills.",
+        "answerLink" : "You don’t have to have a fancy title to act like a leader or demonstrate leadership skills. Think about a time when you headed up a project, took the initiative to propose an alternate process, or helped motivate your team to get something done. Then use the STAR method to tell your interviewer a story, giving enough detail to paint a picture (but not so much that you start rambling) and making sure you spell out the result.In other words, be clear about why you’re telling this particular story and connect all the dots for the interviewer."
+        }
 ]
