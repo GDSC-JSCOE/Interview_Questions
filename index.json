@@ -135,12 +135,15 @@
         "answerLink" : ""
     }, 
     {
-        "id" : "27",
+        "id" : "28",
+        "question" : "What are your thoughts about yourself?",
+
+        "id" : "29",
         "question" : "What are your bad habits?",
         "answerLink" : ""
     }, 
     {
-        "id" : "29",
+        "id" : "30",
         "question" : "What are your unique habits?",
         "answerLink" : ""
     }, 
