@@ -10,6 +10,6 @@ This repository  provides interview questions covering fundamentals, behaviour, 
 # BEGIN YOUR PULL REQUEST
 {
         "id" : "755",
-        "question" : "How To Create LinkedIN {rofile",
+        "question" : "How To Create LinkedIN Profile",
         "answerLink" : "[https://www.indeed.com/carr0er/how-to-build-resume](https://www.indiatoday.in/information/story/how-to-create-a-linkedin-profile-1509736-2019-04-25)"
  }, 
