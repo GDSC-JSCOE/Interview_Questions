@@ -191,6 +191,11 @@
 
     "answerLink" : "Depends on the person"
 },
+     {
+        "id" : "37",
+        "question" : "what can you bring to the company?",
+        "answerLink" : "https://leverageedu.com/blog/self-introduction-in-interview/"
+    }, 
     
      {
         "id" : "99",
