@@ -28,7 +28,12 @@
 }  ",
         "answerLink" : "Then answer is ABA because it is the string concatination here ."
     }, 
-           
-           
+      {
+        "id" : "29",
+        "question" : "Why do we use the word “debugger” in javascript?",
+        "answerLink" : "The debugger keyword is used in the code to force stop the execution of the code at a breaking point and calls the debugging function.
+        The debugger function is executed if any debugging is needed at all else no action is performed"
+    }, 
+      
            
            ]
