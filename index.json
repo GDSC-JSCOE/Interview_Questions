@@ -161,47 +161,31 @@
 
     "answerLink" : "Depends on the person"
     }, 
-
+    {
+        "id" : "33",
+        "question" : "Which tech you refer in future?",
+        "answerLink" : "Blockchain developing is best for security"
+    }, 
+    
     {
 
-    "id" : "35",
+    "id" : "34",
 
     "question" : "Why we should hire you ?",
 
-    "answerLink" : "Depends on the person"
+    "answerLink" : "Depends on the person"},
 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+   
     
      {
-        "id" : "13231",
+        "id" : "35",
         "question" : "why you are applying for the job",
         "answerLink" : "https://leverageedu.com/blog/self-introduction-in-interview/"
 
     },
     {
 
-    "id" : "35",
+    "id" : "36",
 
     "question" : "Why we should hire you ?",
 
