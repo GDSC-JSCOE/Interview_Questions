@@ -18,4 +18,17 @@
         "question" : "What can you bring to the company?",
         "answerLink" : "Well, I’m currently an account executive at Smith, where I handle our top-performing client."
     }, 
-            ]
+     {
+        "id" : "28",
+        "question" : "Q.Find the output of the following program?
+ public class Prg {  
+    public static void main(String args[]){  
+        System.out.print("A" + "B" + 'A');  
+    }  
+}  ",
+        "answerLink" : "Then answer is ABA because it is the string concatination here ."
+    }, 
+           
+           
+           
+           ]
