@@ -429,5 +429,11 @@
         "question" : "Introduce Yourself",
         "answerLink" : "Hi my name is Sanket Mardhekar , i am currently studying mechanical engineering at JSCOE(Jaywantrao sawant College of Engineering , and i will be graduated in year 2024 as a fresher )"
     }, 
- {
+   {
+        "id" : "80",
+        "question" : "It is always burns,but not shines ",
+        "answerLink" : "https://en.wikipedia.org/wiki/riddles"}, 
+        
+        
+ {  
 ]
