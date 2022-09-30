@@ -1,0 +1,15 @@
+{
+        "id" : "26",
+        "question" : " How Does an Android App Work?",
+        "answerLink" : "1-Building the APK File
+                          a-Code Compilation
+                          b-Conversion into Dalvik bytecodes
+                          c-Generating .apk file
+                          d-App Distribution
+                        2-Deploy the Application
+                          a-Establish the ADB Server
+                          b-Transfer .apk file to the Device
+                        3-Run the Application  
+                          a-App launch request
+                          b-Conversion of the .dex code to native OAT format"
+    }, 
