@@ -150,7 +150,7 @@
         {
     "id" : "29",
         "question" : "What are your bad habits?",
-        "answerLink" : "i am too good for this world"
+        "answerLink" : ""
     }, 
     {
         "id" : "30",
@@ -344,7 +344,12 @@
         "question" : "What are your hobbies? ",
         "answerLink" : "https://leverageedu.com/blog/what-are-your-hobbies/"
     },
-
+{
+        "id" : "500",
+        "question" : "What is RAID structure in OS? What are the different levels of RAID configuration?",
+        "answerLink" : "RAID (Redundant Arrays of Independent Disks) is a method used to store data on Multiple hard disks therefore it is considered as data storage virtualization technology that combines multiple hard disks. It simply balances data protection, system performance, storage space, etc. It is used to improve the overall performance and reliability of data storage. It also increases the storage capacity of the system and its main purpose is to achieve data redundancy to reduce data loss. 
+"
+    },
 
 
 
