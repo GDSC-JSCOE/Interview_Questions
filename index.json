@@ -125,12 +125,12 @@
         "question" : "What are the qualities of a good leader? A bad leader?",
         "answerLink" : ""
     }, 
-            {
+        {
         "id" : "26",
         "question" : "What are your good habits?",
         "answerLink" : "polite words,time management etc"
     }, 
-      {
+        {
         "id" : "27",
         "question" : "What are your bad habits?",
         "answerLink" : ""
@@ -246,70 +246,93 @@
         "answerLink" : ""
     },
     {
-        "id" : "49",
+        "id" : "46",
         "question" : "How to achieve backwards compatibility while creating enterprise application ",
         "answerLink" : "https://dzone.com/articles/software-backwards-compatibility-with-reference-to-java"
     }
 ]
     }, 
         {
-        "id" : "50",
+        "id" : "47",
         "question" : "what is your goals ",
         "answerLink" : "To gain valuable industry knowledge and experience."
     }, 
     
     {
-        "id" : "46",
+        "id" : "48",
         "question" : "What should I know that’s not on your resume?",
         "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#a1c1bca0-d645-4eba-b3a9-9adac258609a"
     }, 
     {
-        "id" : "47",
+        "id" : "49",
         "question" : " What is your strategy to deal with internal conflicts among the team members? ",
         "answerLink" : "",
     }, 
      {
-        "id" : "48",
+        "id" : "50",
         "question" : "Define processes and process groups in a project management framework. ",
         "answerLink" : ""
     },
      {
-        "id" : "49",
+        "id" : "51",
         "question" : "Explain the concept of RAID in project management.",
         "answerLink" : ""
     },
      {
-        "id" : "50",
+        "id" : "52",
         "question" : "What are the techniques you may use to define the scope of a project? ",
         "answerLink" : ""
     },
-    
-    
-    
      {
-        "id" : "51",
+        "id" : "53",
         "question" : "How to Introduce Yourself?  ",
         "answerLink" : "https://youtu.be/EzGH3hZuJVk"
     }, 
-    
-    
-    
-        
     {
-        "id" : "52",
+        "id" : "54",
         "question" : "Why Do You Want To Work Here?",
         "answerLink" : "I like your working ideology and also this company have great vision and mission for future"
     }, 
 
+     {
+        "id" : "55",
+        "question" : "Describe the team forming process you follow in project management. ",
+        "answerLink" : ""
+    },
     {
-        "id" : "100",
+        "id" : "56",
+        "question" : "What do you know about the triple constraint triangle of project management?",
+        "answerLink" : ""
+    },
+     {
+        "id" : "57",
+        "question" : "How will you avoid gold plating?",
+        "answerLink" : ""
+    },
+ {
+        "id" : "58",
+        "question" : "What’s your leadership style?",
+        "answerLink" : ""
+    },
+ {
+        "id" : "59",
+        "question" : " What project management software do you prefer?",
+        "answerLink" : ""
+    },
+ {
+        "id" : "60",
+        "question" : "How would you motivate your team as the project deadline approaches?",
+        "answerLink" : ""
+    },
+
+    {
+        "id" : "61",
         "question" : "What are the primary components of a computer system?",
         "answerLink" : "https://www.indeed.com/career-advice/interviewing/computer-science-interview-questions"
     }, 
     
     
-    
-    
+        
     
     
     
