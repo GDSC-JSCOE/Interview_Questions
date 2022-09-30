@@ -522,6 +522,11 @@
 {
         "id" : "94",
         "question" : "Give an example of when you showed leadership qualities?",
-        "answerLink" : "Keep in mind, though, that this question doesn’t necessarily mean that you should have held a managerial position. "}
+        "answerLink" : "Keep in mind, though, that this question doesn’t necessarily mean that you should have held a managerial position. "},
+ {
+        "id" : "95",
+        "question" : "What’s your management style?",
+        "answerLink" : "Management style is so hard to put your finger on, but I think in general a good manager gives clear directions and actually stays pretty hands-off, but is ready and available to jump in to offer guidance, expertise, and help when needed. I try my best to make that my management style. I also go out of my way to make sure I know when my team needs help. That means plenty of informal check-ins, both on the work they’re doing and on their general job satisfaction and mental well-being."
+    }, 
 
 ]
