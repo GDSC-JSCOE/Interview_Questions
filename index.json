@@ -17,12 +17,12 @@
     {
         "id" : "4",
         "question" : "Why do you want this job?",
-        "answerLink" : ""
+        "answerLink" : "To gain expertise"
     }, 
     {
         "id" : "5",
         "question" : "Where would you like to be in your career five years from now?",
-        "answerLink" : ""
+        "answerLink" : "To learn something new"
     }, 
     {
         "id" : "6",
@@ -32,7 +32,7 @@
     {
         "id" : "7",
         "question" : "Why should we hire you?",
-        "answerLink" : ""
+        "answerLink" : "https://careersidekick.com/interview-question-why-should-we-hire-you/#:~:text=Show%20the%20employer%20that%20you,and%20enthusiastic%20in%20the%20role"
     }, 
         {
         "id" : "8",
@@ -62,7 +62,7 @@
         {
         "id" : "13",
         "question" : "How do you want to improve yourself in the next year?",
-        "answerLink" : ""
+        "answerLink" : "https://www.job-applications.com/interview-questions/how-will-you-improve-yourself-in-the-next-year/"
     }, 
         {
         "id" : "14",
@@ -92,7 +92,7 @@
         {
         "id" : "19",
         "question" : "What are you most proud of?",
-        "answerLink" : ""
+        "answerLink" : "https://www.indeed.com/career-advice/interviewing/what-accomplishment-are-you-most-proud-of"
     }, 
         {
         "id" : "20",
@@ -127,7 +127,7 @@
             {
         "id" : "26",
         "question" : "What are your good habits?",
-        "answerLink" : ""
+        "answerLink" : "polite words,time management etc"
     }, 
       {
         "id" : "27",
@@ -162,10 +162,40 @@
     "answerLink" : "Depends on the person"
     }, 
     {
-        "id" : "35",
+        "id" : "33",
         "question" : "Which tech you refer in future?",
         "answerLink" : "Blockchain developing is best for security"
     }, 
     
+    {
 
+    "id" : "34",
+
+    "question" : "Why we should hire you ?",
+
+    "answerLink" : "Depends on the person"},
+
+   
+    
+     {
+        "id" : "35",
+        "question" : "why you are applying for the job",
+        "answerLink" : "https://leverageedu.com/blog/self-introduction-in-interview/"
+
+    },
+    {
+
+    "id" : "36",
+
+    "question" : "Why we should hire you ?",
+
+    "answerLink" : "Depends on the person"
+},
 ]
+
+
+
+
+
+
+
