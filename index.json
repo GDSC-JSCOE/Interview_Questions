@@ -434,47 +434,42 @@
     }, 
    
 {
-    "id":"78",
-    "question":"What motivates you?",
-    "answerLink":"https://www.thomsonreuters.com/en/careers/careers-blog/20-ways-employees-are-motivated-by-work.html#:~:text=A%20great%20work%20environment,in%20so%20that%20you%20succeed."
-},
-{
-    "id":"79",
-    "question":"What do you know about this industry?",
-    "answerLink":"https://www.monster.com/career-advice/article/100-potential-interview-questions"
-},
-
-        "id" : "80",
+        "id" : "78",
         "question" : "Tell me about yourself",
         "answerLink" : "  Keep it professional."
     }, 
  {
-        "id" : "81",
+        "id" : "79",
         "question" : "It is always burns,but not shines ",
         "answerLink" : "https://en.wikipedia.org/wiki/riddles"}, 
         
         },
   {
-       "id" : "82",
+       "id" : "80",
         "question" : "Walk me through your resume",
         "answerLink" : " https://www.themuse.com/advice/interview-questions-and-answers."
    },
 
  {
-        "id" : "83",
+        "id" : "81",
         "question" : "It always shines ",
         "answerLink" : "https://en.wikipedia.org/wiki/riddles"}, 
         
         },
         {
-        "id" : "84",
+        "id" : "82",
         "question" : "what is tallest statue in india",
         "answerLink" : "https://en.wikipedia.org/wiki/List_of_the_tallest_statues_in_India "
     }, 
         {
-        "id" : "85",
+        "id" : "83",
         "question" : "7amazing facts in india",
         "answerLink" : "bing.com/images "
-    }, 
+    },
+{
+        "id" : "84",
+        "question" : "How do you manage your priorities to meet deadlines?",
+        "answerLink" : "I usually start by making a square grid to list each task I have to complete in order of relevance and priority. Then I complete the most time-consuming tasks first, so I can take my time focusing on getting each element right, depending on the topic of the assignment. If it's a large assignment, such as a research project, this method helps me get the bulk of the project done so I can focus on the little things last. "
+    }
 
 ]
