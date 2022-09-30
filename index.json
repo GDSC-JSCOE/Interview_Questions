@@ -11,11 +11,27 @@
         "answerLink" : "https://novoresume.com/career-blog/what-is-your-greatest-strength"
         "answerLink" : "https://leverageedu.com/blog/self-introduction-in-interview/"
     }, 
+    
+    
+    
     {
         "id" : "3",
         "question" : "What are your weaknesses?",
         "answerLink" : "Some times i lose my control on time "
     }, 
+    
+    
+    
+    
+     {
+        "id" : "30",
+        "question" : " What are the competitors of TCS globally and in India?",
+        "answerLink" : "Keeping an eye on the current market will definitely help. The key to an impressive answer is sound research, and this also shows the interviewer that you are about the interview as well as the job. For example, Wipro, Mahindra Satyam, Tech Mahindra, Infosys, HCL Tech,  Mphasis, etc "
+    }, 
+    
+    
+    
+    
     {
         "id" : "4",
         "question" : "Why do you want this job?",
