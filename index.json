@@ -491,9 +491,7 @@
         "id" : "88",
         "question" : "What is a checkpoint in DBMS?",
         "answerLink" : "The Checkpoint is a type of mechanism where all the previous logs are removed from the system and permanently stored in the storage disk.There are two ways which can help the DBMS in recovering and maintaining the ACID properties, and they are- maintaining the log of each transaction and maintaining shadow pages. So, when it comes to log based recovery system, checkpoints come into existence. Checkpoints are those points to which the database engine can recover after a crash as a specified minimal point from where the transaction log record can be used to recover all the committed data up to the point of the crash."
-        "id" : "85",
-        "question" : "What is that?",
-        "answerLink" : "Sir/Madam that is a demontrative program."
+        
     },
 
     {  "id" : "89",
@@ -520,14 +518,18 @@
         "answerLink" : "You don’t have to have a fancy title to act like a leader or demonstrate leadership skills. Think about a time when you headed up a project, took the initiative to propose an alternate process, or helped motivate your team to get something done. Then use the STAR method to tell your interviewer a story, giving enough detail to paint a picture (but not so much that you start rambling) and making sure you spell out the result.In other words, be clear about why you’re telling this particular story and connect all the dots for the interviewer."
         },
  {
-        "id" : "93",
+        "id" : "92",
         "question" : "what is creative writing?",
         "answerLink" : "Think about a task in a different way "},
 
 {
-        "id" : "113",
+        "id" : "93",
         "question" : "What is RAID structure in OS? What are the different levels of RAID configuration?",
-        "answerLink" : "RAID (Redundant Arrays of Independent Disks) is a method used to store data on Multiple hard disks therefore it is considered as data storage virtualization technology that combines multiple hard disks. It simply balances data protection, system performance, storage space, etc. It is used to improve the overall performance and reliability of data storage. It also increases the storage capacity of the system and its main purpose is to achieve data redundancy to reduce data loss. 
-"
+        "answerLink" : "RAID (Redundant Arrays of Independent Disks) is a method used to store data on Multiple hard disks therefore it is considered as data storage virtualization technology that combines multiple hard disks. It simply balances data protection, system performance, storage space, etc. It is used to improve the overall performance and reliability of data storage. It also increases the storage capacity of the system and its main purpose is to achieve data redundancy to reduce data loss. "
     },
+{
+        "id" : "94",
+        "question" : "Give an example of when you showed leadership qualities?",
+        "answerLink" : "Keep in mind, though, that this question doesn’t necessarily mean that you should have held a managerial position. "},
+
 ]
