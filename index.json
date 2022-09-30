@@ -540,10 +540,11 @@
         "question" : "Where do you see yourself in 5 years?",
         "answerLink" : "https://novoresume.com/career-blog/where-do-you-see-yourself-in-5-years"
     },
-{
-        "id" : "97",
-        "question" : "What are javascript Cookies?",
-        "answerLink" : "Cookies are the small test files stored in a computer, and they get created when the user visits the websites to store information that they need."
-    }, 
+
+    {
+        "id" : "98",
+        "question" : " What are the CSS frameworks?",
+        "answerLink" : "https://elementor.com/resources/glossary/what-is-a-css-framework/"
+    },
 
 ]
