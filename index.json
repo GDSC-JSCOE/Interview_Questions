@@ -198,26 +198,43 @@
     }, 
     
      {
-        "id" : "99",
+        "id" : "38",
         "question" : "Where do you see yourself after 5 years",
         "answerLink" : "https://www.indiabix.com/hr-interview/where-do-you-see-yourself-five-years-from-now/"
     }, 
     
     {
-        "id" : "91",
+        "id" : "39",
         "question" : "Is there anything else you’d like us to know?",
         "answerLink" : "https://www.themuse.com/advice/how-to-answer-is-there-anything-else-youd-like-us-to-know"
     }, 
-    
-]
-
-
-
+  
 {
-        "id" : "60",
+        "id" : "40",
         "question" : "Introduce Yourself",
         "answerLink" : "I am Anurdha.Currently I am studying in 2nd year of engineering from IT department.I am hardworking."
     }, 
 
-
-
+     {
+        "id" : "41",
+        "question" : "How do you define an ideal project? ",
+        "answerLink" : ""
+    }, 
+{
+        "id" : "42",
+        "question" : "What is your strategy for prioritizing the tasks? ",
+        "answerLink" : ""
+    }, 
+    
+{
+        "id" : "43",
+        "question" : " Tell us about the most challenging projects you have managed so far? What were the steps you have taken to tackle the challenges? ",
+        "answerLink" : ""
+    }, 
+        
+{
+        "id" : "44",
+        "question" : "Suppose the project has gone off the rails. What steps would you take to get it back on track? ",
+        "answerLink" : ""
+    }, 
+    ]
