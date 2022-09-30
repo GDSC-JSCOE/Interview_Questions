@@ -11,11 +11,15 @@
         "answerLink" : "https://novoresume.com/career-blog/what-is-your-greatest-strength"
         "answerLink" : "https://leverageedu.com/blog/self-introduction-in-interview/"
     }, 
+    
+    
+    
     {
         "id" : "3",
         "question" : "What are your weaknesses?",
         "answerLink" : "Some times i lose my control on time "
     }, 
+   
     {
         "id" : "4",
         "question" : "Why do you want this job?",
@@ -143,7 +147,8 @@
         "answerLink" : "Good Humours gives his best thats it",
         "answerLink":"https://activechristianity.org/what-do-you-think-about-yourself"
     },
-        "id" : "29",
+        {
+    "id" : "29",
         "question" : "What are your bad habits?",
         "answerLink" : ""
     }, 
@@ -252,8 +257,8 @@
         "id" : "46",
         "question" : "How to achieve backwards compatibility while creating enterprise application ",
         "answerLink" : "https://dzone.com/articles/software-backwards-compatibility-with-reference-to-java"
-    }
-]
+    
+
     }, 
         {
         "id" : "47",
@@ -339,16 +344,36 @@
         "answerLink" : "https://leverageedu.com/blog/what-are-your-hobbies/"
     },
     
+
+    {
+        "id" : "63",
+        "question" :"Why do you want this job?",
+        "answerLink" : "https://youtu.be/ujOUlx0cT6o"
+    }, 
+        
+     {
+        "id" : "64",
+        "question" : " What are the competitors of TCS globally and in India?",
+        "answerLink" : "Keeping an eye on the current market will definitely help. The key to an impressive answer is sound research, and this also shows the interviewer that you are about the interview as well as the job. For example, Wipro, Mahindra Satyam, Tech Mahindra, Infosys, HCL Tech,  Mphasis, etc "
+    }, 
+ 
+{
+        "id" : "65",
+        "question" : "Are you willing to work on holidays ?",
+        "answerLink" : "Yes sir, I don't have any problem with that."
+    },
+    
+
          {
-        "id" : "62",
+        "id" : "66",
         "question" : "which is the most often thing you like about yourself?",
         "answerLink" : "https://in.indeed.com/career-advice/interviewing/interview-question-how-would-you-describe-yourself"
     }, 
     {
-        "id" : "64",
+        "id" : "67",
         "question" : "What would you do if you were working under a bad boss?",
         "answerLink" : "I will try asking my colleagues how they have worked on dealing with the boss. If things get worse, I will contact HR to get a solution regarding this."
     },
+]
+
     
-    
-    ]
