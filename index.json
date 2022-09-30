@@ -470,6 +470,11 @@
         "id" : "84",
         "question" : "How do you manage your priorities to meet deadlines?",
         "answerLink" : "I usually start by making a square grid to list each task I have to complete in order of relevance and priority. Then I complete the most time-consuming tasks first, so I can take my time focusing on getting each element right, depending on the topic of the assignment. If it's a large assignment, such as a research project, this method helps me get the bulk of the project done so I can focus on the little things last. "
-    }
+    },
+{
+        "id" : "85",
+        "question" : "Are You Willing to Relocate?",
+        "answerLink" : "https://www.themuse.com/advice/are-you-willing-to-relocate-interview-question-answer-example",
+},
 
 ]
