@@ -471,5 +471,16 @@
         "question" : "How do you manage your priorities to meet deadlines?",
         "answerLink" : "I usually start by making a square grid to list each task I have to complete in order of relevance and priority. Then I complete the most time-consuming tasks first, so I can take my time focusing on getting each element right, depending on the topic of the assignment. If it's a large assignment, such as a research project, this method helps me get the bulk of the project done so I can focus on the little things last. "
     }
-
+{
+    {  "id" : "85",
+        "question" : "what is competitive programming? ",
+        "answerLink" : " Programming… Competitive Programming… It teaches you how to think?
+    If you are a programmer, you might have understood the deep meaning of these lines quoted by
+    Steve Jobs and you might have also experienced that even after shutting down your computer you keep on thinking 
+    about programming stuff or code you have written in your project. Once you enter in programming you just don’t
+    learn how to code but you also learn the “art of thinking”, by breaking your code into smaller chunks and then using your 
+    logic-based creativity to solve a problem from different angles. Programming is fun, programming is an exercise for your brain, 
+    programming is a mental sport and when this sport is held on the
+    internet involving sports programmer as a contestant, then it is called Competitive Programming. Check what Wikipedia says about"
+}
 ]
