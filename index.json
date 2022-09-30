@@ -269,5 +269,12 @@
         "question" : "What are the techniques you may use to define the scope of a project? ",
         "answerLink" : ""
     },
+
+   {
+        "id" : "5",
+        "question" : "Tell me about a time you demonstrated leadership skills.",
+        "answerLink" : "You don’t have to have a fancy title to act like a leader or demonstrate leadership skills. Think about a time when you headed up a project, took the initiative to propose an alternate process, or helped motivate your team to get something done. Then use the STAR method to tell your interviewer a story, giving enough detail to paint a picture (but not so much that you start rambling) and making sure you spell out the result.
+                      In other words, be clear about why you’re telling this particular story and connect all the dots for the interviewer."
+    },
     
     ]
