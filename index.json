@@ -2,53 +2,54 @@
     {
         "id" : "1",
         "question" : "Introduce Yourself",
-        "answerLink" : "https://leverageedu.com/blog/self-introduction-in-interview/"
+        "answerLink" : "Hi my name is Prathamesh Adinawar , i am currently studying computer engineering at JSCOE(Jaywantrao sawant College of Engineering , and i will be graduated in year 2024 as a fresher )"
     }, 
     {
         "id" : "2",
         "question" : "What are your strengths?",
+        "answerLink" : "I like problem solving things that are challenging and i also like to develope or Create thinks that will help in Progressing the work faster"
         "answerLink" : "https://novoresume.com/career-blog/what-is-your-greatest-strength"
         "answerLink" : "https://leverageedu.com/blog/self-introduction-in-interview/"
     }, 
     {
         "id" : "3",
         "question" : "What are your weaknesses?",
-        "answerLink" : "https://leverageedu.com/blog/self-introduction-in-interview/"
+        "answerLink" : "Some times i lose my control on time "
     }, 
     {
         "id" : "4",
         "question" : "Why do you want this job?",
-        "answerLink" : "To gain expertise"
+        "answerLink" : "To gain expertise and earn as much as i can "
     }, 
     {
         "id" : "5",
         "question" : "Where would you like to be in your career five years from now?",
-        "answerLink" : "To learn something new"
+        "answerLink" : "To learn and Obseve "
     }, 
     {
         "id" : "6",
         "question" : "What's your ideal company?",
-        "answerLink" : "https://www.firstnaukri.com/career-guidance/hr-interview-question-whats-your-ideal-company#:~:text=Sample%20answer%203%3A,landmarks%20along%20my%20career%20path.%E2%80%9D"
+        "answerLink" : "Dont know actually but i like Gooogle"
     }, 
     {
         "id" : "7",
         "question" : "Why should we hire you?",
-        "answerLink" : "https://careersidekick.com/interview-question-why-should-we-hire-you/#:~:text=Show%20the%20employer%20that%20you,and%20enthusiastic%20in%20the%20role"
+        "answerLink" : "My core thing is to do my best in anything no matter what which is needed to be done so i will give my 100%  "
     }, 
         {
         "id" : "8",
         "question" : "What can you do for us that other candidates can't?",
-        "answerLink" : ""
+        "answerLink" : "I dont know about others much but ya you can expect that i will be one to be with this company if the same is with the company point of view"
     }, 
         {
         "id" : "9",
         "question" : "Give me an example of a time that you felt you went above and beyond the call of duty at work.",
-        "answerLink" : ""
+        "answerLink" : "I dont actually know i am always consious of what i am doing "
     }, 
         {
         "id" : "10",
         "question" : "Can you describe a time when your work was criticized?",
-        "answerLink" : ""
+        "answerLink" : "Never happend"
     }, 
         {
         "id" : "11",
@@ -58,86 +59,88 @@
         {
         "id" : "12",
         "question" : "Tell me about a time where you had to deal with conflict on the job.",
-        "answerLink" : ""
+        "answerLink" : "Not done any job yet so your company will be the first to experince such a thing"
     }, 
         {
         "id" : "13",
         "question" : "How do you want to improve yourself in the next year?",
-        "answerLink" : "https://www.job-applications.com/interview-questions/how-will-you-improve-yourself-in-the-next-year/"
+        "answerLink" : "IN every aspect like relationship with myself and others "
     }, 
         {
         "id" : "14",
         "question" : "How would you describe your work style?",
-        "answerLink" : ""
+        "answerLink" : "Fun and Game type because i love games and because it is the only place where we are open and do over best "
     }, 
         {
         "id" : "15",
         "question" : "What would be your ideal working environment?",
-        "answerLink" : ""
+        "answerLink" : "With the nature and offcourse an open area"
     }, 
         {
         "id" : "16",
         "question" : "What techniques and tools do you use to keep yourself organized?",
-        "answerLink" : ""
+        "answerLink" : "No such techniques but i meditate it improves my quality of life in many aspects and dimension to be very pricious "
     }, 
         {
         "id" : "17",
         "question" : "Tell me about your proudest achievement.",
-        "answerLink" : ""
+        "answerLink" : "I made my own app idea i think it will work well"
     }, 
         {
         "id" : "18",
         "question" : "Was there a person in your career who really made a difference?",
+        "answerLink" : "Yes many of them the list is to big"
         "answerLink" : "YES, there is a person my best frd who changed me"
     }, 
         {
         "id" : "19",
         "question" : "What are you most proud of?",
-        "answerLink" : "https://www.indeed.com/career-advice/interviewing/what-accomplishment-are-you-most-proud-of"
+        "answerLink" : "That i never Stop make mistakes learn start again thats it"
     }, 
         {
         "id" : "20",
         "question" : "What are your lifelong dreams?",
-        "answerLink" : ""
+        "answerLink" : "No such thung Just to be better than yesterday"
     }, 
         {
         "id" : "21",
         "question" : "What are three positive things your last boss would say about you?",
-        "answerLink" : ""
+        "answerLink" : "No Boss No Thinhgs "
     }, 
         {
         "id" : "22",
         "question" : "List five words that describe your character.",
-        "answerLink" : ""
+        "answerLink" : "Humorous, Humble , Honest"
     }, 
         {
         "id" : "23",
         "question" : "What is your greatest fear?",
-        "answerLink" : ""
+        "answerLink" : "No such thing "
     }, 
         {
         "id" : "24",
         "question" : "What is your biggest regret and why?",
-        "answerLink" : ""
+        "answerLink" : "I would have studed my own because every freaking thing about this community is free"
     }, 
         {
         "id" : "25",
         "question" : "What are the qualities of a good leader? A bad leader?",
-        "answerLink" : ""
+        "answerLink" : "Good leader: works with the Team and Bad leader: Gives the works to the team to let them do there own"
     }, 
-            {
+        {
         "id" : "26",
         "question" : "What are your good habits?",
-        "answerLink" : "polite words,time management etc"
+        "answerLink" : "Gives 100%, Never give up, Supportive"
     }, 
-      {
+        {
         "id" : "27",
         "question" : "What are your bad habits?",
-        "answerLink" : ""
+        "answerLink" : "Time wasting sometimes"
     }, 
     {
         "id" : "28",
         "question" : "What are your thoughts about yourself?",
+        "answerLink" : "Good Humours gives his best thats it",
         "answerLink":"https://activechristianity.org/what-do-you-think-about-yourself"
     },
         {
@@ -148,13 +151,13 @@
     {
         "id" : "30",
         "question" : "What are your unique habits?",
-        "answerLink" : "https://youtu.be/WfVsn4ZtjdA"
+        "answerLink" : "I like to do the things of my own and Curous about almost everything"
     }, 
     
      {
         "id" : "31",
         "question" : "What is your tech skills?",
-        "answerLink" : "According to the person"
+        "answerLink" : "Good in compitetive coding "
     }, 
     {
 
@@ -162,12 +165,12 @@
 
     "question" : "Do you possess any soft skill ?",
 
-    "answerLink" : "Depends on the person"
+    "answerLink" : "Good in compitative coding"
     }, 
     {
         "id" : "33",
         "question" : "Which tech you refer in future?",
-        "answerLink" : "Blockchain developing is best for security"
+        "answerLink" : "WEB 3.0 is the future"
     }, 
     
     {
@@ -176,14 +179,14 @@
 
     "question" : "Why we should hire you ?",
 
-    "answerLink" : "Depends on the person"},
+    "answerLink" : "Because i am good at my Skills and techniques"},
 
    
     
      {
         "id" : "35",
         "question" : "why you are applying for the job",
-        "answerLink" : "https://leverageedu.com/blog/self-introduction-in-interview/"
+        "answerLink" : "To earn and to be independent "
 
     },
     {
@@ -203,8 +206,8 @@
      {
         "id" : "38",
         "question" : "Where do you see yourself after 5 years",
-        "answerLink" : "https://www.indiabix.com/hr-interview/where-do-you-see-yourself-five-years-from-now/"
-    }, 
+        "answerLink" : "I see my self as good supporter to a company"
+    }
     
     {
         "id" : "39",
@@ -247,67 +250,103 @@
         "answerLink" : ""
     },
     {
-        "id" : "49",
+        "id" : "46",
         "question" : "How to achieve backwards compatibility while creating enterprise application ",
         "answerLink" : "https://dzone.com/articles/software-backwards-compatibility-with-reference-to-java"
     
 
     }, 
         {
-        "id" : "50",
+        "id" : "47",
         "question" : "what is your goals ",
         "answerLink" : "To gain valuable industry knowledge and experience."
     }, 
     
     {
-        "id" : "46",
+        "id" : "48",
         "question" : "What should I know that’s not on your resume?",
         "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#a1c1bca0-d645-4eba-b3a9-9adac258609a"
     }, 
     {
-        "id" : "47",
+        "id" : "49",
         "question" : " What is your strategy to deal with internal conflicts among the team members? ",
         "answerLink" : "",
     }, 
      {
-        "id" : "48",
+        "id" : "50",
         "question" : "Define processes and process groups in a project management framework. ",
         "answerLink" : ""
     },
      {
-        "id" : "49",
+        "id" : "51",
         "question" : "Explain the concept of RAID in project management.",
         "answerLink" : ""
     },
      {
-        "id" : "50",
+        "id" : "52",
         "question" : "What are the techniques you may use to define the scope of a project? ",
         "answerLink" : ""
     },
-    
-    
-    
      {
-        "id" : "51",
+        "id" : "53",
         "question" : "How to Introduce Yourself?  ",
         "answerLink" : "https://youtu.be/EzGH3hZuJVk"
     }, 
-    
-    
-    
-        
     {
-        "id" : "52",
+        "id" : "54",
         "question" : "Why Do You Want To Work Here?",
         "answerLink" : "I like your working ideology and also this company have great vision and mission for future"
     }, 
+
+     {
+        "id" : "55",
+        "question" : "Describe the team forming process you follow in project management. ",
+        "answerLink" : ""
+    },
+    {
+        "id" : "56",
+        "question" : "What do you know about the triple constraint triangle of project management?",
+        "answerLink" : ""
+    },
+     {
+        "id" : "57",
+        "question" : "How will you avoid gold plating?",
+        "answerLink" : ""
+    },
+ {
+        "id" : "58",
+        "question" : "What’s your leadership style?",
+        "answerLink" : ""
+    },
+ {
+        "id" : "59",
+        "question" : " What project management software do you prefer?",
+        "answerLink" : ""
+    },
+ {
+        "id" : "60",
+        "question" : "How would you motivate your team as the project deadline approaches?",
+        "answerLink" : ""
+    },
+
+    {
+        "id" : "61",
+        "question" : "What are the primary components of a computer system?",
+        "answerLink" : "https://www.indeed.com/career-advice/interviewing/computer-science-interview-questions"
+    }, 
+    {
+        "id" : "62",
+        "question" : "What are your hobbies? ",
+        "answerLink" : "https://leverageedu.com/blog/what-are-your-hobbies/"
+    },
     
+
     {
         "id" : "588",
         "question" :"Why do you want this job?",
         "answerLink" : "https://youtu.be/ujOUlx0cT6o"
     },
-]
+
         
         
    
@@ -316,4 +355,12 @@
     
     
     
+
+         {
+        "id" : "62",
+        "question" : "which is the most often thing you like about yourself?",
+        "answerLink" : "https://in.indeed.com/career-advice/interviewing/interview-question-how-would-you-describe-yourself"
+    }, 
+]
+
     
