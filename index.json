@@ -2,37 +2,38 @@
     {
         "id" : "1",
         "question" : "Introduce Yourself",
-        "answerLink" : ""
+        "answerLink" : "https://leverageedu.com/blog/self-introduction-in-interview/"
     }, 
     {
         "id" : "2",
         "question" : "What are your strengths?",
         "answerLink" : "https://novoresume.com/career-blog/what-is-your-greatest-strength"
+        "answerLink" : "https://leverageedu.com/blog/self-introduction-in-interview/"
     }, 
     {
         "id" : "3",
         "question" : "What are your weaknesses?",
-        "answerLink" : ""
+        "answerLink" : "https://leverageedu.com/blog/self-introduction-in-interview/"
     }, 
     {
         "id" : "4",
         "question" : "Why do you want this job?",
-        "answerLink" : ""
+        "answerLink" : "To gain expertise"
     }, 
     {
         "id" : "5",
         "question" : "Where would you like to be in your career five years from now?",
-        "answerLink" : ""
+        "answerLink" : "To learn something new"
     }, 
     {
         "id" : "6",
         "question" : "What's your ideal company?",
-        "answerLink" : ""
+        "answerLink" : "https://www.firstnaukri.com/career-guidance/hr-interview-question-whats-your-ideal-company#:~:text=Sample%20answer%203%3A,landmarks%20along%20my%20career%20path.%E2%80%9D"
     }, 
     {
         "id" : "7",
         "question" : "Why should we hire you?",
-        "answerLink" : ""
+        "answerLink" : "https://careersidekick.com/interview-question-why-should-we-hire-you/#:~:text=Show%20the%20employer%20that%20you,and%20enthusiastic%20in%20the%20role"
     }, 
         {
         "id" : "8",
@@ -52,7 +53,7 @@
         {
         "id" : "11",
         "question" : "What is your greatest failure, and what did you learn from it?",
-        "answerLink" : ""
+        "answerLink" : "My greatest failure was I was not able to clear Jee Mains exam , But I learnt that Failures are the Keys to success and I worked hard and now I have achieved success in many tasks. we grow from failures "
     }, 
         {
         "id" : "12",
@@ -62,7 +63,7 @@
         {
         "id" : "13",
         "question" : "How do you want to improve yourself in the next year?",
-        "answerLink" : ""
+        "answerLink" : "https://www.job-applications.com/interview-questions/how-will-you-improve-yourself-in-the-next-year/"
     }, 
         {
         "id" : "14",
@@ -87,12 +88,12 @@
         {
         "id" : "18",
         "question" : "Was there a person in your career who really made a difference?",
-        "answerLink" : ""
+        "answerLink" : "YES, there is a person my best frd who changed me"
     }, 
         {
         "id" : "19",
         "question" : "What are you most proud of?",
-        "answerLink" : ""
+        "answerLink" : "https://www.indeed.com/career-advice/interviewing/what-accomplishment-are-you-most-proud-of"
     }, 
         {
         "id" : "20",
@@ -127,7 +128,7 @@
             {
         "id" : "26",
         "question" : "What are your good habits?",
-        "answerLink" : ""
+        "answerLink" : "polite words,time management etc"
     }, 
       {
         "id" : "27",
@@ -146,6 +147,127 @@
     {
         "id" : "30",
         "question" : "What are your unique habits?",
+        "answerLink" : "https://youtu.be/WfVsn4ZtjdA"
+    }, 
+    
+     {
+        "id" : "31",
+        "question" : "What is your tech skills?",
+        "answerLink" : "According to the person"
+    }, 
+    {
+
+    "id" : "32",
+
+    "question" : "Do you possess any soft skill ?",
+
+    "answerLink" : "Depends on the person"
+    }, 
+    {
+        "id" : "33",
+        "question" : "Which tech you refer in future?",
+        "answerLink" : "Blockchain developing is best for security"
+    }, 
+    
+    {
+
+    "id" : "34",
+
+    "question" : "Why we should hire you ?",
+
+    "answerLink" : "Depends on the person"},
+
+   
+    
+     {
+        "id" : "35",
+        "question" : "why you are applying for the job",
+        "answerLink" : "https://leverageedu.com/blog/self-introduction-in-interview/"
+
+    },
+    {
+
+    "id" : "36",
+
+    "question" : "Why we should hire you ?",
+
+    "answerLink" : "Depends on the person"
+},
+     {
+        "id" : "37",
+        "question" : "what can you bring to the company?",
+        "answerLink" : "https://leverageedu.com/blog/self-introduction-in-interview/"
+    }, 
+    
+     {
+        "id" : "38",
+        "question" : "Where do you see yourself after 5 years",
+        "answerLink" : "https://www.indiabix.com/hr-interview/where-do-you-see-yourself-five-years-from-now/"
+    }, 
+    
+    {
+        "id" : "39",
+        "question" : "Is there anything else you’d like us to know?",
+        "answerLink" : "https://www.themuse.com/advice/how-to-answer-is-there-anything-else-youd-like-us-to-know"
+    }, 
+  
+{
+        "id" : "40",
+        "question" : "Introduce Yourself",
+        "answerLink" : "I am Anurdha.Currently I am studying in 2nd year of engineering from IT department.I am hardworking."
+    }, 
+
+     {
+        "id" : "41",
+        "question" : "How do you define an ideal project? ",
         "answerLink" : ""
     }, 
-]
+{
+        "id" : "42",
+        "question" : "What is your strategy for prioritizing the tasks? ",
+        "answerLink" : "https://www.wework.com/ideas/professional-development/creativity-culture/how-to-prioritize-work"
+    }, 
+    
+{
+        "id" : "43",
+        "question" : " Tell us about the most challenging projects you have managed so far? What were the steps you have taken to tackle the challenges? ",
+        "answerLink" : ""
+    }, 
+        
+{
+        "id" : "44",
+        "question" : "Suppose the project has gone off the rails. What steps would you take to get it back on track? ",
+        "answerLink" : ""
+    }, 
+    {
+        "id" : "45",
+        "question" : "Can you tell us an example of a failed project? Have you had any such experiences? ",
+        "answerLink" : ""
+    }, 
+    {
+        "id" : "46",
+        "question" : "What should I know that’s not on your resume?",
+        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#a1c1bca0-d645-4eba-b3a9-9adac258609a"
+    }, 
+    {
+        "id" : "47",
+        "question" : " What is your strategy to deal with internal conflicts among the team members? ",
+        "answerLink" : "",
+    }, 
+     {
+        "id" : "48",
+        "question" : "Define processes and process groups in a project management framework. ",
+        "answerLink" : ""
+    },
+     {
+        "id" : "49",
+        "question" : "Explain the concept of RAID in project management.",
+        "answerLink" : ""
+    },
+     {
+        "id" : "50",
+        "question" : "What are the techniques you may use to define the scope of a project? ",
+        "answerLink" : ""
+    },
+    
+    ]
