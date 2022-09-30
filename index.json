@@ -473,9 +473,9 @@
     },
 {
         "id" : "85",
-        "question" : "What is the use of isNAN function in Javascript?",
-        "answerLink" : "isNan function returns true if the argument is not a number; otherwise, it is false. "
-    },
+        "question" : "Are You Willing to Relocate?",
+        "answerLink" : "https://www.themuse.com/advice/are-you-willing-to-relocate-interview-question-answer-example",
+},
 {
         "id" : "86",
         "question" : "What is the working of timers in JavaScript?",
