@@ -147,5 +147,10 @@
         "question" : "What are your unique habits?",
         "answerLink" : ""
     }, 
-   
+    
+     {
+        "id" : "31",
+        "question" : "What is your tech skills?",
+        "answerLink" : "According to the person"
+    }, 
 ]
