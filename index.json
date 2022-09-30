@@ -402,8 +402,18 @@
         "question" : "How To Explain Employment Gaps in an Interview",
         "answerLink" : "https://www.indeed.com/career-advice/interviewing/how-to-explain-employment-gaps"
     }, 
+ {
+        "id" : "72",
+        "question" : "A horse jumps over a castle, then lands on a man. The man disappears. What’s happening?",
+        "answerLink" : "https://en.wikipedia.org/wiki/Chess"}, 
+
 {
-    "id":"72",
+        "id" : "73",
+        "question" : "Tell me about a time where you made a mistake",
+        "answerLink" : "https://careersidekick.com/tricky-interview-questions-and-answers/"
+    }, 
+{
+    "id":"74",
     "question":"What motivates you?",
     "answerLink":"https://www.thomsonreuters.com/en/careers/careers-blog/20-ways-employees-are-motivated-by-work.html#:~:text=A%20great%20work%20environment,in%20so%20that%20you%20succeed."
 },
@@ -413,4 +423,4 @@
         "answerLink" : "I want to grow as a personal and a professional and i am pretty sure my these two goals can be completed in this company"
 },
 ]
-    
+
