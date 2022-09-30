@@ -406,4 +406,11 @@
         "id" : "72",
         "question" : "A horse jumps over a castle, then lands on a man. The man disappears. What’s happening?",
         "answerLink" : "https://en.wikipedia.org/wiki/Chess"}, 
+
+{
+        "id" : "73",
+        "question" : "Tell me about a time where you made a mistake",
+        "answerLink" : "https://careersidekick.com/tricky-interview-questions-and-answers/"
+    }, 
 ]
+
