@@ -150,7 +150,7 @@
         {
     "id" : "29",
         "question" : "What are your bad habits?",
-        "answerLink" : "i am too good for this world"
+        "answerLink" : ""
     }, 
     {
         "id" : "30",
@@ -344,158 +344,6 @@
         "question" : "What are your hobbies? ",
         "answerLink" : "https://leverageedu.com/blog/what-are-your-hobbies/"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- {
-        "id" : "86",
-        "question" : "Are you willing to learn things out of your comfrot zone?",
-        "answerLink" : "Yes sir, I don't have any problem with that."
-    },
     
 
     {
@@ -670,5 +518,9 @@
         "id" : "91",
         "question" : "Tell me about a time you demonstrated leadership skills.",
         "answerLink" : "You don’t have to have a fancy title to act like a leader or demonstrate leadership skills. Think about a time when you headed up a project, took the initiative to propose an alternate process, or helped motivate your team to get something done. Then use the STAR method to tell your interviewer a story, giving enough detail to paint a picture (but not so much that you start rambling) and making sure you spell out the result.In other words, be clear about why you’re telling this particular story and connect all the dots for the interviewer."
-        }
+        },
+ {
+        "id" : "93",
+        "question" : "what is creative writing?",
+        "answerLink" : "Think about a task in a different way "},
 ]
