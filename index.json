@@ -533,5 +533,26 @@
         "question" : "How do you stay organised?",
         "answerLink" : "My digital planner helps me stay organized. Each morning, I look through my planner, updating it based on my priorities for the day. It has all kinds of helpful features, such as event reminders and color-coding. I can also sync my work calendars to it, helping me stay organized wherever I am."
 }
+=======
+    },
+
+    {
+        "id" : "97",
+        "question" : "What’s your management style?",
+        "answerLink" : "https://www.indiabix.com/hr-interview/where-do-you-see-yourself-five-years-from-now/"
+    },
+
+{
+        "id" : "98",
+        "question" : "Where do you see yourself in 5 years?",
+        "answerLink" : "https://novoresume.com/career-blog/where-do-you-see-yourself-in-5-years"
+    },
+
+    {
+        "id" : "99",
+        "question" : " What are the CSS frameworks?",
+        "answerLink" : "https://elementor.com/resources/glossary/what-is-a-css-framework/"
+    }
+
 
 ]

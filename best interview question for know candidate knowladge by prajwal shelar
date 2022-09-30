@@ -39,5 +39,10 @@
     "id":"5",
     "question":what is tree in dsa ?
 ans: - A tree is a nonlinear hierarchical data structure that consists of nodes connected by edges."
+
+       "id":"6",
+    "question":Explain the process behind storing a variable in memory.
+ans: - A variable is stored in memory based on the amount of memory that is needed. Following are the steps followed to store a variable:
+The required amount of memory is assigned first. Then, it is stored based on the data structure being used. Using concepts like dynamic allocation ensures high efficiency and that the storage units can be accessed based on requirements in real-time."
 }  
 ]
