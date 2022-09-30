@@ -9,9 +9,7 @@ This repository  provides interview questions covering fundamentals, behaviour, 
 
 # BEGIN YOUR PULL REQUEST
 {
- "id" : "611",
-
- "question" : "Who is your favourite actor?",
-
- "answerLink" : "Ram Arjun"
-}
+        "id" : "722",
+        "question" : "How To build resume",
+        "answerLink" : "https://www.indeed.com/carr0er/how-to-build-resume"
+ }, 
