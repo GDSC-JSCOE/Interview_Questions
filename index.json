@@ -293,6 +293,7 @@
         "question" : "Why Do You Want To Work Here?",
         "answerLink" : "I like your working ideology and also this company have great vision and mission for future"
     }, 
+
      {
         "id" : "55",
         "question" : "Describe the team forming process you follow in project management. ",
@@ -323,7 +324,15 @@
         "question" : "How would you motivate your team as the project deadline approaches?",
         "answerLink" : ""
     },
+
+    {
+        "id" : "61",
+        "question" : "What are the primary components of a computer system?",
+        "answerLink" : "https://www.indeed.com/career-advice/interviewing/computer-science-interview-questions"
+    }, 
     
+    
+        
     
     
     
