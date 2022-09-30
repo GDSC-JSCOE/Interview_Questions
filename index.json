@@ -291,6 +291,7 @@
         "question" : "What are the techniques you may use to define the scope of a project? ",
         "answerLink" : ""
     },
+
      {
         "id" : "53",
         "question" : "How to Introduce Yourself?  ",
@@ -478,11 +479,8 @@
 {
         "id" : "88",
         "question" : "What is the working of timers in JavaScript?",
-        "answerLink" : "Timers are used to execute a piece of code at a set time or repeat the code in a given interval. This is done by using the functions setTimeout, setInterval, and clearInterval.
+        "answerLink" : "Timers are used to execute a piece of code at a set time or repeat the code in a given interval. This is done by using the functions setTimeout, setInterval, and clearInterval."
 
-The setTimeout(function, delay) function is used to start a timer that calls a particular function after the mentioned delay. The setInterval(function, delay) function repeatedly executes the given function in the mentioned delay and only halts when canceled. The clearInterval(id) function instructs the timer to stop.
-
-Timers are operated within a single thread, and thus events might queue up, waiting to be executed. "
     }
 {
     "id" : "85",
@@ -508,5 +506,11 @@ Timers are operated within a single thread, and thus events might queue up, wait
     logic-based creativity to solve a problem from different angles. Programming is fun, programming is an exercise for your brain, 
     programming is a mental sport and when this sport is held on the
     internet involving sports programmer as a contestant, then it is called Competitive Programming. Check what Wikipedia says about"
-}
+},
+
+   {
+        "id" : "88",
+        "question" : "Tell me about a time you demonstrated leadership skills.",
+        "answerLink" : "You don’t have to have a fancy title to act like a leader or demonstrate leadership skills. Think about a time when you headed up a project, took the initiative to propose an alternate process, or helped motivate your team to get something done. Then use the STAR method to tell your interviewer a story, giving enough detail to paint a picture (but not so much that you start rambling) and making sure you spell out the result.In other words, be clear about why you’re telling this particular story and connect all the dots for the interviewer."
+        }
 ]
