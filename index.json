@@ -546,5 +546,10 @@
         "question" : " What are the CSS frameworks?",
         "answerLink" : "https://elementor.com/resources/glossary/what-is-a-css-framework/"
     },
+{
+        "id" : "99",
+        "question" : " What are various types of software testing?",
+        "answerLink" : "https://www.interviewbit.com/software-testing-interview-questions/amp//"
+    },
 
 ]
