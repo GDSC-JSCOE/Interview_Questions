@@ -7,6 +7,7 @@
     {
         "id" : "2",
         "question" : "What are your strengths?",
+        "answerLink" : "https://novoresume.com/career-blog/what-is-your-greatest-strength"
         "answerLink" : "https://leverageedu.com/blog/self-introduction-in-interview/"
     }, 
     {
@@ -137,7 +138,8 @@
     {
         "id" : "28",
         "question" : "What are your thoughts about yourself?",
-
+        "answerLink":"https://activechristianity.org/what-do-you-think-about-yourself"
+    },
         "id" : "29",
         "question" : "What are your bad habits?",
         "answerLink" : ""
@@ -223,7 +225,7 @@
 {
         "id" : "42",
         "question" : "What is your strategy for prioritizing the tasks? ",
-        "answerLink" : ""
+        "answerLink" : "https://www.wework.com/ideas/professional-development/creativity-culture/how-to-prioritize-work"
     }, 
     
 {
@@ -241,7 +243,45 @@
         "id" : "45",
         "question" : "Can you tell us an example of a failed project? Have you had any such experiences? ",
         "answerLink" : ""
+    },
+    {
+        "id" : "49",
+        "question" : "How to achieve backwards compatibility while creating enterprise application ",
+        "answerLink" : "https://dzone.com/articles/software-backwards-compatibility-with-reference-to-java"
+    }
+]
     }, 
+        {
+        "id" : "50",
+        "question" : "what is your goals ",
+        "answerLink" : "To gain valuable industry knowledge and experience."
+    }, 
+    
+    {
+        "id" : "46",
+        "question" : "What should I know that’s not on your resume?",
+        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#a1c1bca0-d645-4eba-b3a9-9adac258609a"
+    }, 
+    {
+        "id" : "47",
+        "question" : " What is your strategy to deal with internal conflicts among the team members? ",
+        "answerLink" : "",
+    }, 
+     {
+        "id" : "48",
+        "question" : "Define processes and process groups in a project management framework. ",
+        "answerLink" : ""
+    },
+     {
+        "id" : "49",
+        "question" : "Explain the concept of RAID in project management.",
+        "answerLink" : ""
+    },
+     {
+        "id" : "50",
+        "question" : "What are the techniques you may use to define the scope of a project? ",
+        "answerLink" : ""
+    },
     
     
     
