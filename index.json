@@ -444,27 +444,26 @@
         "answerLink" : "https://en.wikipedia.org/wiki/riddles"}, 
         
         },
-  {
-       "id" : "80",
-        "question" : "Walk me through your resume",
-        "answerLink" : " https://www.themuse.com/advice/interview-questions-and-answers."
-   },
-
- {
-        "id" : "81",
-        "question" : "It always shines ",
-        "answerLink" : "https://en.wikipedia.org/wiki/riddles"}, 
-        
-        },
         {
-        "id" : "82",
+        "id" : "80",
         "question" : "what is tallest statue in india",
         "answerLink" : "https://en.wikipedia.org/wiki/List_of_the_tallest_statues_in_India "
     }, 
         {
-        "id" : "83",
+        "id" : "81",
         "question" : "7amazing facts in india",
         "answerLink" : "bing.com/images "
+    }, 
+        {
+        "id" : "82",
+        "question" : "How much do you expect to be earning in five years?"
+        "answerLink" : ""
+    },
+ 
+        {
+        "id" : "83",
+        "question" : "Tell Us About 3 Skills you are willing to have?"
+        "answerLink" : ""
     },
 {
         "id" : "84",
@@ -472,10 +471,23 @@
         "answerLink" : "I usually start by making a square grid to list each task I have to complete in order of relevance and priority. Then I complete the most time-consuming tasks first, so I can take my time focusing on getting each element right, depending on the topic of the assignment. If it's a large assignment, such as a research project, this method helps me get the bulk of the project done so I can focus on the little things last. "
     },
 {
-        "id" : "100",
+        "id" : "85",
         "question" : "What is a checkpoint in DBMS?",
-        "answerLink" : "The Checkpoint is a type of mechanism where all the previous logs are removed from the system and permanently stored in the storage disk.There are two ways which can help the DBMS in recovering and maintaining the ACID properties, and they are- maintaining the log of each transaction and maintaining shadow pages. So, when it comes to log based recovery system, checkpoints come into existence. Checkpoints are those points to which the database engine can recover after a crash as a specified minimal point from where the transaction log record can be used to recover all the committed data up to the point of the crash.
-"
+        "answerLink" : "The Checkpoint is a type of mechanism where all the previous logs are removed from the system and permanently stored in the storage disk.There are two ways which can help the DBMS in recovering and maintaining the ACID properties, and they are- maintaining the log of each transaction and maintaining shadow pages. So, when it comes to log based recovery system, checkpoints come into existence. Checkpoints are those points to which the database engine can recover after a crash as a specified minimal point from where the transaction log record can be used to recover all the committed data up to the point of the crash."
+        "id" : "85",
+        "question" : "What is that?",
+        "answerLink" : "Sir/Madam that is a demontrative program."
     },
 
+    {  "id" : "86",
+        "question" : "what is competitive programming? ",
+        "answerLink" : " Programming… Competitive Programming… It teaches you how to think?
+    If you are a programmer, you might have understood the deep meaning of these lines quoted by
+    Steve Jobs and you might have also experienced that even after shutting down your computer you keep on thinking 
+    about programming stuff or code you have written in your project. Once you enter in programming you just don’t
+    learn how to code but you also learn the “art of thinking”, by breaking your code into smaller chunks and then using your 
+    logic-based creativity to solve a problem from different angles. Programming is fun, programming is an exercise for your brain, 
+    programming is a mental sport and when this sport is held on the
+    internet involving sports programmer as a contestant, then it is called Competitive Programming. Check what Wikipedia says about"
+}
 ]
