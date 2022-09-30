@@ -470,6 +470,20 @@
         "id" : "84",
         "question" : "How do you manage your priorities to meet deadlines?",
         "answerLink" : "I usually start by making a square grid to list each task I have to complete in order of relevance and priority. Then I complete the most time-consuming tasks first, so I can take my time focusing on getting each element right, depending on the topic of the assignment. If it's a large assignment, such as a research project, this method helps me get the bulk of the project done so I can focus on the little things last. "
+    },
+{
+        "id" : "87",
+        "question" : "What is the use of isNAN function in Javascript?",
+        "answerLink" : "isNan function returns true if the argument is not a number; otherwise, it is false. "
+    }
+{
+        "id" : "88",
+        "question" : "What is the working of timers in JavaScript?",
+        "answerLink" : "Timers are used to execute a piece of code at a set time or repeat the code in a given interval. This is done by using the functions setTimeout, setInterval, and clearInterval.
+
+The setTimeout(function, delay) function is used to start a timer that calls a particular function after the mentioned delay. The setInterval(function, delay) function repeatedly executes the given function in the mentioned delay and only halts when canceled. The clearInterval(id) function instructs the timer to stop.
+
+Timers are operated within a single thread, and thus events might queue up, waiting to be executed. "
     }
 
 ]
