@@ -13,3 +13,9 @@
                           a-App launch request
                           b-Conversion of the .dex code to native OAT format"
     }, 
+    {
+        "id" : "27",
+        "question" : "What can you bring to the company?",
+        "answerLink" : "Well, I’m currently an account executive at Smith, where I handle our top-performing client."
+    }, 
+            ]
