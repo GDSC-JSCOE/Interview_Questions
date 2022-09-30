@@ -242,6 +242,12 @@
         "question" : "Can you tell us an example of a failed project? Have you had any such experiences? ",
         "answerLink" : ""
     }, 
+        {
+        "id" : "50",
+        "question" : "what is your goals ",
+        "answerLink" : "To gain valuable industry knowledge and experience."
+    }, 
+    
     {
         "id" : "69",
         "question" : "What should I know that’s not on your resume?",
