@@ -422,4 +422,8 @@
         "id" : "75",
         "question" : "It is always with us,but can't catch it? ",
         "answerLink" : "https://en.wikipedia.org/wiki/puzzles"}, 
+{
+        "id" : "76",
+        "question" : "What are you looking for in a candidate? ",
+        "answerLink" : "https://careers.orkla.com/content/What-we-look-for-in-a-candidate/?locale=en_GB"},
 ]
