@@ -532,8 +532,7 @@
         "id" : "96",
         "question" : "How do you stay organised?",
         "answerLink" : "My digital planner helps me stay organized. Each morning, I look through my planner, updating it based on my priorities for the day. It has all kinds of helpful features, such as event reminders and color-coding. I can also sync my work calendars to it, helping me stay organized wherever I am."
-}
-=======
+
     },
 
     {
@@ -552,7 +551,23 @@
         "id" : "99",
         "question" : " What are the CSS frameworks?",
         "answerLink" : "https://elementor.com/resources/glossary/what-is-a-css-framework/"
-    }
+    },
+{
+        "id" : "100",
+        "question" : " What are various types of software testing?",
+        "answerLink" : "https://www.interviewbit.com/software-testing-interview-questions/amp//"
+    },
 
+    {
+        "id" : "101",
+        "question" : "Why do you want this job?",
+        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#5f5efff9-ad20-450a-a9d3-5f7891e5351d"
+    },
+
+    {
+        "id" : "102",
+        "question" : " What are your salary expectations?",
+        "answerLink" : "https://in.indeed.com/career-advice/interviewing/how-to-answer-your-expected-ctc"
+    },
 
 ]
