@@ -578,4 +578,9 @@
         "question" : " What are your salary expectations?",
         "answerLink" : "https://in.indeed.com/career-advice/interviewing/how-to-answer-your-expected-ctc"
     },
+{
+        "id" : "105",
+        "question" : "How much are you excited in joining our company , Rate from 1 to 10",
+        "answerLink" : " 10 "
+    }
 ]
