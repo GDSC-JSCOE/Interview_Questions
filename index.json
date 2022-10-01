@@ -536,7 +536,7 @@
     }
 
 {
-        "id" : "96",
+        "id" : "97",
         "question" : "Where do you see yourself in 5 years?",
         "answerLink" : "https://novoresume.com/career-blog/where-do-you-see-yourself-in-5-years"
     },
@@ -553,22 +553,29 @@
     },
 
     {
-        "id" : "99",
+        "id" : "100",
         "question" : "Why do you want this job?",
         "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#5f5efff9-ad20-450a-a9d3-5f7891e5351d"
     },
 
-    {
-        "id" : "99",
-        "question" : " What are your salary expectations?",
-        "answerLink" : "https://in.indeed.com/career-advice/interviewing/how-to-answer-your-expected-ctc"
-    },
  {
-        "id" : "100",
+        "id" : "101",
         "question" : " Walk me through your resume?",
         "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers"
     },
+    {
+        "id" : "102",
+        "question" : " What’s your management style?",
+        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#dae393b3-8a62-4e3f-bf20-5ae6f6ece704"
+{
+        "id" : "103",
+        "question" : "tell me about a time you failed.",
+        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#1f04964d-0b49-41ec-9b0c-d79a9b57bad0"
+    },
 
-
-
+    {
+        "id" : "104",
+        "question" : " What are your salary expectations?",
+        "answerLink" : "https://in.indeed.com/career-advice/interviewing/how-to-answer-your-expected-ctc"
+    },
 ]
