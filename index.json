@@ -547,11 +547,11 @@
         "answerLink" : "https://novoresume.com/career-blog/where-do-you-see-yourself-in-5-years"
     },
 
-    {
+ {
         "id" : "99",
-        "question" : " What are the CSS frameworks?",
-        "answerLink" : "https://elementor.com/resources/glossary/what-is-a-css-framework/"
-    },
+        "question" : "Which tech you refer in future?",
+        "answerLink" : "WEB 3.0, blockchain and NFT is the future"
+    }, 
 {
         "id" : "100",
         "question" : " What are various types of software testing?",
@@ -569,5 +569,9 @@
         "question" : " What are your salary expectations?",
         "answerLink" : "https://in.indeed.com/career-advice/interviewing/how-to-answer-your-expected-ctc"
     },
-
+ {
+        "id" : "103",
+        "question" : " What are the CSS frameworks?",
+        "answerLink" : "https://elementor.com/resources/glossary/what-is-a-css-framework/"
+    },
 ]
