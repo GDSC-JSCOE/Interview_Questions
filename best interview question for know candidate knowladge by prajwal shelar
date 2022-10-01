@@ -44,5 +44,27 @@ ans: - A tree is a nonlinear hierarchical data structure that consists of nodes 
     "question":Explain the process behind storing a variable in memory.
 ans: - A variable is stored in memory based on the amount of memory that is needed. Following are the steps followed to store a variable:
 The required amount of memory is assigned first. Then, it is stored based on the data structure being used. Using concepts like dynamic allocation ensures high efficiency and that the storage units can be accessed based on requirements in real-time."
-}  
+},
+
+    {
+        "id" : "7",
+        "question" : "What is an API and how does it work?",
+        "answerLink" : "Application programming interfaces, or APIs, simplify software development 
+			                  and innovation by enabling applications to exchange data and functionality
+		                    easily and securely.
+			                  An API is a set of defined rules that explain how computers or applications 
+			                  communicate with one another(Typically these rules are documented in an API
+		                    specification). APIs sit between an application and the web server, acting 
+			                  as an intermediary layer that processes data transfer between systems.
+			                  Here’s how an API works:
+
+			                  1. A client application initiates an API call to retrieve information—also
+			                     known as a request.This request is processed from an application to the 
+			                     web server via the API’s Uniform Resource Identifier (URI) and includes
+			                     a request verb, headers, and sometimes, a request body.
+			                  2. After receiving a valid request, the API makes a call to the external 
+			                     program or web server.
+			                  3. The server sends a response to the API with the requested information.
+			                  4. The API transfers the data to the initial requesting application."
+    }, 
 ]
