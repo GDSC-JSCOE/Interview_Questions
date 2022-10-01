@@ -578,4 +578,9 @@
         "question" : " What are your salary expectations?",
         "answerLink" : "https://in.indeed.com/career-advice/interviewing/how-to-answer-your-expected-ctc"
     },
+    {
+        "id" : "105",
+        "question" : "  What are the biggest challenges of working on the front end of an application?",
+        "answerLink" : "https://www.vivantatechnologies.com/challenges-in-front-end-designing"
+    },
 ]
