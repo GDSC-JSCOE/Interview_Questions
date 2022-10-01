@@ -527,29 +527,51 @@
         "id" : "95",
         "question" : "What’s your management style?",
         "answerLink" : "Management style is so hard to put your finger on, but I think in general a good manager gives clear directions and actually stays pretty hands-off, but is ready and available to jump in to offer guidance, expertise, and help when needed. I try my best to make that my management style. I also go out of my way to make sure I know when my team needs help. That means plenty of informal check-ins, both on the work they’re doing and on their general job satisfaction and mental well-being."
+    }, 
+{
+        "id" : "96",
+        "question" : "How do you stay organised?",
+        "answerLink" : "My digital planner helps me stay organized. Each morning, I look through my planner, updating it based on my priorities for the day. It has all kinds of helpful features, such as event reminders and color-coding. I can also sync my work calendars to it, helping me stay organized wherever I am."
+
     },
 
     {
-        "id" : "96",
+        "id" : "97",
         "question" : "What’s your management style?",
         "answerLink" : "https://www.indiabix.com/hr-interview/where-do-you-see-yourself-five-years-from-now/"
-    }
+    },
 
 {
-        "id" : "96",
+        "id" : "98",
         "question" : "Where do you see yourself in 5 years?",
         "answerLink" : "https://novoresume.com/career-blog/where-do-you-see-yourself-in-5-years"
     },
 
-    {
-        "id" : "98",
-        "question" : " What are the CSS frameworks?",
-        "answerLink" : "https://elementor.com/resources/glossary/what-is-a-css-framework/"
-    },
  {
         "id" : "99",
         "question" : "Which tech you refer in future?",
         "answerLink" : "WEB 3.0, blockchain and NFT is the future"
     }, 
+{
+        "id" : "100",
+        "question" : " What are various types of software testing?",
+        "answerLink" : "https://www.interviewbit.com/software-testing-interview-questions/amp//"
+    },
 
+    {
+        "id" : "101",
+        "question" : "Why do you want this job?",
+        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#5f5efff9-ad20-450a-a9d3-5f7891e5351d"
+    },
+
+    {
+        "id" : "102",
+        "question" : " What are your salary expectations?",
+        "answerLink" : "https://in.indeed.com/career-advice/interviewing/how-to-answer-your-expected-ctc"
+    },
+ {
+        "id" : "103",
+        "question" : " What are the CSS frameworks?",
+        "answerLink" : "https://elementor.com/resources/glossary/what-is-a-css-framework/"
+    },
 ]
