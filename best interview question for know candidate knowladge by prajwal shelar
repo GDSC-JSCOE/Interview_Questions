@@ -67,4 +67,13 @@ The required amount of memory is assigned first. Then, it is stored based on the
 			                  3. The server sends a response to the API with the requested information.
 			                  4. The API transfers the data to the initial requesting application."
     }, 
+    {
+    "id":"8",
+    "question":"what is Event Delegation?",
+    "answerLink":"Event delegation is a technique involving adding event listeners to a parent element instead of adding them to the descendant elements. The listener will fire whenever the event is triggered on the descendant elements due to event bubbling up the DOM. The benefits of this technique are:
+
+Memory footprint goes down because only one single handler is needed on the parent element, rather than having to attach event handlers on each descendant.
+There is no need to unbind the handler from elements that are removed and to bind the event for new elements."
+    },
+    
 ]
