@@ -578,4 +578,11 @@
         "question" : " What are your salary expectations?",
         "answerLink" : "https://in.indeed.com/career-advice/interviewing/how-to-answer-your-expected-ctc"
     },
+
+{
+        "id" : "105",
+        "question" : "What is the difference b/w confidence & over confidence?",
+        "answerLink" : "I am going to give my best in the interview to impress the panel, this is confidence. The interviewer is definitely going to hire me, that’s over-confidence. "
+    },
+
 ]
