@@ -557,5 +557,10 @@
         "question" : "Why do you want this job?",
         "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#5f5efff9-ad20-450a-a9d3-5f7891e5351d"
     },
+    {
+        "id" : "100",
+        "question" : " What’s your management style?",
+        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#dae393b3-8a62-4e3f-bf20-5ae6f6ece704"
+    },
 
 ]
