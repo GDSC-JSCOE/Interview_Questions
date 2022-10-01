@@ -578,4 +578,10 @@
         "question" : " What are your salary expectations?",
         "answerLink" : "https://in.indeed.com/career-advice/interviewing/how-to-answer-your-expected-ctc"
     },
+
+    {
+        "id" : "106",
+        "question" : " What is the difference between hard work & smart work?",
+        "answerLink" : "In simple words, Hard work means work and then thinking. Smart work means thinking and then working."
+    },
 ]
