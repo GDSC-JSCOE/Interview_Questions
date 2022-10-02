@@ -522,7 +522,8 @@
     {
         "id": "102",
         "question": " What's your management style?",
-        "answerLink": "https://www.themuse.com/advice/interview-questions-and-answers#dae393b3-8a62-4e3f-bf20-5ae6f6ece704",
+        "answerLink": "https://www.themuse.com/advice/interview-questions-and-answers#dae393b3-8a62-4e3f-bf20-5ae6f6ece704",},
+        {
         "id": "103",
         "question": "tell me about a time you failed.",
         "answerLink": "https://www.themuse.com/advice/interview-questions-and-answers#1f04964d-0b49-41ec-9b0c-d79a9b57bad0"
@@ -556,5 +557,18 @@
         "id": "109",
         "question": "  What are the biggest challenges of working on the front end of an application?",
         "answerLink": "https://www.vivantatechnologies.com/challenges-in-front-end-designing"
-    }
-]
+    },
+
+    {
+        "id" : "110",
+        "question" : "  What’s your work style?",
+        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#1f0901e8-e40a-44ea-ad0e-5905cb4828c0"
+    },
+    
+    
+    
+    
+    
+    
+    ]
+
