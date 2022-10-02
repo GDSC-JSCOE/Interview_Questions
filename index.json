@@ -578,9 +578,7 @@
     {
         "id" : "113",
         "question" : "  Tell me something about transformers",
-        "answerLink" : "There ar etwo kind of transformers
-                        1. Step up transformer - These transformers are used in increasing the current supplied.
-                        2. Step down transformer - These trnasformers are used in decreasing the current supplied."
+        "answerLink" : "There are two kind of transformers Step up transformer - These transformers are used in increasing the current supplied and Step down transformer - These trnasformers are used in decreasing the current supplied."
     },
     {
         "id" : "113",
