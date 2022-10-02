@@ -565,6 +565,33 @@
         "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#1f0901e8-e40a-44ea-ad0e-5905cb4828c0"
     },
     
+    {
+        "id" : "111",
+        "question" : "  What is kirchhoff's law ?",
+        "answerLink" : "The voltage around a loop equals the sum of every voltage drop in the same loop for any closed network and equals zero."
+    },
+    {
+        "id" : "112",
+        "question" : "  What is newton's third law?",
+        "answerLink" : "Every action has equal and opposite reaction."
+    },
+    {
+        "id" : "113",
+        "question" : "  Tell me something about transformers",
+        "answerLink" : "There ar etwo kind of transformers
+                        1. Step up transformer - These transformers are used in increasing the current supplied.
+                        2. Step down transformer - These trnasformers are used in decreasing the current supplied."
+    },
+    {
+        "id" : "113",
+        "question" : "  What is the full form for SDLC?",
+        "answerLink" : "The full form for SDLC is Software development life-cycle"
+    },
+    {
+        "id" : "114",
+        "question" : "  Explain SDLC",
+        "answerLink" : "https://www.tutorialspoint.com/sdlc/sdlc_overview.htm"
+    },
     
     
     
