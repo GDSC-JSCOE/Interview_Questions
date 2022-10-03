@@ -581,16 +581,20 @@
         "answerLink" : "There are two kind of transformers Step up transformer - These transformers are used in increasing the current supplied and Step down transformer - These trnasformers are used in decreasing the current supplied."
     },
     {
-        "id" : "113",
+        "id" : "114",
         "question" : "  What is the full form for SDLC?",
         "answerLink" : "The full form for SDLC is Software development life-cycle"
     },
     {
-        "id" : "114",
+        "id" : "115",
         "question" : "  Explain SDLC",
         "answerLink" : "https://www.tutorialspoint.com/sdlc/sdlc_overview.htm"
     },
-    
+   {
+        "id" : "116",
+        "question" : "Top 25+ JavaScript Interview Questions You Must Prepare in 2022",
+        "answerLink" : "https://www.dotnettricks.com/learn/javascript/javascript-interview-questions"
+    },    
     
     
     
