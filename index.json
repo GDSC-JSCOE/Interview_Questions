@@ -300,7 +300,8 @@
     {
         "id": "58",
         "question": "What’s your leadership style?",
-        "answerLink": ""
+        "answerLink": "My leadership style is a servant leadership style. I put the needs of my team first to help them develop and perform as highly as possible. I am there to make their job easier."
+        "answerLink": "I would describe my leadership style as direct, and leading by example"
     },
     {
         "id": "59",
@@ -610,9 +611,14 @@
         "id" : "117",
         "question" : "Your 2022 Guide to the Most Common Interview Questions and Answers",
         "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers"
-    }
     
     
+    },
+   {
+        "id" : "118",
+        "question" : "What is Virtual DOM?",
+        "answerLink" : "The Virtual DOM is the lightweight version of the Real DOM that React retains in memory. Because nothing is drawn on the screen when processing Real DOM, it is substantially slower than handling virtual DOM. When an object's state changes, Virtual DOM updates only that object in the real DOM rather than all of them."
+    }    
     
     ]
 
