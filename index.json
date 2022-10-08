@@ -610,9 +610,7 @@
     {
         "id" : "117",
         "question" : "Your 2022 Guide to the Most Common Interview Questions and Answers",
-        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers"
-    
-    
+        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers"        
     },
    {
         "id" : "118",
@@ -620,11 +618,39 @@
         "answerLink" : "The Virtual DOM is the lightweight version of the Real DOM that React retains in memory. Because nothing is drawn on the screen when processing Real DOM, it is substantially slower than handling virtual DOM. When an object's state changes, Virtual DOM updates only that object in the real DOM rather than all of them."
     },
     {
-        "id":"119",
+        "id" : "119"
+        "question" : "Can you work under pressure?"
+        "answerLink" : "Yes! I can do job under pressure. I will overcome pressure by Perfect and proper planning so that it doesn’t lead the work to the pressure."
+    },
+
+    {
+        "id" : "120",
+        "question" : "Why did you leave your last job?",
+        "answerLink" : "In my last workplace, I didnt have the scope to grow in my field anymore hence I needed a new work environment to upgrade my skills."
+        
+    },    
+    {
+        "id" : "121",
+        "question" : "What is Dangling Pointers?",
+        "answerLink" : "https://www.javatpoint.com/dangling-pointers-in-c"
+    },
+ 
+        "id": "122",
+        "question": "What can you bring to the company?",
+        "answerLink": "https://www.themuse.com/advice/interview-questions-and-answers"
+    },
+ {
+        "id" : "123",
+        "question" : "What is object-oriented programming(OOP)?",
+        "answerLink" : "https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP"
+        
+    } ,     
+ {
+        "id":"124",
         "question":"Tell me about microservers?",
         "answerLink":"https://aws.amazon.com/microservices/#:~:text=Microservices%20are%20an%20architectural%20and,small%2C%20self%2Dcontained%20teams."
-    }
-
+    }    
+    
     
     ]
 
