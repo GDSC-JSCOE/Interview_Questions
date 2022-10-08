@@ -610,9 +610,7 @@
     {
         "id" : "117",
         "question" : "Your 2022 Guide to the Most Common Interview Questions and Answers",
-        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers"
-    
-    
+        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers"        
     },
    {
         "id" : "118",
@@ -621,10 +619,21 @@
     },
 
     {
-        "id" : "119",
+        "id" : "120",
         "question" : "Why did you leave your last job?",
         "answerLink" : "In my last workplace, I didnt have the scope to grow in my field anymore hence I needed a new work environment to upgrade my skills."
     }    
+    },    
+    {
+        "id" : "121",
+        "question" : "What is Dangling Pointers?",
+        "answerLink" : "https://www.javatpoint.com/dangling-pointers-in-c"
+    },
+ 
+        "id": "122",
+        "question": "What can you bring to the company?",
+        "answerLink": "https://www.themuse.com/advice/interview-questions-and-answers"
+    },
     
     ]
 
