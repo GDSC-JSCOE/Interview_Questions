@@ -618,7 +618,11 @@
         "id" : "118",
         "question" : "What is Virtual DOM?",
         "answerLink" : "The Virtual DOM is the lightweight version of the Real DOM that React retains in memory. Because nothing is drawn on the screen when processing Real DOM, it is substantially slower than handling virtual DOM. When an object's state changes, Virtual DOM updates only that object in the real DOM rather than all of them."
-    }    
-    
+    },    
+    {
+        "id" : "119",
+        "question" : "What is Dangling Pointers?",
+        "answerLink" : "https://www.javatpoint.com/dangling-pointers-in-c"
+    },
     ]
 
