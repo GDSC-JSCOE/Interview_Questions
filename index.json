@@ -661,6 +661,12 @@
         "question": "How you will swap two number without using 3rd variable ?",
         "answerLink": "https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/"
     }
+ ,
+    {
+        "id": "127",
+        "question":  "Why are you interested in this job?",
+        "answerLink": "https://www.interviewbit.com/computer-science-interview-questions/#:~:text=in%20my%20profession.-,49.%20why%20are%20you%20interested%20in%20this%20job,-(related%20to%20CS"
+    }
     
     
     ]
