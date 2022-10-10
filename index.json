@@ -724,6 +724,11 @@
         "question":  "Why are you interested in this job?",
         "answerLink": "https://www.interviewbit.com/computer-science-interview-questions/#:~:text=in%20my%20profession.-,49.%20why%20are%20you%20interested%20in%20this%20job,-(related%20to%20CS"
     },
-
+{
+        "id": "138",
+        "question": "What are the Pillars of OOPS?",
+        "answerLink": "https://www.codingninjas.com/codestudio/library/four-pillars-of-oops"
+    
+    },
     ]
 
