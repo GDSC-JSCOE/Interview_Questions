@@ -661,11 +661,12 @@
         "question": "How you will swap two number without using 3rd variable ?",
         "answerLink": "https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/"
     },
-  {
+   {
         "id": "127",
-        "question": " How do you deal with pressure or stressful situations?",
-        "answerLink": "I realize stressful situation are always going to come up, and I definitely have had to learn how to navigate them throughout my career. I think I get better at it with every new experience."
+        "question": "Top 25 Technical Support Interview Questions With Answers",
+        "answerLink": "https://www.softwaretestinghelp.com/technical-support-interview-questions/"
     },
+
     {
         "id": "128",
         "question": "What kind of culture are you looking for in a company?",
@@ -725,8 +726,7 @@
 {
         "id": "138",
         "question": "What are the Pillars of OOPS?",
-        "answerLink": "https://www.codingninjas.com/codestudio/library/four-pillars-of-oops"
-    
+        "answerLink": "https://www.codingninjas.com/codestudio/library/four-pillars-of-oops"    
     },
        {
         "id": "139",
@@ -738,7 +738,7 @@
         "question": "How do you build a random forest model?",
         "answerLink": "https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions"
     },
-    
+
     {
         "id": "141",
         "question": "Do you value creativity or efficiency more??",
@@ -753,6 +753,11 @@
         "id": "143",
         "question": "Where do you see yourself in 5 years?",
         "answerLink": "https://novoresume.com/career-blog/where-do-you-see-yourself-in-5-years"
+    },
+     {
+        "id": "144",
+        "question": " How do you deal with pressure or stressful situations?",
+        "answerLink": "I realize stressful situation are always going to come up, and I definitely have had to learn how to navigate them throughout my career. I think I get better at it with every new experience."
     },
     ]
 
