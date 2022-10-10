@@ -661,6 +661,7 @@
         "question": "How you will swap two number without using 3rd variable ?",
         "answerLink": "https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/"
     },
+    
     {
         "id": "127",
         "question": "Where do you see yourself in 5 years?",
@@ -740,13 +741,17 @@
         "id": "140",
         "question": "How do you build a random forest model?",
         "answerLink": "https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions"
-
     },
     
     {
         "id": "141",
         "question": "Do you value creativity or efficiency more??",
         "answerLink": "I value creativity more than efficiency as creativity will uplift the company to new heights with never seen before ideas and efficiency will only speed up that growth."
+    },
+    {
+        "id": "142",
+        "question": "Where Do You See Yourself Five Years From Now?",
+        "answerLink": "https://www.naukri.com/blog/where-do-you-see-yourself-five-years-from-now-sample-answers-to-this-hr-interview-question-utm_source-naukri-utm_medium-undefined-utm_campaign-naukri_blogs/"
     },
     ]
 
