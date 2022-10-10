@@ -660,39 +660,70 @@
         "id": "126",
         "question": "How you will swap two number without using 3rd variable ?",
         "answerLink": "https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/"
-    }
+    },
+
     {
         "id": "127",
+        "question": "Do you value creativity or efficiency more??",
+        "answerLink": "I value creativity more than efficiency as creativity will uplift the company to new heights with never seen before ideas and efficiency will only speed up that growth."
+    },
+
+    {
+        "id": "128",
+        "question": "What kind of culture are you looking for in a company?",
+        "answerLink": "I am looking for a culture with promotes healthy competition, coordinates with each other at professional as well as personal level and conducts get togethers for bonding with employees."
+    },
+
+    {
+        "id": "129",
+        "question": "What do you bring to our organization that other candidates do not??",
+        "answerLink": "I am confident about my proactive presence and keeping the motivation of the team always up."
+    },
+    
+    {
+        "id": "130",
+        "question": "What will you do if you don't get this job/into this program?",
+        "answerLink": "I would definitely be a little upset about it but I will work on myself and make myself capable for the job"
+    },
+
+    {
+        "id": "131",
+        "question": "Do you view yourself as overqualified for this position/program?",
+        "answerLink": "I do see myself overqualified as I discussed my qualifications and eligibility with my mentors and they recommended it to be perfect for me"
+    },
+
+    {
+        "id": "132",
+        "question": "Do you prefer to work alone or on a team?",
+        "answerLink": "I prefer to work in a team as it distributes the work load and help with making a better finished product/service. We also gets to learn a lot from each other."
+    },
+    
+    {
+        "id" : "133",
+        "question" : "  Explain SDLC",
+        "answerLink" : "https://www.tutorialspoint.com/sdlc/sdlc_overview.htm"
+    },
+   {
+        "id": "134",
+        "question": "How do you want to improve yourself in the next year?",
+        "answerLink": "IN every aspect like relationship with myself and others "
+    },
+    {
+        "id": "135",
         "question": "Tell me about a time where you had to deal with conflict on the job.",
         "answerLink": "Not done any job yet so your company will be the first to experince such a thing"
 
     },
     {
-        "id": "128",
+        "id": "136",
         "question": "Reverse Integer",
         "answerLink": "https://leetcode.com/problems/reverse-integer/"
     },
     {
-        "id": "129",
+        "id": "137",
         "question":  "Why are you interested in this job?",
         "answerLink": "https://www.interviewbit.com/computer-science-interview-questions/#:~:text=in%20my%20profession.-,49.%20why%20are%20you%20interested%20in%20this%20job,-(related%20to%20CS"
     },
 
-    {
-        "id": "130",
-        "question": "What can you do for us that other candidates can't?",
-        "answerLink": "I dont know about others much but ya you can expect that I will be one to be with this company if the same is with the company point of view"
-    },
-    {
-        "id" : "131",
-        "question" : "  Explain SDLC",
-        "answerLink" : "https://www.tutorialspoint.com/sdlc/sdlc_overview.htm"
-    },
-   {
-        "id": "132",
-        "question": "How do you want to improve yourself in the next year?",
-        "answerLink": "IN every aspect like relationship with myself and others "
-    },
-    
     ]
 
