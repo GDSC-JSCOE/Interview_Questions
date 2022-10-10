@@ -660,7 +660,6 @@
         "id": "126",
         "question": "How you will swap two number without using 3rd variable ?",
         "answerLink": "https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/"
-    
     },
 
     {
@@ -735,6 +734,13 @@
         "id": "139",
         "question": "Features of Java?",
         "answerLink": "https://www.javatpoint.com/features-of-java" 
+    },
+    
+  {
+        "id": "140",
+        "question": "How do you build a random forest model?",
+        "answerLink": "https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions"
+
     },
     ]
 
