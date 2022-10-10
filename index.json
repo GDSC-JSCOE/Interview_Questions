@@ -660,7 +660,43 @@
         "id": "126",
         "question": "How you will swap two number without using 3rd variable ?",
         "answerLink": "https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/"
-    }
+    },
+
+    {
+        "id": "127",
+        "question": "Do you value creativity or efficiency more??",
+        "answerLink": "I value creativity more than efficiency as creativity will uplift the company to new heights with never seen before ideas and efficiency will only speed up that growth."
+    },
+
+    {
+        "id": "128",
+        "question": "What kind of culture are you looking for in a company?",
+        "answerLink": "I am looking for a culture with promotes healthy competition, coordinates with each other at professional as well as personal level and conducts get togethers for bonding with employees."
+    },
+
+    {
+        "id": "129",
+        "question": "What do you bring to our organization that other candidates do not??",
+        "answerLink": "I am confident about my proactive presence and keeping the motivation of the team always up."
+    },
+
+    {
+        "id": "130",
+        "question": "What will you do if you don't get this job/into this program?",
+        "answerLink": "I would definitely be a little upset about it but I will work on myself and make myself capable for the job"
+    },
+
+    {
+        "id": "131",
+        "question": "Do you view yourself as overqualified for this position/program?",
+        "answerLink": "I do see myself overqualified as I discussed my qualifications and eligibility with my mentors and they recommended it to be perfect for me"
+    },
+
+    {
+        "id": "132",
+        "question": "Do you prefer to work alone or on a team?",
+        "answerLink": "I prefer to work in a team as it distributes the work load and help with making a better finished product/service. We also gets to learn a lot from each other."
+    },
     
     
     ]
