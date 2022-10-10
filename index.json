@@ -661,14 +661,11 @@
         "question": "How you will swap two number without using 3rd variable ?",
         "answerLink": "https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/"
     },
-    
-    {
+  {
         "id": "127",
-        "question": "Where do you see yourself in 5 years?",
-        "answerLink": "https://novoresume.com/career-blog/where-do-you-see-yourself-in-5-years"
+        "question": " How do you deal with pressure or stressful situations?",
+        "answerLink": "I realize stressful situation are always going to come up, and I definitely have had to learn how to navigate them throughout my career. I think I get better at it with every new experience."
     },
-
-
     {
         "id": "128",
         "question": "What kind of culture are you looking for in a company?",
@@ -736,7 +733,6 @@
         "question": "Features of Java?",
         "answerLink": "https://www.javatpoint.com/features-of-java" 
     },
-    
   {
         "id": "140",
         "question": "How do you build a random forest model?",
@@ -752,6 +748,11 @@
         "id": "142",
         "question": "Where Do You See Yourself Five Years From Now?",
         "answerLink": "https://www.naukri.com/blog/where-do-you-see-yourself-five-years-from-now-sample-answers-to-this-hr-interview-question-utm_source-naukri-utm_medium-undefined-utm_campaign-naukri_blogs/"
+    },
+      {
+        "id": "143",
+        "question": "Where do you see yourself in 5 years?",
+        "answerLink": "https://novoresume.com/career-blog/where-do-you-see-yourself-in-5-years"
     },
     ]
 
