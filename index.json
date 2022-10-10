@@ -660,11 +660,12 @@
         "id": "126",
         "question": "How you will swap two number without using 3rd variable ?",
         "answerLink": "https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/"
-    },
+    }
     {
         "id": "127",
-        "question": "How do you want to improve yourself in the next year?",
-        "answerLink": "IN every aspect like relationship with myself and others "
+        "question": "Tell me about a time where you had to deal with conflict on the job.",
+        "answerLink": "Not done any job yet so your company will be the first to experince such a thing"
+
     },
     {
         "id": "128",
@@ -687,7 +688,11 @@
         "question" : "  Explain SDLC",
         "answerLink" : "https://www.tutorialspoint.com/sdlc/sdlc_overview.htm"
     },
-
+   {
+        "id": "132",
+        "question": "How do you want to improve yourself in the next year?",
+        "answerLink": "IN every aspect like relationship with myself and others "
+    },
     
     ]
 
