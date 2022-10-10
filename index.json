@@ -230,7 +230,7 @@
     {
         "id": "44",
         "question": "Suppose the project has gone off the rails. What steps would you take to get it back on track? ",
-        "answerLink": ""
+        "answerLink": "1) Acknowledge that things aren't going so great. 2) Reevaluate the project's core objectives. 3) Audit your team's communication channels. 4) Schedule one-on-one meetings with team members. 5) Address stakeholder concerns. 6) Learn from it."
     },
     {
         "id": "45",
@@ -660,14 +660,93 @@
         "id": "126",
         "question": "How you will swap two number without using 3rd variable ?",
         "answerLink": "https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/"
-    }
-,
+    },
     {
         "id": "127",
         "question": "Where do you see yourself in 5 years?",
         "answerLink": "https://novoresume.com/career-blog/where-do-you-see-yourself-in-5-years"
-    }
+    },
+
+
+    {
+        "id": "128",
+        "question": "What kind of culture are you looking for in a company?",
+        "answerLink": "I am looking for a culture with promotes healthy competition, coordinates with each other at professional as well as personal level and conducts get togethers for bonding with employees."
+    },
+
+    {
+        "id": "129",
+        "question": "What do you bring to our organization that other candidates do not??",
+        "answerLink": "I am confident about my proactive presence and keeping the motivation of the team always up."
+    },
     
+    {
+        "id": "130",
+        "question": "What will you do if you don't get this job/into this program?",
+        "answerLink": "I would definitely be a little upset about it but I will work on myself and make myself capable for the job"
+    },
+
+    {
+        "id": "131",
+        "question": "Do you view yourself as overqualified for this position/program?",
+        "answerLink": "I do see myself overqualified as I discussed my qualifications and eligibility with my mentors and they recommended it to be perfect for me"
+    },
+
+    {
+        "id": "132",
+        "question": "Do you prefer to work alone or on a team?",
+        "answerLink": "I prefer to work in a team as it distributes the work load and help with making a better finished product/service. We also gets to learn a lot from each other."
+    },
     
+    {
+        "id" : "133",
+        "question" : "  Explain SDLC",
+        "answerLink" : "https://www.tutorialspoint.com/sdlc/sdlc_overview.htm"
+    },
+   {
+        "id": "134",
+        "question": "How do you want to improve yourself in the next year?",
+        "answerLink": "IN every aspect like relationship with myself and others "
+    },
+    {
+        "id": "135",
+        "question": "Tell me about a time where you had to deal with conflict on the job.",
+        "answerLink": "Not done any job yet so your company will be the first to experince such a thing"
+
+    },
+    {
+        "id": "136",
+        "question": "Reverse Integer",
+        "answerLink": "https://leetcode.com/problems/reverse-integer/"
+    },
+    {
+        "id": "137",
+        "question":  "Why are you interested in this job?",
+        "answerLink": "https://www.interviewbit.com/computer-science-interview-questions/#:~:text=in%20my%20profession.-,49.%20why%20are%20you%20interested%20in%20this%20job,-(related%20to%20CS"
+    },
+{
+        "id": "138",
+        "question": "What are the Pillars of OOPS?",
+        "answerLink": "https://www.codingninjas.com/codestudio/library/four-pillars-of-oops"
+    
+    },
+       {
+        "id": "139",
+        "question": "Features of Java?",
+        "answerLink": "https://www.javatpoint.com/features-of-java" 
+    },
+    
+  {
+        "id": "140",
+        "question": "How do you build a random forest model?",
+        "answerLink": "https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions"
+
+    },
+    
+    {
+        "id": "141",
+        "question": "Do you value creativity or efficiency more??",
+        "answerLink": "I value creativity more than efficiency as creativity will uplift the company to new heights with never seen before ideas and efficiency will only speed up that growth."
+    },
     ]
 
