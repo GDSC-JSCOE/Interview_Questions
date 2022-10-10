@@ -660,8 +660,14 @@
         "id": "126",
         "question": "How you will swap two number without using 3rd variable ?",
         "answerLink": "https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/"
-    }
     
+    }
+     {
+        "id": "202",
+        "question": "Features of Java?",
+        "answerLink": "https://www.javatpoint.com/features-of-java"
+    
+    }
     
     ]
 
