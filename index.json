@@ -230,7 +230,7 @@
     {
         "id": "44",
         "question": "Suppose the project has gone off the rails. What steps would you take to get it back on track? ",
-        "answerLink": ""
+        "answerLink": "1) Acknowledge that things aren't going so great. 2) Reevaluate the project's core objectives. 3) Audit your team's communication channels. 4) Schedule one-on-one meetings with team members. 5) Address stakeholder concerns. 6) Learn from it."
     },
     {
         "id": "45",
@@ -660,12 +660,28 @@
         "id": "126",
         "question": "How you will swap two number without using 3rd variable ?",
         "answerLink": "https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/"
+    },
+    {
+        "id": "127",
+        "question": "2 Sum",
+        "answerLink": "https://leetcode.com/problems/two-sum/"
+    },
+    {
+        "id": "128",
+        "question": "Reverse Integer",
+        "answerLink": "https://leetcode.com/problems/reverse-integer/"
+    },
+    {
+        "id": "129",
+        "question":  "Why are you interested in this job?",
+        "answerLink": "https://www.interviewbit.com/computer-science-interview-questions/#:~:text=in%20my%20profession.-,49.%20why%20are%20you%20interested%20in%20this%20job,-(related%20to%20CS"
     }
     {
-        "id" : "127",
+        "id" : "130",
         "question" : "  Explain SDLC",
         "answerLink" : "https://www.tutorialspoint.com/sdlc/sdlc_overview.htm"
     },
+
     
     ]
 
