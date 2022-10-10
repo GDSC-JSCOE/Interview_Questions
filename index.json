@@ -661,12 +661,11 @@
         "question": "How you will swap two number without using 3rd variable ?",
         "answerLink": "https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/"
     },
-    {
+   {
         "id": "127",
-        "question": "Where do you see yourself in 5 years?",
-        "answerLink": "https://novoresume.com/career-blog/where-do-you-see-yourself-in-5-years"
+        "question": "Top 25 Technical Support Interview Questions With Answers",
+        "answerLink": "https://www.softwaretestinghelp.com/technical-support-interview-questions/"
     },
-
 
     {
         "id": "128",
@@ -727,33 +726,46 @@
 {
         "id": "138",
         "question": "What are the Pillars of OOPS?",
-        "answerLink": "https://www.codingninjas.com/codestudio/library/four-pillars-of-oops"
-    
+        "answerLink": "https://www.codingninjas.com/codestudio/library/four-pillars-of-oops"    
     },
        {
         "id": "139",
         "question": "Features of Java?",
         "answerLink": "https://www.javatpoint.com/features-of-java" 
     },
-    
   {
         "id": "140",
         "question": "How do you build a random forest model?",
         "answerLink": "https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions"
-
     },
-    
+
     {
         "id": "141",
         "question": "Do you value creativity or efficiency more??",
         "answerLink": "I value creativity more than efficiency as creativity will uplift the company to new heights with never seen before ideas and efficiency will only speed up that growth."
     },
-    
-     
+
     {
         "id": "142",
+        "question": "Where Do You See Yourself Five Years From Now?",
+        "answerLink": "https://www.naukri.com/blog/where-do-you-see-yourself-five-years-from-now-sample-answers-to-this-hr-interview-question-utm_source-naukri-utm_medium-undefined-utm_campaign-naukri_blogs/"
+    },
+      {
+        "id": "143",
+        "question": "Where do you see yourself in 5 years?",
+        "answerLink": "https://novoresume.com/career-blog/where-do-you-see-yourself-in-5-years"
+    },
+     {
+        "id": "144",
+        "question": " How do you deal with pressure or stressful situations?",
+        "answerLink": "I realize stressful situation are always going to come up, and I definitely have had to learn how to navigate them throughout my career. I think I get better at it with every new experience."
+    },
+    
+    {
+        "id": "145",
         "question": "Can you tell me about a time when you had to overcome a difficult work challenge?",
         "answerLink": "https://productivity/strategic-interview-questions-to-ask-candidates/"
     },
     
+    ]
 
