@@ -663,12 +663,16 @@
     },
     {
         "id": "127",
-        "question": "How to merge two sorted arrays ?",
-        "answerLink": "https://www.geeksforgeeks.org/merge-two-sorted-arrays/"
-    }
- ,
+        "question": "2 Sum",
+        "answerLink": "https://leetcode.com/problems/two-sum/"
+    },
     {
-        "id": "127",
+        "id": "128",
+        "question": "Reverse Integer",
+        "answerLink": "https://leetcode.com/problems/reverse-integer/"
+    },
+    {
+        "id": "129",
         "question":  "Why are you interested in this job?",
         "answerLink": "https://www.interviewbit.com/computer-science-interview-questions/#:~:text=in%20my%20profession.-,49.%20why%20are%20you%20interested%20in%20this%20job,-(related%20to%20CS"
     }
