@@ -787,4 +787,9 @@
         "question": "What is our CEO/founder’s name?",
         "answerLink": "Thanks for the easy question! In my research, I found that your CEO XYZ has had a lot of volunteer experience. I read that he spent a lot of time with XYZ Foundation, which is impressive to me since I did the same thing a few years ago. I would love to talk with him about his experiences there."
     },
+   {
+        "id": "150",
+        "question": "What's your management style?",
+        "answerLink": "Management style is so hard to put your finger on, but I think in general a good manager gives clear directions and actually stays pretty hands-off, but is ready and available to jump in to offer guidance, expertise, and help when needed. I try my best to make that my management style. I also go out of my way to make sure I know when my team needs help. That means plenty of informal check-ins, both on the work they’re doing and on their general job satisfaction and mental well-being."
+    },
   ]
