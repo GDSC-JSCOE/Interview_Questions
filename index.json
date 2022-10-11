@@ -771,5 +771,9 @@
         "question": "What would you do if your manager gave you a seemingly impossible task with a tight deadline?",
         "answerLink": "Clear your work schedule,Work on it one step at a time,Get help from the beginning,Break the project down,Have a disclaimer in proposals and quotes"
     },
-    
+    {
+        "id": "147",
+        "question": "How do you think your previous managers/coworkers would describe working with you?",
+        "answerLink": "My colleagues would describe me as a natural leader. I often take the lead on projects and facilitate communication between different groups to make sure we’re all on the same page. This is why, in my last job, my boss put me in charge of coordinating projects between our department and two others."
+    },
   ]
