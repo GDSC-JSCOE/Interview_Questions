@@ -760,11 +760,10 @@
         "question": " How do you deal with pressure or stressful situations?",
         "answerLink": "I realize stressful situation are always going to come up, and I definitely have had to learn how to navigate them throughout my career. I think I get better at it with every new experience."
     },
-    
-    {
+     {
         "id": "145",
-        "question": "Can you tell me about a time when you had to overcome a difficult work challenge?",
-        "answerLink": "https://productivity/strategic-interview-questions-to-ask-candidates/"
+        "question": " What can I expect in my first 30/60/90 days on the job?",
+        "answerLink": "first three months of working in a new position. During this time,new employees learn about their specific job duties, company processes and the culture of the organization. "
     },
     
        {
@@ -773,4 +772,4 @@
         "answerLink": "Clear your work schedule,Work on it one step at a time,Get help from the beginning,Break the project down,Have a disclaimer in proposals and quotes"
     },
     
-    
+  ]
