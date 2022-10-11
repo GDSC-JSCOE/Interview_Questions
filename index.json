@@ -787,9 +787,14 @@
         "question": "What is our CEO/founder’s name?",
         "answerLink": "Thanks for the easy question! In my research, I found that your CEO XYZ has had a lot of volunteer experience. I read that he spent a lot of time with XYZ Foundation, which is impressive to me since I did the same thing a few years ago. I would love to talk with him about his experiences there."
     },
-   
    {
         "id": "150",
+        "question": "A horse jumps over a castle, then lands on a man. The man disappears. Wha's happening?",
+        "answerLink": "https://en.wikipedia.org/wiki/Chess"
+    }
+
+   {
+        "id": "151",
         "question": "What motivates you?",
         "answerLink": "https://www.thomsonreuters.com/en/careers/careers-blog/20-ways-employees-are-motivated-by-work.html#:~:text=A%20great%20work%20environment,in%20so%20that%20you%20succeed."
     },
