@@ -766,6 +766,10 @@
         "answerLink": "first three months of working in a new position. During this time,new employees learn about their specific job duties, company processes and the culture of the organization. "
     },
     
+       {
+        "id": "146",
+        "question": "What would you do if your manager gave you a seemingly impossible task with a tight deadline?",
+        "answerLink": "Clear your work schedule,Work on it one step at a time,Get help from the beginning,Break the project down,Have a disclaimer in proposals and quotes"
+    },
     
-    
-
+  ]
