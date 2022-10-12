@@ -1,598 +1,824 @@
 [
     {
-        "id" : "1",
-        "question" : "Introduce Yourself",
-        "answerLink" : "Hi my name is Prathamesh Adinawar , i am currently studying computer engineering at JSCOE(Jaywantrao sawant College of Engineering , and i will be graduated in year 2024 as a fresher )"
-    }, 
-    {
-        "id" : "2",
-        "question" : "What are your strengths?",
-        "answerLink" : "I like problem solving things that are challenging and i also like to develope or Create thinks that will help in Progressing the work faster"
-        "answerLink" : "https://novoresume.com/career-blog/what-is-your-greatest-strength"
-        "answerLink" : "https://leverageedu.com/blog/self-introduction-in-interview/"
-    }, 
-    
-    
-    
-    {
-        "id" : "3",
-        "question" : "What are your weaknesses?",
-        "answerLink" : "Some times i lose my control on time "
-    }, 
-   
-    {
-        "id" : "4",
-        "question" : "Why do you want this job?",
-        "answerLink" : "To gain expertise and earn as much as i can "
-    }, 
-    {
-        "id" : "5",
-        "question" : "Where would you like to be in your career five years from now?",
-        "answerLink" : "To learn and Obseve "
-    }, 
-    {
-        "id" : "6",
-        "question" : "What's your ideal company?",
-        "answerLink" : "Dont know actually but i like Gooogle"
-    }, 
-    {
-        "id" : "7",
-        "question" : "Why should we hire you?",
-        "answerLink" : "My core thing is to do my best in anything no matter what which is needed to be done so i will give my 100%  "
-    }, 
-        {
-        "id" : "8",
-        "question" : "What can you do for us that other candidates can't?",
-        "answerLink" : "I dont know about others much but ya you can expect that i will be one to be with this company if the same is with the company point of view"
-    }, 
-        {
-        "id" : "9",
-        "question" : "Give me an example of a time that you felt you went above and beyond the call of duty at work.",
-        "answerLink" : "I dont actually know i am always consious of what i am doing "
-    }, 
-        {
-        "id" : "10",
-        "question" : "Can you describe a time when your work was criticized?",
-        "answerLink" : "Never happend"
-    }, 
-        {
-        "id" : "11",
-        "question" : "What is your greatest failure, and what did you learn from it?",
-        "answerLink" : "My greatest failure was I was not able to clear Jee Mains exam , But I learnt that Failures are the Keys to success and I worked hard and now I have achieved success in many tasks. we grow from failures "
-    }, 
-        {
-        "id" : "12",
-        "question" : "Tell me about a time where you had to deal with conflict on the job.",
-        "answerLink" : "Not done any job yet so your company will be the first to experince such a thing"
-    }, 
-        {
-        "id" : "13",
-        "question" : "How do you want to improve yourself in the next year?",
-        "answerLink" : "IN every aspect like relationship with myself and others "
-    }, 
-        {
-        "id" : "14",
-        "question" : "How would you describe your work style?",
-        "answerLink" : "Fun and Game type because i love games and because it is the only place where we are open and do over best "
-    }, 
-        {
-        "id" : "15",
-        "question" : "What would be your ideal working environment?",
-        "answerLink" : "With the nature and offcourse an open area"
-    }, 
-        {
-        "id" : "16",
-        "question" : "What techniques and tools do you use to keep yourself organized?",
-        "answerLink" : "No such techniques but i meditate it improves my quality of life in many aspects and dimension to be very pricious "
-    }, 
-        {
-        "id" : "17",
-        "question" : "Tell me about your proudest achievement.",
-        "answerLink" : "I made my own app idea i think it will work well"
-    }, 
-        {
-        "id" : "18",
-        "question" : "Was there a person in your career who really made a difference?",
-        "answerLink" : "Yes many of them the list is to big"
-        "answerLink" : "YES, there is a person my best frd who changed me"
-    }, 
-        {
-        "id" : "19",
-        "question" : "What are you most proud of?",
-        "answerLink" : "That i never Stop make mistakes learn start again thats it"
-    }, 
-        {
-        "id" : "20",
-        "question" : "What are your lifelong dreams?",
-        "answerLink" : "No such thung Just to be better than yesterday"
-    }, 
-        {
-        "id" : "21",
-        "question" : "What are three positive things your last boss would say about you?",
-        "answerLink" : "No Boss No Thinhgs "
-    }, 
-        {
-        "id" : "22",
-        "question" : "List five words that describe your character.",
-        "answerLink" : "Humorous, Humble , Honest"
-    }, 
-        {
-        "id" : "23",
-        "question" : "What is your greatest fear?",
-        "answerLink" : "No such thing "
-    }, 
-        {
-        "id" : "24",
-        "question" : "What is your biggest regret and why?",
-        "answerLink" : "I would have studed my own because every freaking thing about this community is free"
-    }, 
-        {
-        "id" : "25",
-        "question" : "What are the qualities of a good leader? A bad leader?",
-        "answerLink" : "Good leader: works with the Team and Bad leader: Gives the works to the team to let them do there own"
-    }, 
-        {
-        "id" : "26",
-        "question" : "What are your good habits?",
-        "answerLink" : "Gives 100%, Never give up, Supportive"
-    }, 
-        {
-        "id" : "27",
-        "question" : "What are your bad habits?",
-        "answerLink" : "Time wasting sometimes"
-    }, 
-    {
-        "id" : "28",
-        "question" : "What are your thoughts about yourself?",
-        "answerLink" : "Good Humours gives his best thats it",
-        "answerLink":"https://activechristianity.org/what-do-you-think-about-yourself"
-    },
-        {
-    "id" : "29",
-        "question" : "What are your bad habits?",
-        "answerLink" : ""
-    }, 
-    {
-        "id" : "30",
-        "question" : "What are your unique habits?",
-        "answerLink" : "I like to do the things of my own and Curous about almost everything"
-    }, 
-    
-     {
-        "id" : "31",
-        "question" : "What is your tech skills?",
-        "answerLink" : "Good in compitetive coding "
-    }, 
-    {
-
-    "id" : "32",
-
-    "question" : "Do you possess any soft skill ?",
-
-    "answerLink" : "Good in compitative coding"
-    }, 
-    {
-        "id" : "33",
-        "question" : "Which tech you refer in future?",
-        "answerLink" : "WEB 3.0 is the future"
-    }, 
-    
-    {
-
-    "id" : "34",
-
-    "question" : "Why we should hire you ?",
-
-    "answerLink" : "Because i am good at my Skills and techniques"},
-
-   
-    
-     {
-        "id" : "35",
-        "question" : "why you are applying for the job",
-        "answerLink" : "To earn and to be independent "
-
+        "id": "1",
+        "question": "Introduce Yourself",
+        "answerLink": "Hi my name is Prathamesh Adinawar, I am currently studying computer engineering at JSCOE (Jaywantrao sawant College of Engineering , and I will be graduated in year 2024 as a fresher)"
     },
     {
-
-    "id" : "36",
-
-    "question" : "Why we should hire you ?",
-
-    "answerLink" : "Depends on the person"
-},
-     {
-        "id" : "37",
-        "question" : "what can you bring to the company?",
-        "answerLink" : "https://leverageedu.com/blog/self-introduction-in-interview/"
-    }, 
-    
-     {
-        "id" : "38",
-        "question" : "Where do you see yourself after 5 years",
-        "answerLink" : "I see my self as good supporter to a company"
+        "id": "2",
+        "question": "What are your strengths?",
+        "answerLink": "I like problem solving things that are challenging and i also like to develope or Create thinks that will help in Progressing the work faster",
+        "answerLink": "https://novoresume.com/career-blog/what-is-your-greatest-strength",
+        "answerLink": "https://leverageedu.com/blog/self-introduction-in-interview/"
+    },
+    {
+        "id":15",
+        "question":"How would you describe yourself?",
+        "answerLink":"https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers",
     }
-    
-    {
-        "id" : "39",
-        "question" : "Is there anything else you’d like us to know?",
-        "answerLink" : "https://www.themuse.com/advice/how-to-answer-is-there-anything-else-youd-like-us-to-know"
-    }, 
-    
-{
-        "id" : "40",
-        "question" : "Introduce Yourself",
-        "answerLink" : "I am Anurdha.Currently I am studying in 2nd year of engineering from IT department.I am hardworking."
-    }, 
-
-     {
-        "id" : "41",
-        "question" : "How do you define an ideal project? ",
-        "answerLink" : ""
-    }, 
-{
-        "id" : "42",
-        "question" : "What is your strategy for prioritizing the tasks? ",
-        "answerLink" : "https://tickthoseboxes.com.au/what-is-your-strategy-for-prioritizing-the-tasks/"
-        "answerLink" : "https://www.wework.com/ideas/professional-development/creativity-culture/how-to-prioritize-work"
-    }, 
-    
-{
-        "id" : "43",
-        "question" : " Tell us about the most challenging projects you have managed so far? What were the steps you have taken to tackle the challenges? ",
-        "answerLink" : ""
-    }, 
         
-{
-        "id" : "44",
-        "question" : "Suppose the project has gone off the rails. What steps would you take to get it back on track? ",
-        "answerLink" : ""
-    }, 
-    {
-        "id" : "45",
-        "question" : "Can you tell us an example of a failed project? Have you had any such experiences? ",
-        "answerLink" : ""
-    },
-    {
-        "id" : "46",
-        "question" : "How to achieve backwards compatibility while creating enterprise application ",
-        "answerLink" : "https://dzone.com/articles/software-backwards-compatibility-with-reference-to-java"
-    
-
-    }, 
-        {
-        "id" : "47",
-        "question" : "what is your goals ",
-        "answerLink" : "To gain valuable industry knowledge and experience."
-    }, 
-    
-    {
-        "id" : "48",
-        "question" : "What should I know that’s not on your resume?",
-        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#a1c1bca0-d645-4eba-b3a9-9adac258609a"
-    }, 
-    {
-        "id" : "49",
-        "question" : " What is your strategy to deal with internal conflicts among the team members? ",
-        "answerLink" : "",
-    }, 
-     {
-        "id" : "50",
-        "question" : "Define processes and process groups in a project management framework. ",
-        "answerLink" : ""
-    },
-     {
-        "id" : "51",
-        "question" : "Explain the concept of RAID in project management.",
-        "answerLink" : ""
-    },
-     {
-        "id" : "52",
-        "question" : "What are the techniques you may use to define the scope of a project? ",
-        "answerLink" : ""
-    },
-
-     {
-        "id" : "53",
-        "question" : "How to Introduce Yourself?  ",
-        "answerLink" : "https://youtu.be/EzGH3hZuJVk"
-    }, 
-    {
-        "id" : "54",
-        "question" : "Why Do You Want To Work Here?",
-        "answerLink" : "I like your working ideology and also this company have great vision and mission for future"
-    }, 
-
-     {
-        "id" : "55",
-        "question" : "Describe the team forming process you follow in project management. ",
-        "answerLink" : ""
-    },
-    {
-        "id" : "56",
-        "question" : "What do you know about the triple constraint triangle of project management?",
-        "answerLink" : ""
-    },
-     {
-        "id" : "57",
-        "question" : "How will you avoid gold plating?",
-        "answerLink" : ""
-    },
- {
-        "id" : "58",
-        "question" : "What’s your leadership style?",
-        "answerLink" : ""
-    },
- {
-        "id" : "59",
-        "question" : " What project management software do you prefer?",
-        "answerLink" : "Nowadays, JIRA is the most used software when it comes to project management, that and trello. I must say I prefer two of them the most as they are the ones I already am most familiar with and their features are the most intuitive in my opinion."
-    },
- {
-        "id" : "60",
-        "question" : "How would you motivate your team as the project deadline approaches?",
-        "answerLink" : ""
-    },
-
-    {
-        "id" : "61",
-        "question" : "What are the primary components of a computer system?",
-        "answerLink" : "https://www.indeed.com/career-advice/interviewing/computer-science-interview-questions"
-    }, 
-    {
-        "id" : "62",
-        "question" : "What are your hobbies? ",
-        "answerLink" : "https://leverageedu.com/blog/what-are-your-hobbies/"
-    },
-    
-
-    {
-        "id" : "63",
-        "question" :"Why do you want this job?",
-        "answerLink" : "https://youtu.be/ujOUlx0cT6o",
-    } 
         
-     {
-        "id" : "64",
-        "question" : " What are the competitors of TCS globally and in India?",
-        "answerLink" : "Keeping an eye on the current market will definitely help. The key to an impressive answer is sound research, and this also shows the interviewer that you are about the interview as well as the job. For example, Wipro, Mahindra Satyam, Tech Mahindra, Infosys, HCL Tech,  Mphasis, etc "
-    }, 
+    {
+        "id": "3",
+        "question": "What are your weaknesses?",
+        "answerLink": "Some times I lose my control on time"
+    },
+    {
+        "id": "4",
+        "question": "Why do you want this job?",
+        "answerLink": "To gain expertise and earn as much as I can "
+    },
+    {
+        "id": "5",
+        "question": "Where would you like to be in your career five years from now?",
+        "answerLink": "To learn and observe "
+    },
+    {
+        "id": "6",
+        "question": "What's your ideal company?",
+        "answerLink": "Don't know actually but I like Google"
+    },
+    {
+        "id": "7",
+        "question": "Why should we hire you?",
+        "answerLink": "My core thing is to do my best in anything no matter what which is needed to be done so i will give my 100%  "
+    },
+    {
+        "id": "8",
+        "question": "What can you do for us that other candidates can't?",
+        "answerLink": "I dont know about others much but ya you can expect that I will be one to be with this company if the same is with the company point of view"
+    },
+    {
+        "id": "9",
+        "question": "Give me an example of a time that you felt you went above and beyond the call of duty at work.",
+        "answerLink": "I dont actually know I am always consious of what I am doing "
+    },
+    {
+        "id": "10",
+        "question": "Can you describe a time when your work was criticized?",
+        "answerLink": "Never happend"
+    },
+    {
+        "id": "11",
+        "question": "What is your greatest failure, and what did you learn from it?",
+        "answerLink": "My greatest failure was I was not able to clear Jee Mains exam, But I learnt that Failures are the Keys to success and I worked hard and now I have achieved success in many tasks. we grow from failures "
+    },
+    {
+        "id": "12",
+        "question": "Tell me about a time where you had to deal with conflict on the job.",
+        "answerLink": "Not done any job yet so your company will be the first to experince such a thing"
+    },
+    {
+        "id": "13",
+        "question": "How do you want to improve yourself in the next year?",
+        "answerLink": "IN every aspect like relationship with myself and others "
+    },
+    {
+        "id": "14",
+        "question": "How would you describe your work style?",
+        "answerLink": "Fun and Game type because I love games and because it is the only place where we are open and do over best "
+    },
+    {
+        "id": "15",
+        "question": "What would be your ideal working environment?",
+        "answerLink": "With the nature and of course an open area"
+    },
+    {
+        "id": "16",
+        "question": "What techniques and tools do you use to keep yourself organized?",
+        "answerLink": "No such techniques but I meditate it improves my quality of life in many aspects and dimension to be very pricious "
+    },
+    {
+        "id": "17",
+        "question": "Tell me about your proudest achievement.",
+        "answerLink": "I made my own app idea I think it will work well"
+    },
+    {
+        "id": "18",
+        "question": "Was there a person in your career who really made a difference?",
+        "answerLink": "Yes many of them the list is to big",
+        "answerLink": "YES, there is a person my best frd who changed me"
+    },
+    {
+        "id": "19",
+        "question": "What are you most proud of?",
+        "answerLink": "That I never Stop make mistakes learn start again thats it"
+    },
+    {
+        "id": "20",
+        "question": "What are your lifelong dreams?",
+        "answerLink": "No such thung Just to be better than yesterday"
+    },
+    {
+        "id": "21",
+        "question": "What are three positive things your last boss would say about you?",
+        "answerLink": "No Boss No Thinhgs "
+    },
+    {
+        "id": "22",
+        "question": "List five words that describe your character.",
+        "answerLink": "Humorous, Humble, Honest"
+    },
+    {
+        "id": "23",
+        "question": "What is your greatest fear?",
+        "answerLink": "No such thing"
+    },
+    {
+        "id": "24",
+        "question": "What is your biggest regret and why?",
+        "answerLink": "I would have studed my own because every freaking thing about this community is free"
+    },
+    {
+        "id": "25",
+        "question": "What are the qualities of a good leader? A bad leader?",
+        "answerLink": "Good leader: works with the Team and Bad leader: Gives the works to the team to let them do there own"
+    },
+    {
+        "id": "26",
+        "question": "What are your good habits?",
+        "answerLink": "Gives 100%, Never give up, Supportive"
+    },
+    {
+        "id": "27",
+        "question": "What are your bad habits?",
+        "answerLink": "Time wasting sometimes"
+    },
+    {
+        "id": "28",
+        "question": "What are your thoughts about yourself?",
+        "answerLink": "Good Humours gives his best thats it",
+        "answerLink": "https://activechristianity.org/what-do-you-think-about-yourself"
+    },
+    {
+        "id": "29",
+        "question": "What are your bad habits?",
+        "answerLink": "https://www.breakoutofthebox.com/what-are-your-bad-habits-interview-questions/",
+        "answerLink": "https://www.breakoutofthebox.com/what-are-your-bad-habits-interview-question/"
+    },
+    {
+        "id": "30",
+        "question": "What are your unique habits?",
+        "answerLink": "I like to do the things of my own and Curous about almost everything"
+    },
+    {
+        "id": "31",
+        "question": "What is your tech skills?",
+        "answerLink": "Good in compitetive coding "
+    },
+    {
+        "id": "32",
+        "question": "Do you possess any soft skill ?",
+        "answerLink": "Good in competitive coding"
+    },
+    {
+        "id": "33",
+        "question": "Which tech you refer in future?",
+        "answerLink": "WEB 3.0 is the future"
+    },
+    {
+        "id": "34",
+        "question": "Why we should hire you ?",
+        "answerLink": "Because I am good at my Skills and techniques"
+    },
+    {
+        "id": "35",
+        "question": "why you are applying for the job",
+        "answerLink": "To earn and to be independent."
+    },
+    {
+        "id": "36",
+        "question": "Why we should hire you ?",
+        "answerLink": "Depends on the person."
+    },
+    {
+        "id": "37",
+        "question": "what can you bring to the company?",
+        "answerLink": "https://leverageedu.com/blog/self-introduction-in-interview/"
+    },
+    {
+        "id": "38",
+        "question": "Where do you see yourself after 5 years",
+        "answerLink": "I see myself as good supporter to a company."
+    },
+    {
+        "id": "39",
+        "question": "Is there anything else you'd like us to know?",
+        "answerLink": "https://www.themuse.com/advice/how-to-answer-is-there-anything-else-youd-like-us-to-know"
+    },
+    {
+        "id": "40",
+        "question": "Introduce Yourself",
+        "answerLink": "I am Anurdha. Currently I am studying in 2nd year of engineering from IT department. I am hardworking."
+    },
+    {
+        "id": "41",
+        "question": "How do you define an ideal project? ",
+        "answerLink": ""
+    },
+    {
+        "id": "42",
+        "question": "What is your strategy for prioritizing the tasks? ",
+        "answerLink": "https://tickthoseboxes.com.au/what-is-your-strategy-for-prioritizing-the-tasks/",
+        "answerLink": "https://www.wework.com/ideas/professional-development/creativity-culture/how-to-prioritize-work"
+    },
+    {
+        "id": "43",
+        "question": " Tell us about the most challenging projects you have managed so far? What were the steps you have taken to tackle the challenges? ",
+        "answerLink": ""
+    },
+    {
+        "id": "44",
+        "question": "Suppose the project has gone off the rails. What steps would you take to get it back on track? ",
+        "answerLink": "1) Acknowledge that things aren't going so great. 2) Reevaluate the project's core objectives. 3) Audit your team's communication channels. 4) Schedule one-on-one meetings with team members. 5) Address stakeholder concerns. 6) Learn from it."
+    },
+    {
+        "id": "45",
+        "question": "Can you tell us an example of a failed project? Have you had any such experiences? ",
+        "answerLink": ""
+    },
+    {
+        "id": "46",
+        "question": "How to achieve backwards compatibility while creating enterprise application ",
+        "answerLink": "https://dzone.com/articles/software-backwards-compatibility-with-reference-to-java"
+    },
+    {
+        "id": "47",
+        "question": "what is your goals ",
+        "answerLink": "To gain valuable industry knowledge and experience."
+    },
+    {
+        "id": "48",
+        "question": "What should I know that's not on your resume?",
+        "answerLink": "https://www.themuse.com/advice/interview-questions-and-answers#a1c1bca0-d645-4eba-b3a9-9adac258609a"
+    },
+    {
+        "id": "49",
+        "question": " What is your strategy to deal with internal conflicts among the team members? ",
+        "answerLink": "https://careersidekick.com/handle-conflict/"
+    },
+    {
+        "id": "50",
+        "question": "Define processes and process groups in a project management framework. ",
+        "answerLink": ""
+    },
+    {
+        "id": "51",
+        "question": "Explain the concept of RAID in project management.",
+        "answerLink": "https://www.wrike.com/project-management-guide/faq/what-is-raid-in-project-management/"
+    },
+    {
+        "id": "52",
+        "question": "What are the techniques you may use to define the scope of a project?",
+        "answerLink": ""
+    },
+    {
+        "id": "53",
+        "question": "How to introduce yourself?",
+        "answerLink": "https://youtu.be/EzGH3hZuJVk"
+    },
+    {
+        "id": "54",
+        "question": "Why Do You Want To Work Here?",
+        "answerLink": "I like your working ideology and also this company have great vision and mission for future"
+    },
+    {
+        "id": "55",
+        "question": "Describe the team forming process you follow in project management.",
+        "answerLink": ""
+    },
+    {
+        "id": "56",
+        "question": "What do you know about the triple constraint triangle of project management?",
+        "answerLink": ""
+    },
+    {
+        "id": "57",
+        "question": "How will you avoid gold plating?",
+        "answerLink": ""
+    },
+    {
+        "id": "58",
+        "question": "What’s your leadership style?",
+        "answerLink": "My leadership style is a servant leadership style. I put the needs of my team first to help them develop and perform as highly as possible. I am there to make their job easier."
+        "answerLink": "I would describe my leadership style as direct, and leading by example"
+    },
+    {
+        "id": "59",
+        "question": " What project management software do you prefer?",
+        "answerLink": "Nowadays, JIRA is the most used software when it comes to project management, that and trello. I must say I prefer two of them the most as they are the ones I already am most familiar with and their features are the most intuitive in my opinion."
+    },
+    {
+        "id": "60",
+        "question": "How would you motivate your team as the project deadline approaches?",
+        "answerLink": "https://hbr.org/2019/12/how-to-motivate-your-team-during-crunch-time"
+    },
+    {
+        "id": "61",
+        "question": "What are the primary components of a computer system?",
+        "answerLink": "https://www.indeed.com/career-advice/interviewing/computer-science-interview-questions"
+    },
+    {
+        "id": "62",
+        "question": "What are your hobbies?",
+        "answerLink": "https://leverageedu.com/blog/what-are-your-hobbies/"
+    },
+    {
+        "id": "63",
+        "question": "Why do you want this job?",
+        "answerLink": "https://youtu.be/ujOUlx0cT6o"
+    },
+    {
+        "id": "64",
+        "question": "Who are the competitors of TCS globally and in India?",
+        "answerLink": "Keeping an eye on the current market will definitely help. The key to an impressive answer is sound research, and this also shows the interviewer that you are about the interview as well as the job. For example, Wipro, Mahindra Satyam, Tech Mahindra, Infosys, HCL Tech,  Mphasis, etc."
+    },
+    {
+        "id": "65",
+        "question": "Are you willing to work on holidays?",
+        "answerLink": "Yes sir, I don't have any problem with that."
+    },
+    {
+        "id": "65",
+        "question": "which is the most often thing you like about yourself?",
+        "answerLink": "https://in.indeed.com/career-advice/interviewing/interview-question-how-would-you-describe-yourself"
+    },
+    {
+        "id": "66",
+        "question": "Tell me about a time you failed?",
+        "answerLink": "https://www.themuse.com/advice/interview-questions-and-answers#b9620a12-c79f-4009-b8f1-d18739ef3eaa"
+    },
+    {
+        "id": "66",
+        "question": "which is the most often thing you like about yourself?",
+        "answerLink": "https://in.indeed.com/career-advice/interviewing/interview-question-how-would-you-describe-yourself"
+    },
+    {
+        "id": "67",
+        "question": "What would you do if you were working under a bad boss?",
+        "answerLink": "I will try asking my colleagues how they have worked on dealing with the boss. If things get worse, I will contact HR to get a solution regarding this."
+    },
+    {
+        "id ": "68",
+        "question": "When you’re balancing multiple projects, how do you keep yourself organized?",
+        "answerLink": "https://kissflow.com/project/how-to-manage-multiple-projects/"
+    },
+    {
+        "id": "69",
+        "question": "what if you get a good offer from other company?",
+        "answerLink": "https://www.job-applications.com/interview-questions/how-will-you-make-your-decision-if-given-multiple-job-offers/ "
+    },
+    {
+        "id": "70",
+        "question": "What are your good habits?",
+        "answerLink": "Gives 100%, Never give up, Supportive"
+    },
+    {
+        "id": "71",
+        "question": "How To Explain Employment Gaps in an Interview",
+        "answerLink": "https://www.indeed.com/career-advice/interviewing/how-to-explain-employment-gaps"
+    },
+    {
+        "id": "72",
+        "question": "What motivates you?",
+        "answerLink": "https://www.thomsonreuters.com/en/careers/careers-blog/20-ways-employees-are-motivated-by-work.html#:~:text=A%20great%20work%20environment,in%20so%20that%20you%20succeed."
+    },
+    {
+        "id": "73",
+        "question": "Why do you want to work at this company?",
+        "answerLink": "I want to grow as a personal and a professional and I am pretty sure my these two goals can be completed in this company"
+    },
+    {
+        "id": "74",
+        "question": "A horse jumps over a castle, then lands on a man. The man disappears. Wha's happening?",
+        "answerLink": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+        "id": "75",
+        "question": "It is always with us,but can't catch it? ",
+        "answerLink": "https://en.wikipedia.org/wiki/puzzles"
+    },
+    {
+        "id": "76",
+        "question": "What are you looking for in a candidate? ",
+        "answerLink": "https://careers.orkla.com/content/What-we-look-for-in-a-candidate/?locale=en_GB"
+    },
+    {
+        "id": "77",
+        "question": "Introduce Yourself",
+        "answerLink": "Hi my name is Sanket Mardhekar, I am currently studying mechanical engineering at JSCOE(Jaywantrao sawant College of Engineering , and i will be graduated in year 2024 as a fresher )"
+    },
+    {
+        "id": "78",
+        "question": "Tell me about yourself",
+        "answerLink": "Keep it professional."
+    },
+    {
+        "id": "79",
+        "question": "It is always burns,but not shines ",
+        "answerLink": "https://en.wikipedia.org/wiki/riddles"
+    },
+    {
+        "id": "80",
+        "question": "what is tallest statue in india",
+        "answerLink": "https://en.wikipedia.org/wiki/List_of_the_tallest_statues_in_India "
+    },
+    {
+        "id": "81",
+        "question": "7amazing facts in india",
+        "answerLink": "bing.com/images "
+    },
+    {
+        "id": "82",
+        "question": "How much do you expect to be earning in five years?",
+        "answerLink": "https://www.glassdoor.com/blog/guide/where-do-you-see-yourself-in-5-years/"
+        "answerLink": "http://www.lioncubjobsearch.com/2014/05/what-do-you-expect-to-be-earning-in.html",
+        "answerLink": "https://www.livecareer.com/resources/interviews/questions/what-do-you-expect-to-be-earning-in-five-years"
+    },
+    {
+        "id": "83",
+        "question": "Tell Us About 3 Skills you are willing to have?",
+        "answerLink": ""
+    },
+    {
+        "id": "84",
+        "question": "How do you manage your priorities to meet deadlines?",
+        "answerLink": "I usually start by making a square grid to list each task I have to complete in order of relevance and priority. Then I complete the most time-consuming tasks first, so I can take my time focusing on getting each element right, depending on the topic of the assignment. If it's a large assignment, such as a research project, this method helps me get the bulk of the project done so I can focus on the little things last. "
+    },
+    {
+        "id": "85",
+        "question": "Are You Willing to Relocate?",
+        "answerLink": "https://www.themuse.com/advice/are-you-willing-to-relocate-interview-question-answer-example"
+    },
+    {
+        "id": "86",
+        "question": "What is the working of timers in JavaScript?",
+        "answerLink": "Timers are used to execute a piece of code at a set time or repeat the code in a given interval. This is done by using the functions setTimeout, setInterval, and clearInterval."
+    },
+    {
+        "id": "87",
+        "question": "What is your greatest failure, and what did you learn from it?",
+        "answerLink": "https://www.google.com/search?q=%22What+is+your+greatest+failure%2C+and+what+did+you+learn+from+it%3F%22+answer&rlz=1C1YTUH_enIN1014IN1014&oq=%22What+is+your+greatest+failure%2C+and+what+did+you+learn+from+it%3F%22+answer&aqs=chrome..69i57.18225j0j15&sourceid=chrome&ie=UTF-8"
+    },
+    {
+        "id": "88",
+        "question": "What is a checkpoint in DBMS?",
+        "answerLink": "The checkpoint is a type of mechanism where all the previous logs are removed from the system and permanently stored in the storage disk.There are two ways which can help the DBMS in recovering and maintaining the ACID properties, and they are- maintaining the log of each transaction and maintaining shadow pages. So, when it comes to log based recovery system, checkpoints come into existence. Checkpoints are those points to which the database engine can recover after a crash as a specified minimal point from where the transaction log record can be used to recover all the committed data up to the point of the crash."
+    },
+    {
+        "id": "89",
+        "question": "What is competitive programming? ",
+        "answerLink": " Programming… Competitive Programming… It teaches you how to think? If you are a programmer, you might have understood the deep meaning of these lines quoted by Steve Jobs and you might have also experienced that even after shutting down your computer you keep on thinking about programming stuff or code you have written in your project. Once you enter in programming you just don’tlearn how to code but you also learn the “art of thinking”, by breaking your code into smaller chunks and then using your logic-based creativity to solve a problem from different angles. Programming is fun, programming is an exercise for your brain, programming is a mental sport and when this sport is held on the internet involving sports programmer as a contestant, then it is called Competitive Programming. Check what Wikipedia says about"
+    },
+    {
+        "id": "90",
+        "question": " Are you willing to relocate?",
+        "answerLink": "https://www.themuse.com/advice/are-you-willing-to-relocate-interview-question-answer-example"
+    },
+    {
+        "id": "91",
+        "question": "Tell me about a time you demonstrated leadership skills.",
+        "answerLink": "You don’t have to have a fancy title to act like a leader or demonstrate leadership skills. Think about a time when you headed up a project, took the initiative to propose an alternate process, or helped motivate your team to get something done. Then use the STAR method to tell your interviewer a story, giving enough detail to paint a picture (but not so much that you start rambling) and making sure you spell out the result.In other words, be clear about why you’re telling this particular story and connect all the dots for the interviewer."
+    },
+    {
+        "id": "92",
+        "question": "what is creative writing?",
+        "answerLink": "Think about a task in a different way "
+    },
+    {
+        "id": "93",
+        "question": "What is RAID structure in OS? What are the different levels of RAID configuration?",
+        "answerLink": "RAID (Redundant Arrays of Independent Disks) is a method used to store data on Multiple hard disks therefore it is considered as data storage virtualization technology that combines multiple hard disks. It simply balances data protection, system performance, storage space, etc. It is used to improve the overall performance and reliability of data storage. It also increases the storage capacity of the system and its main purpose is to achieve data redundancy to reduce data loss. "
+    },
+    {
+        "id": "94",
+        "question": "Give an example of when you showed leadership qualities?",
+        "answerLink": "Keep in mind, though, that this question doesn't necessarily mean that you should have held a managerial position. "
+    },
+    {
+        "id": "95",
+        "question": "What's your management style?",
+        "answerLink": "Management style is so hard to put your finger on, but I think in general a good manager gives clear directions and actually stays pretty hands-off, but is ready and available to jump in to offer guidance, expertise, and help when needed. I try my best to make that my management style. I also go out of my way to make sure I know when my team needs help. That means plenty of informal check-ins, both on the work they’re doing and on their general job satisfaction and mental well-being."
+    },
+    {
+        "id": "96",
+        "question": "What's your management style?",
+        "answerLink": "https://www.indiabix.com/hr-interview/where-do-you-see-yourself-five-years-from-now/"
+    },
+    {
+        "id": "97",
+        "question": "Where do you see yourself in 5 years?",
+        "answerLink": "https://novoresume.com/career-blog/where-do-you-see-yourself-in-5-years"
+    },
+    {
+        "id": "98",
+        "question": " What are the CSS frameworks?",
+        "answerLink": "https://elementor.com/resources/glossary/what-is-a-css-framework/"
+    },
+    {
+        "id": "99",
+        "question": " What are various types of software testing?",
+        "answerLink": "https://www.interviewbit.com/software-testing-interview-questions/amp//"
+    },
+    {
+        "id": "100",
+        "question": "Why do you want this job?",
+        "answerLink": "https://www.themuse.com/advice/interview-questions-and-answers#5f5efff9-ad20-450a-a9d3-5f7891e5351d"
+    },
+    {
+        "id": "101",
+        "question": " Walk me through your resume?",
+        "answerLink": "https://www.themuse.com/advice/interview-questions-and-answers"
+    },
+    {
+        "id": "102",
+        "question": " What's your management style?",
+        "answerLink": "https://www.themuse.com/advice/interview-questions-and-answers#dae393b3-8a62-4e3f-bf20-5ae6f6ece704"
+    },
+    {
+        "id": "103",
+        "question": "tell me about a time you failed.",
+        "answerLink": "https://www.themuse.com/advice/interview-questions-and-answers#1f04964d-0b49-41ec-9b0c-d79a9b57bad0"
+    },
+    {
+        "id": "104",
+        "question": " What are your salary expectations?",
+        "answerLink": "https://in.indeed.com/career-advice/interviewing/how-to-answer-your-expected-ctc"
+    },
+    {
+        "id": "105",
+        "question": " What is the difference between hard work & smart work?",
+        "answerLink": "In simple words, Hard work means work and then thinking. Smart work means thinking and then working."
+    },
+    {
+        "id": "106",
+        "question": "What is the difference b/w confidence & over confidence?",
+        "answerLink": "I am going to give my best in the interview to impress the panel, this is confidence. The interviewer is definitely going to hire me, that’s over-confidence. "
+    },
+    {
+        "id": "107",
+        "question": "How much are you excited in joining our company , Rate from 1 to 10",
+        "answerLink": " 10 "
+    },
+    {
+        "id": "108",
+        "question": "Tell us about your greatest achievement",
+        "answerLink": " https://interviewpenguin.com/interview-questions-and-answers/ "
+    },
+    {
+        "id": "109",
+        "question": "  What are the biggest challenges of working on the front end of an application?",
+        "answerLink": "https://www.vivantatechnologies.com/challenges-in-front-end-designing"
+    },
+
+    {
+        "id" : "110",
+        "question" : "  What’s your work style?",
+        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#1f0901e8-e40a-44ea-ad0e-5905cb4828c0"
+    },
+    
+    {
+        "id" : "111",
+        "question" : "  What is kirchhoff's law ?",
+        "answerLink" : "The voltage around a loop equals the sum of every voltage drop in the same loop for any closed network and equals zero."
+    },
+    {
+        "id" : "112",
+        "question" : "  What is newton's third law?",
+        "answerLink" : "Every action has equal and opposite reaction."
+    },
+    {
+        "id" : "113",
+        "question" : "  Tell me something about transformers",
+        "answerLink" : "There are two kind of transformers Step up transformer - These transformers are used in increasing the current supplied and Step down transformer - These trnasformers are used in decreasing the current supplied."
+    },
+    {
+        "id" : "114",
+        "question" : "  What is the full form for SDLC?",
+        "answerLink" : "The full form for SDLC is Software development life-cycle"
+    },
+    {
+        "id" : "115",
+        "question" : "  Explain SDLC",
+        "answerLink" : "https://www.tutorialspoint.com/sdlc/sdlc_overview.htm"
+    },
+   {
+        "id" : "116",
+        "question" : "Top 25+ JavaScript Interview Questions You Must Prepare in 2022",
+        "answerLink" : "https://www.dotnettricks.com/learn/javascript/javascript-interview-questions"
+    },    
+    {
+        "id" : "117",
+        "question" : "Your 2022 Guide to the Most Common Interview Questions and Answers",
+        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers"        
+    },
+   {
+        "id" : "118",
+        "question" : "What is Virtual DOM?",
+        "answerLink" : "The Virtual DOM is the lightweight version of the Real DOM that React retains in memory. Because nothing is drawn on the screen when processing Real DOM, it is substantially slower than handling virtual DOM. When an object's state changes, Virtual DOM updates only that object in the real DOM rather than all of them."
+    },
+    {
+        "id" : "119"
+        "question" : "Can you work under pressure?"
+        "answerLink" : "Yes! I can do job under pressure. I will overcome pressure by Perfect and proper planning so that it doesn’t lead the work to the pressure."
+    },
+
+    {
+        "id" : "120",
+        "question" : "Why did you leave your last job?",
+        "answerLink" : "In my last workplace, I didnt have the scope to grow in my field anymore hence I needed a new work environment to upgrade my skills."
+        
+    },    
+    {
+        "id" : "121",
+        "question" : "What is Dangling Pointers?",
+        "answerLink" : "https://www.javatpoint.com/dangling-pointers-in-c"
+    },
  
-{
-        "id" : "65",
-        "question" : "Are you willing to work on holidays ?",
-        "answerLink" : "Yes sir, I don't have any problem with that."
-    },  
-         {
-        "id" : "65",
-        "question" : "which is the most often thing you like about yourself?",
-        "answerLink" : "https://in.indeed.com/career-advice/interviewing/interview-question-how-would-you-describe-yourself"
-    }, 
+        "id": "122",
+        "question": "What can you bring to the company?",
+        "answerLink": "https://www.themuse.com/advice/interview-questions-and-answers"
+    },
  {
-        "id" : "66",
-        "question" : "Tell me about a time you failed?",
-        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#b9620a12-c79f-4009-b8f1-d18739ef3eaa"
-    }, 
+        "id" : "123",
+        "question" : "What is object-oriented programming(OOP)?",
+        "answerLink" : "https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP"
+        
+    } ,     
+   {
+        "id":"124",
+        "question":"Tell me about microservers?",
+        "answerLink":"https://aws.amazon.com/microservices/#:~:text=Microservices%20are%20an%20architectural%20and,small%2C%20self%2Dcontained%20teams."
+    },
     {
-        "id" : "66",
-        "question" : "which is the most often thing you like about yourself?",
-        "answerLink" : "https://in.indeed.com/career-advice/interviewing/interview-question-how-would-you-describe-yourself"
-    }, 
+        "id":"125",
+        "question":"what is the meaning of orchestration in devops?",
+        "answerLink":"https://www.redhat.com/en/topics/automation/what-is-orchestration#:~:text=Orchestration%20is%20the%20automated%20configuration,isn't%20a%20scalable%20strategy."
+    
+    } ,
     {
-        "id" : "67",
-        "question" : "What would you do if you were working under a bad boss?",
-        "answerLink" : "I will try asking my colleagues how they have worked on dealing with the boss. If things get worse, I will contact HR to get a solution regarding this."
+        "id": "126",
+        "question": "How you will swap two number without using 3rd variable ?",
+        "answerLink": "https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/"
+    },
+   {
+        "id": "127",
+        "question": "Top 25 Technical Support Interview Questions With Answers",
+        "answerLink": "https://www.softwaretestinghelp.com/technical-support-interview-questions/"
+    },
+
+    {
+        "id": "128",
+        "question": "What kind of culture are you looking for in a company?",
+        "answerLink": "I am looking for a culture with promotes healthy competition, coordinates with each other at professional as well as personal level and conducts get togethers for bonding with employees."
+    },
+
+    {
+        "id": "129",
+        "question": "What do you bring to our organization that other candidates do not??",
+        "answerLink": "I am confident about my proactive presence and keeping the motivation of the team always up."
+    },
+    
+    {
+        "id": "130",
+        "question": "What will you do if you don't get this job/into this program?",
+        "answerLink": "I would definitely be a little upset about it but I will work on myself and make myself capable for the job"
+    },
+
+    {
+        "id": "131",
+        "question": "Do you view yourself as overqualified for this position/program?",
+        "answerLink": "I do see myself overqualified as I discussed my qualifications and eligibility with my mentors and they recommended it to be perfect for me"
+    },
+
+    {
+        "id": "132",
+        "question": "Do you prefer to work alone or on a team?",
+        "answerLink": "I prefer to work in a team as it distributes the work load and help with making a better finished product/service. We also gets to learn a lot from each other."
+    },
+    
+    {
+        "id" : "133",
+        "question" : "  Explain SDLC",
+        "answerLink" : "https://www.tutorialspoint.com/sdlc/sdlc_overview.htm"
+    },
+   {
+        "id": "134",
+        "question": "How do you want to improve yourself in the next year?",
+        "answerLink": "IN every aspect like relationship with myself and others "
+    },
+    {
+        "id": "135",
+        "question": "Tell me about a time where you had to deal with conflict on the job.",
+        "answerLink": "Not done any job yet so your company will be the first to experince such a thing"
+
+    },
+    {
+        "id": "136",
+        "question": "Reverse Integer",
+        "answerLink": "https://leetcode.com/problems/reverse-integer/"
+    },
+    {
+        "id": "137",
+        "question":  "Why are you interested in this job?",
+        "answerLink": "https://www.interviewbit.com/computer-science-interview-questions/#:~:text=in%20my%20profession.-,49.%20why%20are%20you%20interested%20in%20this%20job,-(related%20to%20CS"
     },
 {
-    "id ":"68",
-    "question" : "When you’re balancing multiple projects, how do you keep yourself organized?",
-    "answerLink" : "https://kissflow.com/project/how-to-manage-multiple-projects/"
-},
- {
-        "id" : "69",
-        "question" : "what if you get a good offer from other company?",
-        "answerLink" : "https://www.job-applications.com/interview-questions/how-will-you-make-your-decision-if-given-multiple-job-offers/ "
-    }, 
- {
-        "id" : "70",
-        "question" : "What are your good habits?",
-        "answerLink" : "Gives 100%, Never give up, Supportive"
-    }
+        "id": "138",
+        "question": "What are the Pillars of OOPS?",
+        "answerLink": "https://www.codingninjas.com/codestudio/library/four-pillars-of-oops"    
+    },
+       {
+        "id": "139",
+        "question": "Features of Java?",
+        "answerLink": "https://www.javatpoint.com/features-of-java" 
+    },
   {
-        "id" : "71",
-        "question" : "How To Explain Employment Gaps in an Interview",
-        "answerLink" : "https://www.indeed.com/career-advice/interviewing/how-to-explain-employment-gaps"
-    }, 
-{
-    "id":"72",
-    "question":"What motivates you?",
-    "answerLink":"https://www.thomsonreuters.com/en/careers/careers-blog/20-ways-employees-are-motivated-by-work.html#:~:text=A%20great%20work%20environment,in%20so%20that%20you%20succeed."
-},
-{
-        "id" : "73",
-        "question" : "Why do you want to work at this company?",
-        "answerLink" : "I want to grow as a personal and a professional and i am pretty sure my these two goals can be completed in this company"
-},
+        "id": "140",
+        "question": "How do you build a random forest model?",
+        "answerLink": "https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions"
+    },
 
-        "id" : "74",
-        "question" : "A horse jumps over a castle, then lands on a man. The man disappears. What’s happening?",
-        "answerLink" : "https://en.wikipedia.org/wiki/Chess"} , 
+    {
+        "id": "141",
+        "question": "Do you value creativity or efficiency more??",
+        "answerLink": "I value creativity more than efficiency as creativity will uplift the company to new heights with never seen before ideas and efficiency will only speed up that growth."
+    },
 
-
+    {
+        "id": "142",
+        "question": "Where Do You See Yourself Five Years From Now?",
+        "answerLink": "https://www.naukri.com/blog/where-do-you-see-yourself-five-years-from-now-sample-answers-to-this-hr-interview-question-utm_source-naukri-utm_medium-undefined-utm_campaign-naukri_blogs/"
+    },
+      {
+        "id": "143",
+        "question": "Where do you see yourself in 5 years?",
+        "answerLink": "https://novoresume.com/career-blog/where-do-you-see-yourself-in-5-years"
+    },
+     {
+        "id": "144",
+        "question": " How do you deal with pressure or stressful situations?",
+        "answerLink": "I realize stressful situation are always going to come up, and I definitely have had to learn how to navigate them throughout my career. I think I get better at it with every new experience."
+    },
+     {
+        "id": "145",
+        "question": " What can I expect in my first 30/60/90 days on the job?",
+        "answerLink": "first three months of working in a new position. During this time,new employees learn about their specific job duties, company processes and the culture of the organization. "
+    },
+    
+       {
+        "id": "146",
+        "question": "What would you do if your manager gave you a seemingly impossible task with a tight deadline?",
+        "answerLink": "Clear your work schedule,Work on it one step at a time,Get help from the beginning,Break the project down,Have a disclaimer in proposals and quotes"
+    },
  {
-        "id" : "75",
-        "question" : "It is always with us,but can't catch it? ",
-        "answerLink" : "https://en.wikipedia.org/wiki/puzzles"}, 
-{
-        "id" : "76",
-        "question" : "What are you looking for in a candidate? ",
-        "answerLink" : "https://careers.orkla.com/content/What-we-look-for-in-a-candidate/?locale=en_GB"},        
-        
- {
-        "id" : "77",
-        "question" : "Introduce Yourself",
-        "answerLink" : "Hi my name is Sanket Mardhekar , i am currently studying mechanical engineering at JSCOE(Jaywantrao sawant College of Engineering , and i will be graduated in year 2024 as a fresher )"
-    }, 
-   
-{
-        "id" : "78",
-        "question" : "Tell me about yourself",
-        "answerLink" : "  Keep it professional."
-    }, 
- {
-        "id" : "79",
-        "question" : "It is always burns,but not shines ",
-        "answerLink" : "https://en.wikipedia.org/wiki/riddles"}, 
-        
-{
-        "id" : "80",
-        "question" : "what is tallest statue in india",
-        "answerLink" : "https://en.wikipedia.org/wiki/List_of_the_tallest_statues_in_India "
-    }, 
-        {
-        "id" : "81",
-        "question" : "7amazing facts in india",
-        "answerLink" : "bing.com/images "
-    }, 
-        {
-        "id" : "82",
-        "question" : "How much do you expect to be earning in five years?"
-        "answerLink" : ""
+        "id": "147",
+        "question": "Which technologies and languages would you need to develop a project from scratch?",
+        "answerLink": "https://www.digitalvidya.com/blog/popular-full-stack-web-developer-interview-questions-and-answers/#:~:text=which%20technologies%20and%20languages%20would%20you%20need%20to%20develop%20a%20project%20from%20scratch%3F"
+    }
+    
+    {
+        "id": "148",
+        "question": "How do you think your previous managers/coworkers would describe working with you?",
+        "answerLink": "My colleagues would describe me as a natural leader. I often take the lead on projects and facilitate communication between different groups to make sure we’re all on the same page. This is why, in my last job, my boss put me in charge of coordinating projects between our department and two others."
     },
- 
-        {
-        "id" : "83",
-        "question" : "Tell Us About 3 Skills you are willing to have?"
-        "answerLink" : ""
+   {
+        "id": "149",
+        "question": "What is our CEO/founder’s name?",
+        "answerLink": "Thanks for the easy question! In my research, I found that your CEO XYZ has had a lot of volunteer experience. I read that he spent a lot of time with XYZ Foundation, which is impressive to me since I did the same thing a few years ago. I would love to talk with him about his experiences there."
     },
-{
-        "id" : "84",
-        "question" : "How do you manage your priorities to meet deadlines?",
-        "answerLink" : "I usually start by making a square grid to list each task I have to complete in order of relevance and priority. Then I complete the most time-consuming tasks first, so I can take my time focusing on getting each element right, depending on the topic of the assignment. If it's a large assignment, such as a research project, this method helps me get the bulk of the project done so I can focus on the little things last. "
-    },
-{
-        "id" : "85",
-        "question" : "Are You Willing to Relocate?",
-        "answerLink" : "https://www.themuse.com/advice/are-you-willing-to-relocate-interview-question-answer-example",
-},
-{
-        "id" : "86",
-        "question" : "What is the working of timers in JavaScript?",
-        "answerLink" : "Timers are used to execute a piece of code at a set time or repeat the code in a given interval. This is done by using the functions setTimeout, setInterval, and clearInterval."
-
-    },
-{
-    "id" : "87",
-    "question" : "What is your greatest failure, and what did you learn from it?",
-    "answerLink" : "https://www.google.com/search?q=%22What+is+your+greatest+failure%2C+and+what+did+you+learn+from+it%3F%22+answer&rlz=1C1YTUH_enIN1014IN1014&oq=%22What+is+your+greatest+failure%2C+and+what+did+you+learn+from+it%3F%22+answer&aqs=chrome..69i57.18225j0j15&sourceid=chrome&ie=UTF-8"
-    },
-{
-        "id" : "88",
-        "question" : "What is a checkpoint in DBMS?",
-        "answerLink" : "The Checkpoint is a type of mechanism where all the previous logs are removed from the system and permanently stored in the storage disk.There are two ways which can help the DBMS in recovering and maintaining the ACID properties, and they are- maintaining the log of each transaction and maintaining shadow pages. So, when it comes to log based recovery system, checkpoints come into existence. Checkpoints are those points to which the database engine can recover after a crash as a specified minimal point from where the transaction log record can be used to recover all the committed data up to the point of the crash."
-        
-    },
-
-    {  "id" : "89",
-        "question" : "what is competitive programming? ",
-        "answerLink" : " Programming… Competitive Programming… It teaches you how to think? If you are a programmer, you might have understood the deep meaning of these lines quoted bySteve Jobs and you might have also experienced that even after shutting down your computer you keep on thinking about programming stuff or code you have written in your project. Once you enter in programming you just don’tlearn how to code but you also learn the “art of thinking”, by breaking your code into smaller chunks and then using your logic-based creativity to solve a problem from different angles. Programming is fun, programming is an exercise for your brain, programming is a mental sport and when this sport is held on the internet involving sports programmer as a contestant, then it is called Competitive Programming. Check what Wikipedia says about"
-},
-{
-        "id" : "90",
-        "question" : " Are you willing to relocate?",
-        "answerLink" : "https://www.themuse.com/advice/are-you-willing-to-relocate-interview-question-answer-example",
-},
-
+   {
+        "id": "150",
+        "question": "What's your management style?",
+        "answerLink": "Management style is so hard to put your finger on, but I think in general a good manager gives clear directions and actually stays pretty hands-off, but is ready and available to jump in to offer guidance, expertise, and help when needed. I try my best to make that my management style. I also go out of my way to make sure I know when my team needs help. That means plenty of informal check-ins, both on the work they’re doing and on their general job satisfaction and mental well-being."
+    }
 
    {
-        "id" : "91",
-        "question" : "Tell me about a time you demonstrated leadership skills.",
-        "answerLink" : "You don’t have to have a fancy title to act like a leader or demonstrate leadership skills. Think about a time when you headed up a project, took the initiative to propose an alternate process, or helped motivate your team to get something done. Then use the STAR method to tell your interviewer a story, giving enough detail to paint a picture (but not so much that you start rambling) and making sure you spell out the result.In other words, be clear about why you’re telling this particular story and connect all the dots for the interviewer."
-        },
- {
-        "id" : "92",
-        "question" : "what is creative writing?",
-        "answerLink" : "Think about a task in a different way "},
-
-{
-        "id" : "93",
-        "question" : "What is RAID structure in OS? What are the different levels of RAID configuration?",
-        "answerLink" : "RAID (Redundant Arrays of Independent Disks) is a method used to store data on Multiple hard disks therefore it is considered as data storage virtualization technology that combines multiple hard disks. It simply balances data protection, system performance, storage space, etc. It is used to improve the overall performance and reliability of data storage. It also increases the storage capacity of the system and its main purpose is to achieve data redundancy to reduce data loss. "
+        "id": "151",
+        "question": "What motivates you?",
+        "answerLink": "https://www.thomsonreuters.com/en/careers/careers-blog/20-ways-employees-are-motivated-by-work.html#:~:text=A%20great%20work%20environment,in%20so%20that%20you%20succeed."
     },
-{
-        "id" : "94",
-        "question" : "Give an example of when you showed leadership qualities?",
-        "answerLink" : "Keep in mind, though, that this question doesn’t necessarily mean that you should have held a managerial position. "},
- {
-        "id" : "95",
-        "question" : "What’s your management style?",
-        "answerLink" : "Management style is so hard to put your finger on, but I think in general a good manager gives clear directions and actually stays pretty hands-off, but is ready and available to jump in to offer guidance, expertise, and help when needed. I try my best to make that my management style. I also go out of my way to make sure I know when my team needs help. That means plenty of informal check-ins, both on the work they’re doing and on their general job satisfaction and mental well-being."
+   {
+        "id" : "152",
+        "courseName" : "Python Regression Analysis: Statistics & Machine Learning",
+        "platform" : "Udemy",
+        "courseLink" : "https://www.udemy.com/course/python-regression-analysis-statistics-machine-learning/"
     },
-
+       
+{
+        "id": "153 ",
+        "question": "any past criminal record ?",
+        "answerLink": "no, i do not have any criminal background "
+    },
+    
     {
-        "id" : "96",
-        "question" : "What’s your management style?",
-        "answerLink" : "https://www.indiabix.com/hr-interview/where-do-you-see-yourself-five-years-from-now/"
-    }
-
-{
-        "id" : "97",
-        "question" : "Where do you see yourself in 5 years?",
-        "answerLink" : "https://novoresume.com/career-blog/where-do-you-see-yourself-in-5-years"
-    },
-
-    {
-        "id" : "98",
-        "question" : " What are the CSS frameworks?",
-        "answerLink" : "https://elementor.com/resources/glossary/what-is-a-css-framework/"
-    },
-{
-        "id" : "99",
-        "question" : " What are various types of software testing?",
-        "answerLink" : "https://www.interviewbit.com/software-testing-interview-questions/amp//"
-    },
-
-    {
-        "id" : "100",
-        "question" : "Why do you want this job?",
-        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#5f5efff9-ad20-450a-a9d3-5f7891e5351d"
-    },
-
- {
-        "id" : "101",
-        "question" : " Walk me through your resume?",
-        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers"
-    },
-    {
-        "id" : "102",
-        "question" : " What’s your management style?",
-        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#dae393b3-8a62-4e3f-bf20-5ae6f6ece704"
-{
-        "id" : "103",
-        "question" : "tell me about a time you failed.",
-        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#1f04964d-0b49-41ec-9b0c-d79a9b57bad0"
-    },
-
-    {
-        "id" : "104",
-        "question" : " What are your salary expectations?",
-        "answerLink" : "https://in.indeed.com/career-advice/interviewing/how-to-answer-your-expected-ctc"
-    },
-
-{
-        "id" : "105",
-        "question" : "What is the difference b/w confidence & over confidence?",
-        "answerLink" : "I am going to give my best in the interview to impress the panel, this is confidence. The interviewer is definitely going to hire me, that’s over-confidence. "
-    },
-
-{
-        "id" : "106",
-        "question" : "How much are you excited in joining our company , Rate from 1 to 10",
-        "answerLink" : " 10 "
-    }
-{
-        "id" : "107",
-        "question" : "Tell me about a time when you were not satisfied with your performance?",
-        "answerLink" : "https://www.interviewbit.com/hr-interview-questions/"
-    }
-]
+        "id": "154",
+        "question": "It is always with us,but can't catch it? ",
+        "answerLink": "https://en.wikipedia.org/wiki/puzzles"
+         },
+         {
+          "id": "155",
+        "question": "Describe how you prepared for this interview?",
+        "answerLink": "https://www.livecareer.com/resources/interviews/questions/how-did-you-prepare-for-this-work"
+           },
+  ]
