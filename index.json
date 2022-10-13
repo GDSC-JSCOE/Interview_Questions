@@ -821,4 +821,9 @@
         "question": "Describe how you prepared for this interview?",
         "answerLink": "https://www.livecareer.com/resources/interviews/questions/how-did-you-prepare-for-this-work"
            },
+         {
+          "id": "156",
+        "question": "What is the Function of the Byte Stream?",
+        "answerLink": "We use the byte stream to implement input and output for Unicode with 8 bits."
+           },
   ]
