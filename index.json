@@ -837,5 +837,13 @@
   	"question": "How is DevOps different from Agile Methodology?",
   	"answerlink": "https://azure.microsoft.com/en-in/overview/devops-vs-agile/#:~:text=DevOps%20is%20a%20culture%2C%20fostering,common%20reality%20of%20changing%20needs.",
   },
+  [{
+ 
+    "id" : "158",
+
+    "question" : "Which of the following is not a system call?",
+    "answerLink" : "Open"
+        
+}]
  
   ]
