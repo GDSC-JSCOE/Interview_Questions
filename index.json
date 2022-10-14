@@ -842,5 +842,12 @@
   	"question": "What is a Framework?",
   	"answerlink": "A framework is a platform that allows you to create software applications. It gives you the foundation on which you can create a program for a particular platform. It might consist of predetermined functions and classes. You can use a framework to manage the hardware, inputs, and work with the system software.",
   },
+  {
+ 
+    "id" : "159",
+    "question" : "Which of the following is not a system call?",
+    "answerLink" : "Open"
+        
+}
  
   ]
