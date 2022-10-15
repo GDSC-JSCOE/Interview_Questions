@@ -848,6 +848,11 @@
     "question" : "Which of the following is not a system call?",
     "answerLink" : "Open"
         
-}
+},
+{
+  	"id": "160",
+  	"question": "Python is programming or scripting language",
+  	"answerlink": "A scripting language is one that is interpreted. Python is an interpreted language. Python uses an interpreter to translate and run its code. Hence Python is a scripting language.",
+  },
  
   ]
