@@ -849,5 +849,11 @@
     "answerLink" : "Open"
         
 }
+   {
  
+    "id" : "160",
+    "question" : "How many types of loops does c++ has and what are they?",
+    "answerLink" : "C++ has 3 types of loops as follows for loop,while loop,do while loop."
+        
+}
   ]
