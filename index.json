@@ -848,6 +848,11 @@
     "question" : "Which of the following is not a system call?",
     "answerLink" : "Open"
         
-}
+},
+   {
+  	"id": "160",
+  	"question": "Have you done competative codding ever?If yes which platform do you choose to do it? ",
+  	"answerlink": "Yes I have done competative cooding on codechef and leetcode",
+  },
  
   ]
