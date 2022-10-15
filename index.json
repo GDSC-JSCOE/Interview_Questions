@@ -848,6 +848,11 @@
     "question" : "Which of the following is not a system call?",
     "answerLink" : "Open"
         
-}
+},
+{
+        "id": "160 ",
+        "question": "What is the worst case run-time complexity of binary search algorithm?",
+        "answerLink": "Worst Case Time Complexity is Ο(n) "
+    },
  
   ]
