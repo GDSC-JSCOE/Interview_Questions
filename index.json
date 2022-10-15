@@ -849,5 +849,12 @@
     "answerLink" : "Open"
         
 }
+{
+ 
+    "id" : "160",
+    "question" : "Which is the fastest programming language in the world?",
+    "answerLink" : "C plus plus or C++ is considered as the fastest programming language in the world"
+        
+}
  
   ]
