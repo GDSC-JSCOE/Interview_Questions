@@ -848,6 +848,12 @@
     "question" : "Which of the following is not a system call?",
     "answerLink" : "Open"
         
-}
+},
+{
+        "id": "169 ",
+        "question": "what is regex ?",
+        "answerLink": "it is used for expresstions functions  "
+    },
+
  
   ]
