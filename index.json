@@ -848,6 +848,13 @@
     "question" : "Which of the following is not a system call?",
     "answerLink" : "Open"
         
-}
+},
+ {
+ 
+    "id" : "160",
+    "question" : "If a process fails, most operating system write the error information to a ______",
+    "answerLink" : "If a process fails, most operating systems write the error information to a log file. Log file is examined by the debugger, to find out what is the actual cause of that particular problem. Log file is useful for system programmers for correcting errors."
+        
+},
  
   ]
