@@ -854,5 +854,10 @@
   	"question": "Is Django backend or front end?",
   	"answerlink": "Django is suitable for both the backend and frontend. It's a collection of Python libraries that allow you to develop useful web apps ideal for backend and frontend purposes.",
   },
+{
+  	"id": "161",
+  	"question": "Is Django a CMS?",
+  	"answerlink": "No, Django is not CMS (Content Management System). It's just a web framework and programming tool that allows you to build websites.",
+  },
  
   ]
