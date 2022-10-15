@@ -849,5 +849,10 @@
     "answerLink" : "Open"
         
 }
+{
+        "id": "160",
+        "question": "What is the size of an integer in bits?",
+        "answerLink": "The size of an integer is of 32 bits "
+    },
  
   ]
