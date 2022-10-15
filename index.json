@@ -848,6 +848,12 @@
     "question" : "Which of the following is not a system call?",
     "answerLink" : "Open"
         
+},
+{
+  	"id": "160",
+  	"question": "What function does Bundle perform in Android?",
+  	"answerlink": "Bundles in Android are used to pass the required data between various Android activities."
 }
+
  
   ]
