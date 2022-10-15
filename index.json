@@ -849,5 +849,12 @@
     "answerLink" : "Open"
         
 }
+ {
+ 
+    "id" : "160",
+    "question" : "How many element one can have with the same id in html?",
+    "answerLink" : "only one"
+        
+}
  
   ]
