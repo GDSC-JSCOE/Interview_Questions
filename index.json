@@ -848,6 +848,11 @@
     "question" : "Which of the following is not a system call?",
     "answerLink" : "Open"
         
-}
+},
+{
+  	"id": "160",
+  	"question": "What is the main function of the command interpreter?",
+  	"answerlink": "Main function of the command interpreter is to get and execute the next user-specified command",
+  },
  
   ]
