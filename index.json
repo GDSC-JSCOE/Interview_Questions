@@ -805,52 +805,52 @@
     },
  
    {
-        "id" : "152",
+        "id" : "153",
         "courseName" : "Python Regression Analysis: Statistics & Machine Learning",
         "platform" : "Udemy",
         "courseLink" : "https://www.udemy.com/course/python-regression-analysis-statistics-machine-learning/"
     },
        
 {
-        "id": "153 ",
+        "id": "154 ",
         "question": "any past criminal record ?",
         "answerLink": "no, i do not have any criminal background "
     },
     
     {
-        "id": "154",
+        "id": "155",
         "question": "It is always with us,but can't catch it? ",
         "answerLink": "https://en.wikipedia.org/wiki/puzzles"
          },
          {
-          "id": "155",
+          "id": "156",
         "question": "Describe how you prepared for this interview?",
         "answerLink": "https://www.livecareer.com/resources/interviews/questions/how-did-you-prepare-for-this-work"
            },
          {
-          "id": "156",
+          "id": "157",
         "question": "What is the Function of the Byte Stream?",
         "answerLink": "We use the byte stream to implement input and output for Unicode with 8 bits."
            },
   {
-  	"id": "157",
+  	"id": "158",
   	"question": "How is DevOps different from Agile Methodology?",
   	"answerlink": "https://azure.microsoft.com/en-in/overview/devops-vs-agile/#:~:text=DevOps%20is%20a%20culture%2C%20fostering,common%20reality%20of%20changing%20needs.",
   },
    {
-  	"id": "158",
+  	"id": "159",
   	"question": "What is a Framework?",
   	"answerlink": "A framework is a platform that allows you to create software applications. It gives you the foundation on which you can create a program for a particular platform. It might consist of predetermined functions and classes. You can use a framework to manage the hardware, inputs, and work with the system software.",
   },
   {
  
-    "id" : "159",
+    "id" : "160",
     "question" : "Which of the following is not a system call?",
     "answerLink" : "Open"
         
 },
 {
-        "id": "160 ",
+        "id": "161 ",
         "question": "What do you do in your free time ?",
         "answerLink": "I read blogs about startups. "
     },
