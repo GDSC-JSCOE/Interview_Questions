@@ -848,6 +848,11 @@
     "question" : "Which of the following is not a system call?",
     "answerLink" : "Open"
         
-}
+},
+{
+  	"id": "160",
+  	"question": "Is Django backend or front end?",
+  	"answerlink": "Django is suitable for both the backend and frontend. It's a collection of Python libraries that allow you to develop useful web apps ideal for backend and frontend purposes.",
+  },
  
   ]
