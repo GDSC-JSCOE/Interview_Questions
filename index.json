@@ -848,6 +848,11 @@
     "question" : "Which of the following is not a system call?",
     "answerLink" : "Open"
         
-}
+},
+{
+        "id": "160",
+        "question": "To access the services of the operating system, the interface is provided by the ___________",
+        "answerLink": "To access services of the Operating System an interface is provided by the System Calls. Generally, these are functions written in C and C++. Open, Close, Read, Write are some of most prominently used system calls."
+    },
  
   ]
