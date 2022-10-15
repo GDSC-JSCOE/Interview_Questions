@@ -849,5 +849,12 @@
     "answerLink" : "Open"
         
 }
+{
+ 
+    "id" : "160",
+    "question" : "Which tag is use to define hyperlink in html?",
+    "answerLink" : "<a></a> tag or anchor tag"
+        
+}
  
   ]
