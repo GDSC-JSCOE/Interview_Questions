@@ -805,54 +805,155 @@
     },
  
    {
-        "id" : "152",
+        "id" : "153",
         "courseName" : "Python Regression Analysis: Statistics & Machine Learning",
         "platform" : "Udemy",
         "courseLink" : "https://www.udemy.com/course/python-regression-analysis-statistics-machine-learning/"
     },
        
 {
-        "id": "153 ",
+        "id": "154",
         "question": "any past criminal record ?",
         "answerLink": "no, i do not have any criminal background "
     },
     
     {
-        "id": "154",
+        "id": "155",
         "question": "It is always with us,but can't catch it? ",
         "answerLink": "https://en.wikipedia.org/wiki/puzzles"
          },
          {
-          "id": "155",
+          "id": "156",
         "question": "Describe how you prepared for this interview?",
         "answerLink": "https://www.livecareer.com/resources/interviews/questions/how-did-you-prepare-for-this-work"
            },
          {
-          "id": "156",
+          "id": "157",
         "question": "What is the Function of the Byte Stream?",
         "answerLink": "We use the byte stream to implement input and output for Unicode with 8 bits."
            },
   {
-  	"id": "157",
+  	"id": "158",
   	"question": "How is DevOps different from Agile Methodology?",
   	"answerlink": "https://azure.microsoft.com/en-in/overview/devops-vs-agile/#:~:text=DevOps%20is%20a%20culture%2C%20fostering,common%20reality%20of%20changing%20needs.",
   },
    {
-  	"id": "158",
+  	"id": "159",
   	"question": "What is a Framework?",
   	"answerlink": "A framework is a platform that allows you to create software applications. It gives you the foundation on which you can create a program for a particular platform. It might consist of predetermined functions and classes. You can use a framework to manage the hardware, inputs, and work with the system software.",
-  },
-  {
- 
-    "id" : "159",
+  }, 
+ {
+    "id" : "160",
+    "question" : "Which of the following is not a system call?",
+    "answerLink" : "Open"     
+},
+{ 
+    "id" : "161",
+    "question" : "Explain constructor in C++?",
+    "answerLink" : "The constructor is a member function that is executed automatically whenever an object is created"  
+},
+{
+        "id": "162",
+        "question": "What is your tech skills?",
+        "answerLink": "Good in compitetive coding "
+    },
+ {
+    "id": "163",
+    "question": "What is the meaning of your name and how do you live up to your name?",
+    "answerLink": "https://www.adda247.com/defence-jobs/questions-asked-in-ssb-interview"
+},
+{ 
+    "id" : "164",
+    "question" : "what is SQL?",
+    "answerLink" : "SQL is a database language"
+      
+}, 
+{
+        "id": "165 ",
+        "question": "What are your weaknesses ?",
+        "answerLink": "I'm impatient " 
+}, 
+{
+        "id": "166",
+        "question": "What is the worst case run-time complexity of binary search algorithm?",
+        "answerLink": "Worst Case Time Complexity is Ο(n) "
+    },
+     { 
+    "id" : "167",
     "question" : "Which of the following is not a system call?",
     "answerLink" : "Open"
-        
-}
+        },
+
 {
-  	"id": "160",
+        "id": "168 ",
+        "question": "what are your salary expections ?",
+        "answerLink": "i want market prices salary  "
+    },
+{
+    "id":"169",
+    "question": "What is your biggest weakness?",
+    "answerLink": "Well, as a recent graduate, I’d say my biggest weakness is the lack of real-life work experience. While I’ve worked on a dozen software projects in the university, I don’t have the experience of working in a fully agile environment with an experienced team.I am, however, willing to do my best and catch up as fast as I can."
+},
+  {
+    "id" : "170",
+    "question" : "Which of the following is not a system call?",
+    "answerLink" : "Open"
+},
+{
+        "id": "171 ",
+        "question": "What salary do you expect from us ?",
+        "answerLink": "As per my projects and global certifications I expect to have atleast 15LPA."
+    },
+{ 
+    "id" : "172",
+    "question" : "Which is the fastest programming language in the world?",
+    "answerLink" : "C plus plus or C++ is considered as the fastest programming language in the world"
+
+},  
+{ 
+    "id" : "173",
+    "question" : "What is operator overloading?",
+    "answerLink" : "Operator Overloading is a very essential element to perform the operations on user-defined data types. By operator overloading we can modify the default meaning to the operators like +, -, *, etc. "
+        }
+ {
+        "id": "174",
+        "question": " Tell us about the most challenging projects you have managed so far? What were the steps you have taken to tackle the challenges? ",
+        "answerLink": ""
+    },
+    {
+  	"id": "175",
+  	"question": "Is Django backend or front end?",
+  	"answerlink": "Django is suitable for both the backend and frontend. It's a collection of Python libraries that allow you to develop useful web apps ideal for backend and frontend purposes.",
+  },
+{
+  	"id": "176",
+  	"question": "Is Django a CMS?",
+  	"answerlink": "No, Django is not CMS (Content Management System). It's just a web framework and programming tool that allows you to build websites.",
+  },
+
+{ 
+    "id" : "177",
+    "question" : "what is meant by time complexity ?",
+    "answerLink" : "Time complexity is the number of times a statement is executed ."
+        },
+        {
+        "id": "178",
+        "question": "To access the services of the operating system, the interface is provided by the ___________",
+        "answerLink": "To access services of the Operating System an interface is provided by the System Calls. Generally, these are functions written in C and C++. Open, Close, Read, Write are some of most prominently used system calls."
+    },
+      {
+        "id" : "179",
+        "question" : "How many Programming languages do you know?",
+        "answerLink" : "C,C++,Java,Python,C#,JavaScript,TypeScript, etc...."     
+},
+    {
+  	"id": "180",
+  	"question": "Python is programming or scripting language",
+  	"answerlink": "A scripting language is one that is interpreted. Python is an interpreted language. Python uses an interpreter to translate and run its code. Hence Python is a scripting language.",
+},
+{
+  	"id": "181",
   	"question": "Which Programming language is used in Flutter?",
   	"answerlink": "Dart"
   },
- 
-  ]
+]
