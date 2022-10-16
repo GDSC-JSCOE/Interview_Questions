@@ -898,8 +898,7 @@
     "id" : "170",
     "question" : "Which of the following is not a system call?",
     "answerLink" : "Open"
-        
-}
+        },
 {
         "id": "171 ",
         "question": "What salary do you expect from us ?",
@@ -924,4 +923,16 @@
         "question": " Tell us about the most challenging projects you have managed so far? What were the steps you have taken to tackle the challenges? ",
         "answerLink": ""
     },
+    {
+  	"id": "175",
+  	"question": "Is Django backend or front end?",
+  	"answerlink": "Django is suitable for both the backend and frontend. It's a collection of Python libraries that allow you to develop useful web apps ideal for backend and frontend purposes.",
+  },
+{
+  	"id": "176",
+  	"question": "Is Django a CMS?",
+  	"answerlink": "No, Django is not CMS (Content Management System). It's just a web framework and programming tool that allows you to build websites.",
+  },
+
+
 ]
