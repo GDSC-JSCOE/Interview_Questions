@@ -990,4 +990,9 @@
     "question" : "What's motivates you to code?",
     "answerLink" : "I love coding because I love to solve the problems of the society "
 },
+{
+  	"id": "188",
+  	"question": "What function does Bundle perform in Android?",
+  	"answerlink": "Bundles in Android are used to pass the required data between various Android activities."
+},
 ]
