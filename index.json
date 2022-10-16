@@ -898,14 +898,15 @@
     "id" : "170",
     "question" : "Which of the following is not a system call?",
     "answerLink" : "Open"
-        },
+     
+},
+
 {
         "id": "171 ",
         "question": "What salary do you expect from us ?",
         "answerLink": "As per my projects and global certifications I expect to have atleast 15LPA."
     },
-{
- 
+{ 
     "id" : "172",
     "question" : "Which is the fastest programming language in the world?",
     "answerLink" : "C plus plus or C++ is considered as the fastest programming language in the world"
@@ -934,5 +935,11 @@
   	"answerlink": "No, Django is not CMS (Content Management System). It's just a web framework and programming tool that allows you to build websites.",
   },
 
-
+{
+ 
+    "id" : "177",
+    "question" : "what is meant by time complexity ?",
+    "answerLink" : "Time complexity is the number of times a statement is executed ."
+  
+        },
 ]
