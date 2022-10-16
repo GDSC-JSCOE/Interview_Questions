@@ -812,7 +812,7 @@
     },
        
 {
-        "id": "154",
+        "id": "154 ",
         "question": "any past criminal record ?",
         "answerLink": "no, i do not have any criminal background "
     },
@@ -894,7 +894,7 @@
     "question": "What is your biggest weakness?",
     "answerLink": "Well, as a recent graduate, I’d say my biggest weakness is the lack of real-life work experience. While I’ve worked on a dozen software projects in the university, I don’t have the experience of working in a fully agile environment with an experienced team.I am, however, willing to do my best and catch up as fast as I can."
 },
-  {
+{
     "id" : "170",
     "question" : "Which of the following is not a system call?",
     "answerLink" : "Open"
@@ -995,10 +995,20 @@
   	"question": "What function does Bundle perform in Android?",
   	"answerlink": "Bundles in Android are used to pass the required data between various Android activities."
 },
- {
- 
+ { 
     "id" : "189",
     "question" : "How many element one can have with the same id in html?",
     "answerLink" : "only one"
 },
+  { 
+    "id" : "190",
+    "question" : "Which of the following is not a system call?",
+    "answerLink" : "Open"
+        
+},
+{
+        "id": "191",
+        "question": "What is your favourite language ?",
+        "answerLink": "I like to code in python because its easy to write language."
+    },
 ]
