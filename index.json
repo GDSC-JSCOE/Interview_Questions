@@ -901,9 +901,17 @@
     "answerLink" : "Open"
         
 },
+
 {
         "id": "171 ",
         "question": "What salary do you expect from us ?",
         "answerLink": "As per my projects and global certifications I expect to have atleast 15LPA."
     },
-  ]
+{
+ 
+    "id" : "172",
+    "question" : "Which is the fastest programming language in the world?",
+    "answerLink" : "C plus plus or C++ is considered as the fastest programming language in the world"
+
+},  
+]
