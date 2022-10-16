@@ -1079,5 +1079,10 @@
     "question": "How to centre a div in body?"
     "answerLink": "Add display flex, justify-conntent centre,align-items centre to body tag in css file ."
 },
+   {
+    "id": "206"
+    "question": "What is a Self-Join in SQL ?"
+    "answerLink": "A self JOIN is a case of regular join where a table is joined to itself based on some relation between its own column(s).
+   },
 ]
 
