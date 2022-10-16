@@ -894,7 +894,7 @@
     "question": "What is your biggest weakness?",
     "answerLink": "Well, as a recent graduate, I’d say my biggest weakness is the lack of real-life work experience. While I’ve worked on a dozen software projects in the university, I don’t have the experience of working in a fully agile environment with an experienced team.I am, however, willing to do my best and catch up as fast as I can."
 },
-  {
+{
     "id" : "170",
     "question" : "Which of the following is not a system call?",
     "answerLink" : "Open"
@@ -956,8 +956,8 @@
   	"question": "Which Programming language is used in Flutter?",
   	"answerlink": "Dart"
   },
-  {
-  	"id": "182",
+{
+    "id": "182",
   	"question": "What is the main function of the command interpreter?",
   	"answerlink": "Main function of the command interpreter is to get and execute the next user-specified command",
 },
@@ -985,7 +985,6 @@
     "answerLink" : "I am good listener"
 },
 {
- 
     "id" : "187",
     "question" : "What's motivates you to code?",
     "answerLink" : "I love coding because I love to solve the problems of the society "
@@ -995,15 +994,85 @@
   	"question": "What function does Bundle perform in Android?",
   	"answerlink": "Bundles in Android are used to pass the required data between various Android activities."
 },
- {
- 
+ { 
     "id" : "189",
     "question" : "How many element one can have with the same id in html?",
     "answerLink" : "only one"
 },
+  { 
+    "id" : "190",
+    "question" : "Which of the following is not a system call?",
+    "answerLink" : "Open"        
+},
+  {
+         "id": "191",
+        "question": "What is your favourite language ?",
+        "answerLink": "I like to code in python because its easy to write language."
+    },
+    {
+        "id": "192 ",
+        "question": "What do you do in your free time ?",
+        "answerLink": "I read blogs about startups. "
+    },
+    {
+        "id": "193 ",
+        "question": "What is PYTHONPATH in Python?",
+        "answerLink": "PYTHONPATH is an environment variable which you can set to add additional directories where Python will look for modules and packages. This is especially useful in maintaining Python libraries that you do not wish to install in the global default location. "
+    },
+    { 
+    "id" : "194",
+    "question" : "How many types of loops does c++ has and what are they?",
+    "answerLink" : "C++ has 3 types of loops as follows for loop,while loop,do while loop."
+},
+ { 
+    "id" : "195",
+    "question" : "Which of the following is not a system call?",
+    "answerLink" : "Open"
+},
+   {
+  	"id": "196",
+  	"question": "Have you done competative codding ever?If yes which platform do you choose to do it? ",
+  	"answerlink": "Yes I have done competative cooding on codechef and leetcode",
+  },
 {
-"id": "190",
+        "id": "197",
+        "question": " What extra skills do you have ?",
+        "answerLink": "Along with codding Im quite good at web development I have good knowledge of both front and back end development. Also I'm good in communicating with new people. "
+    },
+ {
+    "id": "198"
+    "question": "Do you have any job experience in the field of development?"
+    "answerLink": "Yes I've worked with a small start up and have develeped an app for their user "
+},
+{
+        "id": "199",
+        "question": "What is the size of an integer in bits?",
+        "answerLink": "The size of an integer is of 32 bits "
+}, 
+{
+        "id": "200 ",
+        "question": "what brings us to us  ?",
+        "answerLink": "your ethics and values "
+    },
+    {
+        "id": "201",
+        "question": "have you applied to other companies",
+        "answerLink": "no, i  have not "
+        },
+        {
+        "id": "202 ",
+        "question": "what is regex ?",
+        "answerLink": "it is used for expresstions functions  "
+    },
+    {
+    "id" : "203",
+    "question" : "Which tag is use to define hyperlink in html?",
+    "answerLink" : "<a></a> tag or anchor tag"  
+},      
+{
+"id": "204",
     "question": "How to Flatten or Widen Images With CSS ?",
     "answerlink": "object-fit: cover;"
-}
+},
 ]
+
