@@ -1079,5 +1079,11 @@
     "question": "How to centre a div in body?"
     "answerLink": "Add display flex, justify-conntent centre,align-items centre to body tag in css file ."
 },
+
+{
+        "id":"207"
+        "question":"Can we Overload Static Methods",
+        "answerlink":"Yes we can but tey should have different parameters"
+},
 ]
 
