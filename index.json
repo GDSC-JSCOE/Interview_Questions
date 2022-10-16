@@ -1080,9 +1080,14 @@
     "answerLink": "Add display flex, justify-conntent centre,align-items centre to body tag in css file ."
 },
 {
-    "id": "205"
+    "id": "206"
     "question": "Full form of AR?"
     "answerLink": "Augmented Reality"
+},
+{
+    "id": "207"
+    "question": "Full form of OOP?"
+    "answerLink": "Object Oriented Programing"
 },
 ]
 
