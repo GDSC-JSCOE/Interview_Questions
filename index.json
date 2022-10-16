@@ -898,7 +898,6 @@
     "id" : "170",
     "question" : "Which of the following is not a system call?",
     "answerLink" : "Open"
-        
 },
 {
         "id": "171 ",
@@ -973,5 +972,12 @@
     "question" : "Which programming languages are used for Android DEVELOPMENT?",
     "answerLink" : "Kotlin , Java"
         
+},
+{
+ 
+    "id" : "185",
+    "question" : "Why did you choose to become web developer?",
+    "answerLink" : "I love to solve the problems and find appropriate solutions.By developing website I can solve the problems of various companies and organisation "
+       
 },
 ]
