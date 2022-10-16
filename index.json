@@ -841,8 +841,7 @@
   	"id": "159",
   	"question": "What is a Framework?",
   	"answerlink": "A framework is a platform that allows you to create software applications. It gives you the foundation on which you can create a program for a particular platform. It might consist of predetermined functions and classes. You can use a framework to manage the hardware, inputs, and work with the system software.",
-  },
- 
+  }, 
  {
     "id" : "160",
     "question" : "Which of the following is not a system call?",
@@ -920,4 +919,9 @@
     "answerLink" : "Operator Overloading is a very essential element to perform the operations on user-defined data types. By operator overloading we can modify the default meaning to the operators like +, -, *, etc. "
         
 },
+ {
+        "id": "174",
+        "question": " Tell us about the most challenging projects you have managed so far? What were the steps you have taken to tackle the challenges? ",
+        "answerLink": ""
+    },
 ]
