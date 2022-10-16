@@ -1079,5 +1079,10 @@
     "question": "How to centre a div in body?"
     "answerLink": "Add display flex, justify-conntent centre,align-items centre to body tag in css file ."
 },
+{
+    "id": "205"
+    "question": "Full form of AR?"
+    "answerLink": "Augmented Reality"
+},
 ]
 
