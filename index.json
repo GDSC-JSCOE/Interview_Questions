@@ -1079,5 +1079,11 @@
     "question": "How to centre a div in body?"
     "answerLink": "Add display flex, justify-conntent centre,align-items centre to body tag in css file ."
 },
+
+{
+        "id":"206"
+        "question":"What happens if you remove static modifier from the main method",
+        "answerlink":"Program compiles successfully.But at runtime throws an error"
+},
 ]
 
