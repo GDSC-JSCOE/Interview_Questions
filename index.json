@@ -956,4 +956,10 @@
   	"question": "Which Programming language is used in Flutter?",
   	"answerlink": "Dart"
   },
+  {
+    "id": "182",
+    "question": "How to Flatten or Widen Images With CSS ?",
+    "answerlink": "object-fit: cover;"
+}
+
 ]
