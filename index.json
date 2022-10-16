@@ -1045,4 +1045,9 @@
     "question": "Do you have any job experience in the field of development?"
     "answerLink": "Yes I've worked with a small start up and have develeped an app for their user "
 },
-  ]
+{
+        "id": "199",
+        "question": "What is the size of an integer in bits?",
+        "answerLink": "The size of an integer is of 32 bits "
+}, 
+]
