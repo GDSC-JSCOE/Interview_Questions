@@ -1079,5 +1079,12 @@
     "question": "How to centre a div in body?"
     "answerLink": "Add display flex, justify-conntent centre,align-items centre to body tag in css file ."
 },
+
+{
+        "id":"206"
+        "question":"What is blank final variable",
+        "answerlink":"A final variable in Java can be assigned a value once,we can assign a value either in declaration or later"
+},
+        
 ]
 
