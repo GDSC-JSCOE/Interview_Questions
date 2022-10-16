@@ -1030,5 +1030,11 @@
     "answerLink" : "Open"
         
 },
+   {
+  	"id": "196",
+  	"question": "Have you done competative codding ever?If yes which platform do you choose to do it? ",
+  	"answerlink": "Yes I have done competative cooding on codechef and leetcode",
+  },
+
  
   ]
