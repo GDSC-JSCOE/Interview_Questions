@@ -897,7 +897,7 @@
   {
     "id" : "170",
     "question" : "Which of the following is not a system call?",
-    "answerLink" : "Open"  
+    "answerLink" : "Open"
 },
 {
         "id": "171 ",
@@ -942,8 +942,13 @@
         "question": "To access the services of the operating system, the interface is provided by the ___________",
         "answerLink": "To access services of the Operating System an interface is provided by the System Calls. Generally, these are functions written in C and C++. Open, Close, Read, Write are some of most prominently used system calls."
     },
+      {
+        "id" : "179",
+        "question" : "How many Programming languages do you know?",
+        "answerLink" : "C,C++,Java,Python,C#,JavaScript,TypeScript, etc...."     
+},
     {
-  	"id": "179",
+  	"id": "180",
   	"question": "Python is programming or scripting language",
   	"answerlink": "A scripting language is one that is interpreted. Python is an interpreted language. Python uses an interpreter to translate and run its code. Hence Python is a scripting language.",
 },
