@@ -294,7 +294,7 @@
     {
         "id": "57",
         "question": "How will you avoid gold plating?",
-        "answerLink": ""
+        "answerLink": "https://monday.com/blog/project-management/gold-plating/"
     },
     {
         "id": "58",
@@ -957,9 +957,53 @@
   	"answerlink": "Dart"
   },
   {
-    "id": "182",
+  	"id": "182",
+  	"question": "What is the main function of the command interpreter?",
+  	"answerlink": "Main function of the command interpreter is to get and execute the next user-specified command",
+},
+ { 
+    "id" : "183",
+    "question" : "If a process fails, most operating system write the error information to a ______",
+    "answerLink" : "If a process fails, most operating systems write the error information to a log file. Log file is examined by the debugger, to find out what is the actual cause of that particular problem. Log file is useful for system programmers for correcting errors."
+        },
+
+{ 
+    "id" : "184",
+    "question" : "Which programming languages are used for Android DEVELOPMENT?",
+    "answerLink" : "Kotlin , Java"
+        },
+
+{ 
+    "id" : "185",
+    "question" : "Why did you choose to become web developer?",
+    "answerLink" : "I love to solve the problems and find appropriate solutions.By developing website I can solve the problems of various companies and organisation "
+       
+},
+{
+    "id" : "186",
+    "question" : "Tell me one thing you like about yourself?",
+    "answerLink" : "I am good listener"
+},
+{
+ 
+    "id" : "187",
+    "question" : "What's motivates you to code?",
+    "answerLink" : "I love coding because I love to solve the problems of the society "
+},
+{
+  	"id": "188",
+  	"question": "What function does Bundle perform in Android?",
+  	"answerlink": "Bundles in Android are used to pass the required data between various Android activities."
+},
+ {
+ 
+    "id" : "189",
+    "question" : "How many element one can have with the same id in html?",
+    "answerLink" : "only one"
+},
+{
+"id": "190",
     "question": "How to Flatten or Widen Images With CSS ?",
     "answerlink": "object-fit: cover;"
 }
-
 ]
