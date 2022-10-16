@@ -812,7 +812,7 @@
     },
        
 {
-        "id": "154 ",
+        "id": "154",
         "question": "any past criminal record ?",
         "answerLink": "no, i do not have any criminal background "
     },
@@ -956,8 +956,8 @@
   	"question": "Which Programming language is used in Flutter?",
   	"answerlink": "Dart"
   },
-  {
-  	"id": "182",
+{
+    "id": "182",
   	"question": "What is the main function of the command interpreter?",
   	"answerlink": "Main function of the command interpreter is to get and execute the next user-specified command",
 },
@@ -1019,10 +1019,15 @@
         "question": "What is PYTHONPATH in Python?",
         "answerLink": "PYTHONPATH is an environment variable which you can set to add additional directories where Python will look for modules and packages. This is especially useful in maintaining Python libraries that you do not wish to install in the global default location. "
     },
-       {
- 
+    { 
     "id" : "194",
     "question" : "How many types of loops does c++ has and what are they?",
     "answerLink" : "C++ has 3 types of loops as follows for loop,while loop,do while loop."
+},
+ { 
+    "id" : "195",
+    "question" : "Which of the following is not a system call?",
+    "answerLink" : "Open"
+        
 },
 ]
