@@ -849,5 +849,12 @@
     "answerLink" : "Open"
         
 }
+{
+ 
+    "id" : "160",
+    "question" : "Explain constructor in C++?",
+    "answerLink" : "The constructor is a member function that is executed automatically whenever an object is created"
+        
+}
  
   ]
