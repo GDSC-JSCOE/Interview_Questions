@@ -985,7 +985,6 @@
     "answerLink" : "I am good listener"
 },
 {
- 
     "id" : "187",
     "question" : "What's motivates you to code?",
     "answerLink" : "I love coding because I love to solve the problems of the society "
@@ -1006,9 +1005,14 @@
     "answerLink" : "Open"
         
 },
-{
+  {
         "id": "191",
         "question": "What is your favourite language ?",
         "answerLink": "I like to code in python because its easy to write language."
+    },
+    {
+        "id": "192 ",
+        "question": "What do you do in your free time ?",
+        "answerLink": "I read blogs about startups. "
     },
 ]
