@@ -1045,4 +1045,10 @@
     "question": "Do you have any job experience in the field of development?"
     "answerLink": "Yes I've worked with a small start up and have develeped an app for their user "
 },
+ {
+    "id": "199"
+    "question": "How to centre a div in body?"
+    "answerLink": "Add display flex, justify-conntent centre,align-items centre to body tag in css file."
+},
+
   ]
