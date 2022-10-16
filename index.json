@@ -812,7 +812,7 @@
     },
        
 {
-        "id": "154 ",
+        "id": "154",
         "question": "any past criminal record ?",
         "answerLink": "no, i do not have any criminal background "
     },
@@ -854,7 +854,6 @@
     "question" : "Explain constructor in C++?",
     "answerLink" : "The constructor is a member function that is executed automatically whenever an object is created"
         
-}
 },
 {
         "id": "162",
