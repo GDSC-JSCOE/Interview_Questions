@@ -883,6 +883,11 @@
     "question" : "Which of the following is not a system call?",
     "answerLink" : "Open"
         
-},
+}, 
+{
+        "id": "168 ",
+        "question": "what are your salary expections ?",
+        "answerLink": "i want market prices salary  "
+    },
 
 ]
