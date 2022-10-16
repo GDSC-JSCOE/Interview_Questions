@@ -849,5 +849,12 @@
     "answerLink" : "Open"
         
 }
+{
+ 
+    "id" : "160",
+    "question" : "What is operator overloading?",
+    "answerLink" : "Operator Overloading is a very essential element to perform the operations on user-defined data types. By operator overloading we can modify the default meaning to the operators like +, -, *, etc. "
+        
+}
  
   ]
