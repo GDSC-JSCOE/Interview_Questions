@@ -843,14 +843,11 @@
   	"answerlink": "A framework is a platform that allows you to create software applications. It gives you the foundation on which you can create a program for a particular platform. It might consist of predetermined functions and classes. You can use a framework to manage the hardware, inputs, and work with the system software.",
   },
   {
- 
     "id" : "160",
     "question" : "Which of the following is not a system call?",
-    "answerLink" : "Open"
-        
+    "answerLink" : "Open"     
 },
-{
- 
+{ 
     "id" : "161",
     "question" : "Explain constructor in C++?",
     "answerLink" : "The constructor is a member function that is executed automatically whenever an object is created"  
@@ -874,7 +871,11 @@
 {
         "id": "165 ",
         "question": "What are your weaknesses ?",
-        "answerLink": "I'm impatient "
- 
+        "answerLink": "I'm impatient " 
 }, 
+{
+        "id": "166",
+        "question": "What is the worst case run-time complexity of binary search algorithm?",
+        "answerLink": "Worst Case Time Complexity is Ο(n) "
+    },
 ]
