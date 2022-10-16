@@ -847,7 +847,18 @@
     "id" : "160",
     "question" : "Which of the following is not a system call?",
     "answerLink" : "Open"
+        },
+{
+ 
+    "id" : "161",
+    "question" : "Explain constructor in C++?",
+    "answerLink" : "The constructor is a member function that is executed automatically whenever an object is created"
         
 },
+{
+        "id": "162",
+        "question": "What is your tech skills?",
+        "answerLink": "Good in compitetive coding "
+    },
  
   ]
