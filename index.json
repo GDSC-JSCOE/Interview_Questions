@@ -1069,6 +1069,10 @@
     "question" : "Which tag is use to define hyperlink in html?",
     "answerLink" : "<a></a> tag or anchor tag"  
 },      
-
+{
+"id": "204",
+    "question": "How to Flatten or Widen Images With CSS ?",
+    "answerlink": "object-fit: cover;"
+},
 ]
 
