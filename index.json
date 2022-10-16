@@ -1079,5 +1079,11 @@
     "question": "How to centre a div in body?"
     "answerLink": "Add display flex, justify-conntent centre,align-items centre to body tag in css file ."
 },
+
+{
+        "id":"205",
+        "question":"What is hashmap in data structure",
+        "answerlink":"It uses an implementation of a hash table data structure which allows access to data in constant time (0(1))complexity if you have the key "
+},
 ]
 
