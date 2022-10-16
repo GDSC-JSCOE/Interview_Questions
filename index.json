@@ -947,4 +947,10 @@
         "question" : "How many Programming languages do you know?",
         "answerLink" : "C,C++,Java,Python,C#,JavaScript,TypeScript, etc...."     
 },
+    {
+  	"id": "180",
+  	"question": "Python is programming or scripting language",
+  	"answerlink": "A scripting language is one that is interpreted. Python is an interpreted language. Python uses an interpreter to translate and run its code. Hence Python is a scripting language.",
+},
+
 ]
