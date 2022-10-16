@@ -965,8 +965,8 @@
     "id" : "183",
     "question" : "If a process fails, most operating system write the error information to a ______",
     "answerLink" : "If a process fails, most operating systems write the error information to a log file. Log file is examined by the debugger, to find out what is the actual cause of that particular problem. Log file is useful for system programmers for correcting errors."
-        
-},
+        },
+
 { 
     "id" : "184",
     "question" : "Which programming languages are used for Android DEVELOPMENT?",
@@ -994,5 +994,11 @@
   	"id": "188",
   	"question": "What function does Bundle perform in Android?",
   	"answerlink": "Bundles in Android are used to pass the required data between various Android activities."
+},
+ {
+ 
+    "id" : "189",
+    "question" : "How many element one can have with the same id in html?",
+    "answerLink" : "only one"
 },
 ]
