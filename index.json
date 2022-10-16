@@ -1035,6 +1035,10 @@
   	"question": "Have you done competative codding ever?If yes which platform do you choose to do it? ",
   	"answerlink": "Yes I have done competative cooding on codechef and leetcode",
   },
-
+{
+        "id": "197",
+        "question": " What extra skills do you have ?",
+        "answerLink": "Along with codding Im quite good at web development I have good knowledge of both front and back end development. Also I'm good in communicating with new people. "
+    },
  
   ]
