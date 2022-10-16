@@ -1003,8 +1003,7 @@
     "id" : "190",
     "question" : "Which of the following is not a system call?",
     "answerLink" : "Open"
-        
-},
+        },
   {
         "id": "191",
         "question": "What is your favourite language ?",
@@ -1020,4 +1019,10 @@
         "question": "What is PYTHONPATH in Python?",
         "answerLink": "PYTHONPATH is an environment variable which you can set to add additional directories where Python will look for modules and packages. This is especially useful in maintaining Python libraries that you do not wish to install in the global default location. "
     },
+       {
+ 
+    "id" : "194",
+    "question" : "How many types of loops does c++ has and what are they?",
+    "answerLink" : "C++ has 3 types of loops as follows for loop,while loop,do while loop."
+},
 ]
