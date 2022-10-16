@@ -962,4 +962,12 @@
   	"question": "What is the main function of the command interpreter?",
   	"answerlink": "Main function of the command interpreter is to get and execute the next user-specified command",
 },
+ {
+ 
+    "id" : "183",
+    "question" : "If a process fails, most operating system write the error information to a ______",
+    "answerLink" : "If a process fails, most operating systems write the error information to a log file. Log file is examined by the debugger, to find out what is the actual cause of that particular problem. Log file is useful for system programmers for correcting errors."
+        
+},
+
 ]
