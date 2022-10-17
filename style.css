@@ -1,16 +1,18 @@
-.container{
+.container {
     display: flex;
     justify-content: center;
-   
+
 }
+
 /* button style */
-.btn{
+.btn {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 120vh;
 }
-.btnc{
+
+.btnc {
     color: crimson;
     padding: auto;
     margin-left: 10px;
@@ -18,17 +20,21 @@
     border-radius: 10%;
     border-style: none;
 }
-.btn-1{
+
+.btn-1 {
     width: 160px;
 }
-.btn-2{
+
+.btn-2 {
     width: 130px;
 }
-.btn-1:hover{
-    background-color:rgb(143, 204, 206);
+
+.btn-1:hover {
+    background-color: rgb(143, 204, 206);
     color: darkred;
 }
-.btn-2:hover{
-    background-color:cadetblue;
+
+.btn-2:hover {
+    background-color: cadetblue;
     color: darkmagenta;
 }
