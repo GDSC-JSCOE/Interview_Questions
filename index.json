@@ -1114,5 +1114,10 @@
     "question": "How to add class in?"
     "answerLink": "By using '.' and '#'."
 },
+{
+        "id":"213"
+        "question":"What happens if you remove static modifier from the main method",
+        "answerlink":"Program compiles successfully.But at runtime throws an error"
+},
     ]
 
