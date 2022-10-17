@@ -11,10 +11,10 @@
         "answerLink": "https://leverageedu.com/blog/self-introduction-in-interview/"
     },
     {
-        "id":15",
+        "id":"15",
         "question":"How would you describe yourself?",
-        "answerLink":"https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers",
-    }
+        "answerLink":"https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers"
+    },
         
         
     {
@@ -299,7 +299,7 @@
     {
         "id": "58",
         "question": "What’s your leadership style?",
-        "answerLink": "My leadership style is a servant leadership style. I put the needs of my team first to help them develop and perform as highly as possible. I am there to make their job easier."
+        "answerLink": "My leadership style is a servant leadership style. I put the needs of my team first to help them develop and perform as highly as possible. I am there to make their job easier.",
         "answerLink": "I would describe my leadership style as direct, and leading by example"
     },
     {
@@ -430,7 +430,7 @@
     {
         "id": "82",
         "question": "How much do you expect to be earning in five years?",
-        "answerLink": "https://www.glassdoor.com/blog/guide/where-do-you-see-yourself-in-5-years/"
+        "answerLink": "https://www.glassdoor.com/blog/guide/where-do-you-see-yourself-in-5-years/",
         "answerLink": "http://www.lioncubjobsearch.com/2014/05/what-do-you-expect-to-be-earning-in.html",
         "answerLink": "https://www.livecareer.com/resources/interviews/questions/what-do-you-expect-to-be-earning-in-five-years"
     },
@@ -617,8 +617,8 @@
         "answerLink" : "The Virtual DOM is the lightweight version of the Real DOM that React retains in memory. Because nothing is drawn on the screen when processing Real DOM, it is substantially slower than handling virtual DOM. When an object's state changes, Virtual DOM updates only that object in the real DOM rather than all of them."
     },
     {
-        "id" : "119"
-        "question" : "Can you work under pressure?"
+        "id" : "119",
+        "question" : "Can you work under pressure?",
         "answerLink" : "Yes! I can do job under pressure. I will overcome pressure by Perfect and proper planning so that it doesn’t lead the work to the pressure."
     },
 
@@ -633,7 +633,7 @@
         "question" : "What is Dangling Pointers?",
         "answerLink" : "https://www.javatpoint.com/dangling-pointers-in-c"
     },
- 
+    {
         "id": "122",
         "question": "What can you bring to the company?",
         "answerLink": "https://www.themuse.com/advice/interview-questions-and-answers"
@@ -774,8 +774,7 @@
         "id": "147",
         "question": "Which technologies and languages would you need to develop a project from scratch?",
         "answerLink": "https://www.digitalvidya.com/blog/popular-full-stack-web-developer-interview-questions-and-answers/#:~:text=which%20technologies%20and%20languages%20would%20you%20need%20to%20develop%20a%20project%20from%20scratch%3F"
-    }
-    
+    },
     {
         "id": "148",
         "question": "How do you think your previous managers/coworkers would describe working with you?",
@@ -790,8 +789,7 @@
         "id": "150",
         "question": "What's your management style?",
         "answerLink": "Management style is so hard to put your finger on, but I think in general a good manager gives clear directions and actually stays pretty hands-off, but is ready and available to jump in to offer guidance, expertise, and help when needed. I try my best to make that my management style. I also go out of my way to make sure I know when my team needs help. That means plenty of informal check-ins, both on the work they’re doing and on their general job satisfaction and mental well-being."
-    }
-
+    },
    {
         "id": "151",
         "question": "What motivates you?",
@@ -816,7 +814,6 @@
         "question": "any past criminal record ?",
         "answerLink": "no, i do not have any criminal background "
     },
-    
     {
         "id": "155",
         "question": "It is always with us,but can't catch it? ",
@@ -835,12 +832,12 @@
   {
   	"id": "158",
   	"question": "How is DevOps different from Agile Methodology?",
-  	"answerlink": "https://azure.microsoft.com/en-in/overview/devops-vs-agile/#:~:text=DevOps%20is%20a%20culture%2C%20fostering,common%20reality%20of%20changing%20needs.",
+  	"answerlink": "https://azure.microsoft.com/en-in/overview/devops-vs-agile/#:~:text=DevOps%20is%20a%20culture%2C%20fostering,common%20reality%20of%20changing%20needs."
   },
    {
   	"id": "159",
   	"question": "What is a Framework?",
-  	"answerlink": "A framework is a platform that allows you to create software applications. It gives you the foundation on which you can create a program for a particular platform. It might consist of predetermined functions and classes. You can use a framework to manage the hardware, inputs, and work with the system software.",
+  	"answerlink": "A framework is a platform that allows you to create software applications. It gives you the foundation on which you can create a program for a particular platform. It might consist of predetermined functions and classes. You can use a framework to manage the hardware, inputs, and work with the system software."
   }, 
  {
     "id" : "160",
@@ -914,7 +911,7 @@
     "id" : "173",
     "question" : "What is operator overloading?",
     "answerLink" : "Operator Overloading is a very essential element to perform the operations on user-defined data types. By operator overloading we can modify the default meaning to the operators like +, -, *, etc. "
-        }
+        },
  {
         "id": "174",
         "question": " Tell us about the most challenging projects you have managed so far? What were the steps you have taken to tackle the challenges? ",
@@ -923,12 +920,12 @@
     {
   	"id": "175",
   	"question": "Is Django backend or front end?",
-  	"answerlink": "Django is suitable for both the backend and frontend. It's a collection of Python libraries that allow you to develop useful web apps ideal for backend and frontend purposes.",
+  	"answerlink": "Django is suitable for both the backend and frontend. It's a collection of Python libraries that allow you to develop useful web apps ideal for backend and frontend purposes."
   },
 {
   	"id": "176",
   	"question": "Is Django a CMS?",
-  	"answerlink": "No, Django is not CMS (Content Management System). It's just a web framework and programming tool that allows you to build websites.",
+  	"answerlink": "No, Django is not CMS (Content Management System). It's just a web framework and programming tool that allows you to build websites."
   },
 
 { 
@@ -949,7 +946,7 @@
     {
   	"id": "180",
   	"question": "Python is programming or scripting language",
-  	"answerlink": "A scripting language is one that is interpreted. Python is an interpreted language. Python uses an interpreter to translate and run its code. Hence Python is a scripting language.",
+  	"answerlink": "A scripting language is one that is interpreted. Python is an interpreted language. Python uses an interpreter to translate and run its code. Hence Python is a scripting language."
 },
 {
   	"id": "181",
@@ -959,7 +956,7 @@
 {
     "id": "182",
   	"question": "What is the main function of the command interpreter?",
-  	"answerlink": "Main function of the command interpreter is to get and execute the next user-specified command",
+  	"answerlink": "Main function of the command interpreter is to get and execute the next user-specified command"
 },
  { 
     "id" : "183",
@@ -1032,7 +1029,7 @@
    {
   	"id": "196",
   	"question": "Have you done competative codding ever?If yes which platform do you choose to do it? ",
-  	"answerlink": "Yes I have done competative cooding on codechef and leetcode",
+  	"answerlink": "Yes I have done competative cooding on codechef and leetcode"
   },
 {
         "id": "197",
@@ -1040,8 +1037,8 @@
         "answerLink": "Along with codding Im quite good at web development I have good knowledge of both front and back end development. Also I'm good in communicating with new people. "
     },
  {
-    "id": "198"
-    "question": "Do you have any job experience in the field of development?"
+    "id": "198",
+    "question": "Do you have any job experience in the field of development?",
     "answerLink": "Yes I've worked with a small start up and have develeped an app for their user "
 },
 {
@@ -1075,8 +1072,8 @@
     "answerlink": "object-fit: cover;"
 },
   {
-    "id": "205"
-    "question": "How to centre a div in body?"
+    "id": "205",
+    "question": "How to centre a div in body?",
     "answerLink": "Add display flex, justify-conntent centre,align-items centre to body tag in css file ."
 },
  {
@@ -1094,20 +1091,20 @@
         "question":"What is hashmap in data structure",
         "answerlink":"It uses an implementation of a hash table data structure which allows access to data in constant time (0(1))complexity if you have the key "
 },
-   {
-    "id": "209"
-    "question": "What is a Self-Join in SQL ?"
-    "answerLink": "A self JOIN is a case of regular join where a table is joined to itself based on some relation between its own column(s).
+{
+    "id": "209",
+    "question": "What is a Self-Join in SQL ?",
+    "answerLink": "A self JOIN is a case of regular join where a table is joined to itself based on some relation between its own column(s)"
    },
    {
-    "id": "210"
-    "question": "What is thread explain?"
+    "id": "210",
+    "question": "What is thread explain?",
     "answerLink": "A thread is a single sequential flow of control within a program."
 },
 {
-        "id":"211"
+        "id":"211",
         "question":"Can we Overload Static Methods",
         "answerlink":"Yes we can but tey should have different parameters"
-},
+}
     ]
 
