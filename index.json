@@ -1104,5 +1104,10 @@
     "question": "What is thread explain?"
     "answerLink": "A thread is a single sequential flow of control within a program."
 },
+{
+        "id":"211"
+        "question":"Can we Overload Static Methods",
+        "answerlink":"Yes we can but tey should have different parameters"
+},
     ]
 
