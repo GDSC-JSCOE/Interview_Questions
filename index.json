@@ -1084,7 +1084,6 @@
      "question": "What motivates you?",
      "answerLink": "https://www.thomsonreuters.com/en/careers/careers-blog/20-ways-employees-are-motivated-by-work.html#:~:text=A%20great%20work%20environment,in%20so%20that%20you%20succeed."
     },
-
 {
         "id": "207",
         "question": "How would you describe your work style?",
@@ -1095,5 +1094,10 @@
         "question":"What is hashmap in data structure",
         "answerlink":"It uses an implementation of a hash table data structure which allows access to data in constant time (0(1))complexity if you have the key "
 },
+   {
+    "id": "209"
+    "question": "What is a Self-Join in SQL ?"
+    "answerLink": "A self JOIN is a case of regular join where a table is joined to itself based on some relation between its own column(s).
+   },
     ]
 
