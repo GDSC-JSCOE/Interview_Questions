@@ -1109,5 +1109,10 @@
         "question":"Can we Overload Static Methods",
         "answerlink":"Yes we can but tey should have different parameters"
 },
+{
+    "id": "212"
+    "question": "How to add class in?"
+    "answerLink": "By using '.' and '#'."
+},
     ]
 
