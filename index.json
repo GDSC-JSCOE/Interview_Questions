@@ -1,4 +1,5 @@
-[{
+[
+    {
         "id": "1",
         "question": "Introduce Yourself",
         "answerLink": "Hi my name is Prathamesh Adinawar, I am currently studying computer engineering at JSCOE (Jaywantrao sawant College of Engineering , and I will be graduated in year 2024 as a fresher)"
@@ -11,12 +12,10 @@
         "answerLink": "https://leverageedu.com/blog/self-introduction-in-interview/"
     },
     {
-        "id":15",
-        "question":"How would you describe yourself?",
-        "answerLink":"https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers",
-    }
-        
-        
+        "id": "15",
+        "question": "How would you describe yourself?",
+        "answerLink": "https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers"
+    },
     {
         "id": "3",
         "question": "What are your weaknesses?",
@@ -299,7 +298,7 @@
     {
         "id": "58",
         "question": "What’s your leadership style?",
-        "answerLink": "My leadership style is a servant leadership style. I put the needs of my team first to help them develop and perform as highly as possible. I am there to make their job easier."
+        "answerLink": "My leadership style is a servant leadership style. I put the needs of my team first to help them develop and perform as highly as possible. I am there to make their job easier.",
         "answerLink": "I would describe my leadership style as direct, and leading by example"
     },
     {
@@ -430,7 +429,7 @@
     {
         "id": "82",
         "question": "How much do you expect to be earning in five years?",
-        "answerLink": "https://www.glassdoor.com/blog/guide/where-do-you-see-yourself-in-5-years/"
+        "answerLink": "https://www.glassdoor.com/blog/guide/where-do-you-see-yourself-in-5-years/",
         "answerLink": "http://www.lioncubjobsearch.com/2014/05/what-do-you-expect-to-be-earning-in.html",
         "answerLink": "https://www.livecareer.com/resources/interviews/questions/what-do-you-expect-to-be-earning-in-five-years"
     },
@@ -569,139 +568,127 @@
         "question": "  What are the biggest challenges of working on the front end of an application?",
         "answerLink": "https://www.vivantatechnologies.com/challenges-in-front-end-designing"
     },
-
     {
-        "id" : "110",
-        "question" : "  What’s your work style?",
-        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#1f0901e8-e40a-44ea-ad0e-5905cb4828c0"
-    },
-    
-    {
-        "id" : "111",
-        "question" : "  What is kirchhoff's law ?",
-        "answerLink" : "The voltage around a loop equals the sum of every voltage drop in the same loop for any closed network and equals zero."
+        "id": "110",
+        "question": "  What’s your work style?",
+        "answerLink": "https://www.themuse.com/advice/interview-questions-and-answers#1f0901e8-e40a-44ea-ad0e-5905cb4828c0"
     },
     {
-        "id" : "112",
-        "question" : "  What is newton's third law?",
-        "answerLink" : "Every action has equal and opposite reaction."
+        "id": "111",
+        "question": "  What is kirchhoff's law ?",
+        "answerLink": "The voltage around a loop equals the sum of every voltage drop in the same loop for any closed network and equals zero."
     },
     {
-        "id" : "113",
-        "question" : "  Tell me something about transformers",
-        "answerLink" : "There are two kind of transformers Step up transformer - These transformers are used in increasing the current supplied and Step down transformer - These trnasformers are used in decreasing the current supplied."
+        "id": "112",
+        "question": "  What is newton's third law?",
+        "answerLink": "Every action has equal and opposite reaction."
     },
     {
-        "id" : "114",
-        "question" : "  What is the full form for SDLC?",
-        "answerLink" : "The full form for SDLC is Software development life-cycle"
+        "id": "113",
+        "question": "  Tell me something about transformers",
+        "answerLink": "There are two kind of transformers Step up transformer - These transformers are used in increasing the current supplied and Step down transformer - These trnasformers are used in decreasing the current supplied."
     },
     {
-        "id" : "115",
-        "question" : "  Explain SDLC",
-        "answerLink" : "https://www.tutorialspoint.com/sdlc/sdlc_overview.htm"
-    },
-   {
-        "id" : "116",
-        "question" : "Top 25+ JavaScript Interview Questions You Must Prepare in 2022",
-        "answerLink" : "https://www.dotnettricks.com/learn/javascript/javascript-interview-questions"
-    },    
-    {
-        "id" : "117",
-        "question" : "Your 2022 Guide to the Most Common Interview Questions and Answers",
-        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers"        
-    },
-   {
-        "id" : "118",
-        "question" : "What is Virtual DOM?",
-        "answerLink" : "The Virtual DOM is the lightweight version of the Real DOM that React retains in memory. Because nothing is drawn on the screen when processing Real DOM, it is substantially slower than handling virtual DOM. When an object's state changes, Virtual DOM updates only that object in the real DOM rather than all of them."
+        "id": "114",
+        "question": "  What is the full form for SDLC?",
+        "answerLink": "The full form for SDLC is Software development life-cycle"
     },
     {
-        "id" : "119"
-        "question" : "Can you work under pressure?"
-        "answerLink" : "Yes! I can do job under pressure. I will overcome pressure by Perfect and proper planning so that it doesn’t lead the work to the pressure."
+        "id": "115",
+        "question": "  Explain SDLC",
+        "answerLink": "https://www.tutorialspoint.com/sdlc/sdlc_overview.htm"
     },
-
     {
-        "id" : "120",
-        "question" : "Why did you leave your last job?",
-        "answerLink" : "In my last workplace, I didnt have the scope to grow in my field anymore hence I needed a new work environment to upgrade my skills."
-        
-    },    
-    {
-        "id" : "121",
-        "question" : "What is Dangling Pointers?",
-        "answerLink" : "https://www.javatpoint.com/dangling-pointers-in-c"
+        "id": "116",
+        "question": "Top 25+ JavaScript Interview Questions You Must Prepare in 2022",
+        "answerLink": "https://www.dotnettricks.com/learn/javascript/javascript-interview-questions"
     },
- 
+    {
+        "id": "117",
+        "question": "Your 2022 Guide to the Most Common Interview Questions and Answers",
+        "answerLink": "https://www.themuse.com/advice/interview-questions-and-answers"
+    },
+    {
+        "id": "118",
+        "question": "What is Virtual DOM?",
+        "answerLink": "The Virtual DOM is the lightweight version of the Real DOM that React retains in memory. Because nothing is drawn on the screen when processing Real DOM, it is substantially slower than handling virtual DOM. When an object's state changes, Virtual DOM updates only that object in the real DOM rather than all of them."
+    },
+    {
+        "id": "119",
+        "question": "Can you work under pressure?",
+        "answerLink": "Yes! I can do job under pressure. I will overcome pressure by Perfect and proper planning so that it doesn’t lead the work to the pressure."
+    },
+    {
+        "id": "120",
+        "question": "Why did you leave your last job?",
+        "answerLink": "In my last workplace, I didnt have the scope to grow in my field anymore hence I needed a new work environment to upgrade my skills."
+    },
+    {
+        "id": "121",
+        "question": "What is Dangling Pointers?",
+        "answerLink": "https://www.javatpoint.com/dangling-pointers-in-c"
+    },
+    {
         "id": "122",
         "question": "What can you bring to the company?",
         "answerLink": "https://www.themuse.com/advice/interview-questions-and-answers"
     },
- {
-        "id" : "123",
-        "question" : "What is object-oriented programming(OOP)?",
-        "answerLink" : "https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP"
-        
-    } ,     
-   {
-        "id":"124",
-        "question":"Tell me about microservers?",
-        "answerLink":"https://aws.amazon.com/microservices/#:~:text=Microservices%20are%20an%20architectural%20and,small%2C%20self%2Dcontained%20teams."
+    {
+        "id": "123",
+        "question": "What is object-oriented programming(OOP)?",
+        "answerLink": "https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP"
     },
     {
-        "id":"125",
-        "question":"what is the meaning of orchestration in devops?",
-        "answerLink":"https://www.redhat.com/en/topics/automation/what-is-orchestration#:~:text=Orchestration%20is%20the%20automated%20configuration,isn't%20a%20scalable%20strategy."
-    
-    } ,
+        "id": "124",
+        "question": "Tell me about microservers?",
+        "answerLink": "https://aws.amazon.com/microservices/#:~:text=Microservices%20are%20an%20architectural%20and,small%2C%20self%2Dcontained%20teams."
+    },
+    {
+        "id": "125",
+        "question": "what is the meaning of orchestration in devops?",
+        "answerLink": "https://www.redhat.com/en/topics/automation/what-is-orchestration#:~:text=Orchestration%20is%20the%20automated%20configuration,isn't%20a%20scalable%20strategy."
+    },
     {
         "id": "126",
         "question": "How you will swap two number without using 3rd variable ?",
         "answerLink": "https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/"
     },
-   {
+    {
         "id": "127",
         "question": "Top 25 Technical Support Interview Questions With Answers",
         "answerLink": "https://www.softwaretestinghelp.com/technical-support-interview-questions/"
     },
-
     {
         "id": "128",
         "question": "What kind of culture are you looking for in a company?",
         "answerLink": "I am looking for a culture with promotes healthy competition, coordinates with each other at professional as well as personal level and conducts get togethers for bonding with employees."
     },
-
     {
         "id": "129",
         "question": "What do you bring to our organization that other candidates do not??",
         "answerLink": "I am confident about my proactive presence and keeping the motivation of the team always up."
     },
-    
     {
         "id": "130",
         "question": "What will you do if you don't get this job/into this program?",
         "answerLink": "I would definitely be a little upset about it but I will work on myself and make myself capable for the job"
     },
-
     {
         "id": "131",
         "question": "Do you view yourself as overqualified for this position/program?",
         "answerLink": "I do see myself overqualified as I discussed my qualifications and eligibility with my mentors and they recommended it to be perfect for me"
     },
-
     {
         "id": "132",
         "question": "Do you prefer to work alone or on a team?",
         "answerLink": "I prefer to work in a team as it distributes the work load and help with making a better finished product/service. We also gets to learn a lot from each other."
     },
-    
     {
-        "id" : "133",
-        "question" : "  Explain SDLC",
-        "answerLink" : "https://www.tutorialspoint.com/sdlc/sdlc_overview.htm"
+        "id": "133",
+        "question": "  Explain SDLC",
+        "answerLink": "https://www.tutorialspoint.com/sdlc/sdlc_overview.htm"
     },
-   {
+    {
         "id": "134",
         "question": "How do you want to improve yourself in the next year?",
         "answerLink": "IN every aspect like relationship with myself and others "
@@ -710,7 +697,6 @@
         "id": "135",
         "question": "Tell me about a time where you had to deal with conflict on the job.",
         "answerLink": "Not done any job yet so your company will be the first to experince such a thing"
-
     },
     {
         "id": "136",
@@ -719,293 +705,277 @@
     },
     {
         "id": "137",
-        "question":  "Why are you interested in this job?",
+        "question": "Why are you interested in this job?",
         "answerLink": "https://www.interviewbit.com/computer-science-interview-questions/#:~:text=in%20my%20profession.-,49.%20why%20are%20you%20interested%20in%20this%20job,-(related%20to%20CS"
     },
-{
+    {
         "id": "138",
         "question": "What are the Pillars of OOPS?",
-        "answerLink": "https://www.codingninjas.com/codestudio/library/four-pillars-of-oops"    
+        "answerLink": "https://www.codingninjas.com/codestudio/library/four-pillars-of-oops"
     },
-       {
+    {
         "id": "139",
         "question": "Features of Java?",
-        "answerLink": "https://www.javatpoint.com/features-of-java" 
+        "answerLink": "https://www.javatpoint.com/features-of-java"
     },
-  {
+    {
         "id": "140",
         "question": "How do you build a random forest model?",
         "answerLink": "https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions"
     },
-
     {
         "id": "141",
         "question": "Do you value creativity or efficiency more??",
         "answerLink": "I value creativity more than efficiency as creativity will uplift the company to new heights with never seen before ideas and efficiency will only speed up that growth."
     },
-
     {
         "id": "142",
         "question": "Where Do You See Yourself Five Years From Now?",
         "answerLink": "https://www.naukri.com/blog/where-do-you-see-yourself-five-years-from-now-sample-answers-to-this-hr-interview-question-utm_source-naukri-utm_medium-undefined-utm_campaign-naukri_blogs/"
     },
-      {
+    {
         "id": "143",
         "question": "Where do you see yourself in 5 years?",
         "answerLink": "https://novoresume.com/career-blog/where-do-you-see-yourself-in-5-years"
     },
-     {
+    {
         "id": "144",
         "question": " How do you deal with pressure or stressful situations?",
         "answerLink": "I realize stressful situation are always going to come up, and I definitely have had to learn how to navigate them throughout my career. I think I get better at it with every new experience."
     },
-     {
+    {
         "id": "145",
         "question": " What can I expect in my first 30/60/90 days on the job?",
         "answerLink": "first three months of working in a new position. During this time,new employees learn about their specific job duties, company processes and the culture of the organization. "
     },
-    
-       {
+    {
         "id": "146",
         "question": "What would you do if your manager gave you a seemingly impossible task with a tight deadline?",
         "answerLink": "Clear your work schedule,Work on it one step at a time,Get help from the beginning,Break the project down,Have a disclaimer in proposals and quotes"
     },
- {
+    {
         "id": "147",
         "question": "Which technologies and languages would you need to develop a project from scratch?",
         "answerLink": "https://www.digitalvidya.com/blog/popular-full-stack-web-developer-interview-questions-and-answers/#:~:text=which%20technologies%20and%20languages%20would%20you%20need%20to%20develop%20a%20project%20from%20scratch%3F"
-    }
-    
+    },
     {
         "id": "148",
         "question": "How do you think your previous managers/coworkers would describe working with you?",
         "answerLink": "My colleagues would describe me as a natural leader. I often take the lead on projects and facilitate communication between different groups to make sure we’re all on the same page. This is why, in my last job, my boss put me in charge of coordinating projects between our department and two others."
     },
-   {
+    {
         "id": "149",
         "question": "What is our CEO/founder’s name?",
         "answerLink": "Thanks for the easy question! In my research, I found that your CEO XYZ has had a lot of volunteer experience. I read that he spent a lot of time with XYZ Foundation, which is impressive to me since I did the same thing a few years ago. I would love to talk with him about his experiences there."
     },
-   {
+    {
         "id": "150",
         "question": "What's your management style?",
         "answerLink": "Management style is so hard to put your finger on, but I think in general a good manager gives clear directions and actually stays pretty hands-off, but is ready and available to jump in to offer guidance, expertise, and help when needed. I try my best to make that my management style. I also go out of my way to make sure I know when my team needs help. That means plenty of informal check-ins, both on the work they’re doing and on their general job satisfaction and mental well-being."
-    }
-
-   {
+    },
+    {
         "id": "151",
         "question": "What motivates you?",
         "answerLink": "https://www.thomsonreuters.com/en/careers/careers-blog/20-ways-employees-are-motivated-by-work.html#:~:text=A%20great%20work%20environment,in%20so%20that%20you%20succeed."
     },
- 
     {
         "id": "152",
         "question": "Do you view yourself as overqualified for this position/program?",
         "answerLink": "I do see myself overqualified as I discussed my qualifications and eligibility with my mentors and they recommended it to be perfect for me"
     },
- 
-   {
-        "id" : "153",
-        "courseName" : "Python Regression Analysis: Statistics & Machine Learning",
-        "platform" : "Udemy",
-        "courseLink" : "https://www.udemy.com/course/python-regression-analysis-statistics-machine-learning/"
+    {
+        "id": "153",
+        "courseName": "Python Regression Analysis: Statistics & Machine Learning",
+        "platform": "Udemy",
+        "courseLink": "https://www.udemy.com/course/python-regression-analysis-statistics-machine-learning/"
     },
-       
-{
+    {
         "id": "154",
         "question": "any past criminal record ?",
         "answerLink": "no, i do not have any criminal background "
     },
-    
     {
         "id": "155",
         "question": "It is always with us,but can't catch it? ",
         "answerLink": "https://en.wikipedia.org/wiki/puzzles"
-         },
-         {
-          "id": "156",
+    },
+    {
+        "id": "156",
         "question": "Describe how you prepared for this interview?",
         "answerLink": "https://www.livecareer.com/resources/interviews/questions/how-did-you-prepare-for-this-work"
-           },
-         {
-          "id": "157",
+    },
+    {
+        "id": "157",
         "question": "What is the Function of the Byte Stream?",
         "answerLink": "We use the byte stream to implement input and output for Unicode with 8 bits."
-           },
-  {
-  	"id": "158",
-  	"question": "How is DevOps different from Agile Methodology?",
-  	"answerlink": "https://azure.microsoft.com/en-in/overview/devops-vs-agile/#:~:text=DevOps%20is%20a%20culture%2C%20fostering,common%20reality%20of%20changing%20needs.",
-  },
-   {
-  	"id": "159",
-  	"question": "What is a Framework?",
-  	"answerlink": "A framework is a platform that allows you to create software applications. It gives you the foundation on which you can create a program for a particular platform. It might consist of predetermined functions and classes. You can use a framework to manage the hardware, inputs, and work with the system software.",
-  }, 
- {
-    "id" : "160",
-    "question" : "Which of the following is not a system call?",
-    "answerLink" : "Open"     
-},
-{ 
-    "id" : "161",
-    "question" : "Explain constructor in C++?",
-    "answerLink" : "The constructor is a member function that is executed automatically whenever an object is created"  
-},
-{
+    },
+    {
+        "id": "158",
+        "question": "How is DevOps different from Agile Methodology?",
+        "answerlink": "https://azure.microsoft.com/en-in/overview/devops-vs-agile/#:~:text=DevOps%20is%20a%20culture%2C%20fostering,common%20reality%20of%20changing%20needs."
+    },
+    {
+        "id": "159",
+        "question": "What is a Framework?",
+        "answerlink": "A framework is a platform that allows you to create software applications. It gives you the foundation on which you can create a program for a particular platform. It might consist of predetermined functions and classes. You can use a framework to manage the hardware, inputs, and work with the system software."
+    },
+    {
+        "id": "160",
+        "question": "Which of the following is not a system call?",
+        "answerLink": "Open"
+    },
+    {
+        "id": "161",
+        "question": "Explain constructor in C++?",
+        "answerLink": "The constructor is a member function that is executed automatically whenever an object is created"
+    },
+    {
         "id": "162",
         "question": "What is your tech skills?",
         "answerLink": "Good in compitetive coding "
     },
- {
-    "id": "163",
-    "question": "What is the meaning of your name and how do you live up to your name?",
-    "answerLink": "https://www.adda247.com/defence-jobs/questions-asked-in-ssb-interview"
-},
-{ 
-    "id" : "164",
-    "question" : "what is SQL?",
-    "answerLink" : "SQL is a database language"
-      
-}, 
-{
+    {
+        "id": "163",
+        "question": "What is the meaning of your name and how do you live up to your name?",
+        "answerLink": "https://www.adda247.com/defence-jobs/questions-asked-in-ssb-interview"
+    },
+    {
+        "id": "164",
+        "question": "what is SQL?",
+        "answerLink": "SQL is a database language"
+    },
+    {
         "id": "165 ",
         "question": "What are your weaknesses ?",
-        "answerLink": "I'm impatient " 
-}, 
-{
+        "answerLink": "I'm impatient "
+    },
+    {
         "id": "166",
         "question": "What is the worst case run-time complexity of binary search algorithm?",
         "answerLink": "Worst Case Time Complexity is Ο(n) "
     },
-     { 
-    "id" : "167",
-    "question" : "Which of the following is not a system call?",
-    "answerLink" : "Open"
-        },
-
-{
+    {
+        "id": "167",
+        "question": "Which of the following is not a system call?",
+        "answerLink": "Open"
+    },
+    {
         "id": "168 ",
         "question": "what are your salary expections ?",
         "answerLink": "i want market prices salary  "
     },
-{
-    "id":"169",
-    "question": "What is your biggest weakness?",
-    "answerLink": "Well, as a recent graduate, I’d say my biggest weakness is the lack of real-life work experience. While I’ve worked on a dozen software projects in the university, I don’t have the experience of working in a fully agile environment with an experienced team.I am, however, willing to do my best and catch up as fast as I can."
-},
-{
-    "id" : "170",
-    "question" : "Which of the following is not a system call?",
-    "answerLink" : "Open"
-},
-{
+    {
+        "id": "169",
+        "question": "What is your biggest weakness?",
+        "answerLink": "Well, as a recent graduate, I’d say my biggest weakness is the lack of real-life work experience. While I’ve worked on a dozen software projects in the university, I don’t have the experience of working in a fully agile environment with an experienced team.I am, however, willing to do my best and catch up as fast as I can."
+    },
+    {
+        "id": "170",
+        "question": "Which of the following is not a system call?",
+        "answerLink": "Open"
+    },
+    {
         "id": "171 ",
         "question": "What salary do you expect from us ?",
         "answerLink": "As per my projects and global certifications I expect to have atleast 15LPA."
     },
-{ 
-    "id" : "172",
-    "question" : "Which is the fastest programming language in the world?",
-    "answerLink" : "C plus plus or C++ is considered as the fastest programming language in the world"
-
-},  
-{ 
-    "id" : "173",
-    "question" : "What is operator overloading?",
-    "answerLink" : "Operator Overloading is a very essential element to perform the operations on user-defined data types. By operator overloading we can modify the default meaning to the operators like +, -, *, etc. "
-        }
- {
+    {
+        "id": "172",
+        "question": "Which is the fastest programming language in the world?",
+        "answerLink": "C plus plus or C++ is considered as the fastest programming language in the world"
+    },
+    {
+        "id": "173",
+        "question": "What is operator overloading?",
+        "answerLink": "Operator Overloading is a very essential element to perform the operations on user-defined data types. By operator overloading we can modify the default meaning to the operators like +, -, *, etc. "
+    },
+    {
         "id": "174",
         "question": " Tell us about the most challenging projects you have managed so far? What were the steps you have taken to tackle the challenges? ",
         "answerLink": ""
     },
     {
-  	"id": "175",
-  	"question": "Is Django backend or front end?",
-  	"answerlink": "Django is suitable for both the backend and frontend. It's a collection of Python libraries that allow you to develop useful web apps ideal for backend and frontend purposes.",
-  },
-{
-  	"id": "176",
-  	"question": "Is Django a CMS?",
-  	"answerlink": "No, Django is not CMS (Content Management System). It's just a web framework and programming tool that allows you to build websites.",
-  },
-
-{ 
-    "id" : "177",
-    "question" : "what is meant by time complexity ?",
-    "answerLink" : "Time complexity is the number of times a statement is executed ."
-        },
-        {
+        "id": "175",
+        "question": "Is Django backend or front end?",
+        "answerlink": "Django is suitable for both the backend and frontend. It's a collection of Python libraries that allow you to develop useful web apps ideal for backend and frontend purposes."
+    },
+    {
+        "id": "176",
+        "question": "Is Django a CMS?",
+        "answerlink": "No, Django is not CMS (Content Management System). It's just a web framework and programming tool that allows you to build websites."
+    },
+    {
+        "id": "177",
+        "question": "what is meant by time complexity ?",
+        "answerLink": "Time complexity is the number of times a statement is executed ."
+    },
+    {
         "id": "178",
         "question": "To access the services of the operating system, the interface is provided by the ___________",
         "answerLink": "To access services of the Operating System an interface is provided by the System Calls. Generally, these are functions written in C and C++. Open, Close, Read, Write are some of most prominently used system calls."
     },
-      {
-        "id" : "179",
-        "question" : "How many Programming languages do you know?",
-        "answerLink" : "C,C++,Java,Python,C#,JavaScript,TypeScript, etc...."     
-},
     {
-  	"id": "180",
-  	"question": "Python is programming or scripting language",
-  	"answerlink": "A scripting language is one that is interpreted. Python is an interpreted language. Python uses an interpreter to translate and run its code. Hence Python is a scripting language.",
-},
-{
-  	"id": "181",
-  	"question": "Which Programming language is used in Flutter?",
-  	"answerlink": "Dart"
-  },
-{
-    "id": "182",
-  	"question": "What is the main function of the command interpreter?",
-  	"answerlink": "Main function of the command interpreter is to get and execute the next user-specified command",
-},
- { 
-    "id" : "183",
-    "question" : "If a process fails, most operating system write the error information to a ______",
-    "answerLink" : "If a process fails, most operating systems write the error information to a log file. Log file is examined by the debugger, to find out what is the actual cause of that particular problem. Log file is useful for system programmers for correcting errors."
-        },
-
-{ 
-    "id" : "184",
-    "question" : "Which programming languages are used for Android DEVELOPMENT?",
-    "answerLink" : "Kotlin , Java"
-        },
-
-{ 
-    "id" : "185",
-    "question" : "Why did you choose to become web developer?",
-    "answerLink" : "I love to solve the problems and find appropriate solutions.By developing website I can solve the problems of various companies and organisation "
-       
-},
-{
-    "id" : "186",
-    "question" : "Tell me one thing you like about yourself?",
-    "answerLink" : "I am good listener"
-},
-{
-    "id" : "187",
-    "question" : "What's motivates you to code?",
-    "answerLink" : "I love coding because I love to solve the problems of the society "
-},
-{
-  	"id": "188",
-  	"question": "What function does Bundle perform in Android?",
-  	"answerlink": "Bundles in Android are used to pass the required data between various Android activities."
-},
- { 
-    "id" : "189",
-    "question" : "How many element one can have with the same id in html?",
-    "answerLink" : "only one"
-},
-  { 
-    "id" : "190",
-    "question" : "Which of the following is not a system call?",
-    "answerLink" : "Open"        
-},
-  {
-         "id": "191",
+        "id": "179",
+        "question": "How many Programming languages do you know?",
+        "answerLink": "C,C++,Java,Python,C#,JavaScript,TypeScript, etc...."
+    },
+    {
+        "id": "180",
+        "question": "Python is programming or scripting language",
+        "answerlink": "A scripting language is one that is interpreted. Python is an interpreted language. Python uses an interpreter to translate and run its code. Hence Python is a scripting language."
+    },
+    {
+        "id": "181",
+        "question": "Which Programming language is used in Flutter?",
+        "answerlink": "Dart"
+    },
+    {
+        "id": "182",
+        "question": "What is the main function of the command interpreter?",
+        "answerlink": "Main function of the command interpreter is to get and execute the next user-specified command"
+    },
+    {
+        "id": "183",
+        "question": "If a process fails, most operating system write the error information to a ______",
+        "answerLink": "If a process fails, most operating systems write the error information to a log file. Log file is examined by the debugger, to find out what is the actual cause of that particular problem. Log file is useful for system programmers for correcting errors."
+    },
+    {
+        "id": "184",
+        "question": "Which programming languages are used for Android DEVELOPMENT?",
+        "answerLink": "Kotlin , Java"
+    },
+    {
+        "id": "185",
+        "question": "Why did you choose to become web developer?",
+        "answerLink": "I love to solve the problems and find appropriate solutions.By developing website I can solve the problems of various companies and organisation "
+    },
+    {
+        "id": "186",
+        "question": "Tell me one thing you like about yourself?",
+        "answerLink": "I am good listener"
+    },
+    {
+        "id": "187",
+        "question": "What's motivates you to code?",
+        "answerLink": "I love coding because I love to solve the problems of the society "
+    },
+    {
+        "id": "188",
+        "question": "What function does Bundle perform in Android?",
+        "answerlink": "Bundles in Android are used to pass the required data between various Android activities."
+    },
+    {
+        "id": "189",
+        "question": "How many element one can have with the same id in html?",
+        "answerLink": "only one"
+    },
+    {
+        "id": "190",
+        "question": "Which of the following is not a system call?",
+        "answerLink": "Open"
+    },
+    {
+        "id": "191",
         "question": "What is your favourite language ?",
         "answerLink": "I like to code in python because its easy to write language."
     },
@@ -1019,36 +989,36 @@
         "question": "What is PYTHONPATH in Python?",
         "answerLink": "PYTHONPATH is an environment variable which you can set to add additional directories where Python will look for modules and packages. This is especially useful in maintaining Python libraries that you do not wish to install in the global default location. "
     },
-    { 
-    "id" : "194",
-    "question" : "How many types of loops does c++ has and what are they?",
-    "answerLink" : "C++ has 3 types of loops as follows for loop,while loop,do while loop."
-},
- { 
-    "id" : "195",
-    "question" : "Which of the following is not a system call?",
-    "answerLink" : "Open"
-},
-   {
-  	"id": "196",
-  	"question": "Have you done competative codding ever?If yes which platform do you choose to do it? ",
-  	"answerlink": "Yes I have done competative cooding on codechef and leetcode",
-  },
-{
+    {
+        "id": "194",
+        "question": "How many types of loops does c++ has and what are they?",
+        "answerLink": "C++ has 3 types of loops as follows for loop,while loop,do while loop."
+    },
+    {
+        "id": "195",
+        "question": "Which of the following is not a system call?",
+        "answerLink": "Open"
+    },
+    {
+        "id": "196",
+        "question": "Have you done competative codding ever?If yes which platform do you choose to do it? ",
+        "answerlink": "Yes I have done competative cooding on codechef and leetcode"
+    },
+    {
         "id": "197",
         "question": " What extra skills do you have ?",
         "answerLink": "Along with codding Im quite good at web development I have good knowledge of both front and back end development. Also I'm good in communicating with new people. "
     },
- {
-    "id": "198"
-    "question": "Do you have any job experience in the field of development?"
-    "answerLink": "Yes I've worked with a small start up and have develeped an app for their user "
-},
-{
+    {
+        "id": "198",
+        "question": "Do you have any job experience in the field of development?",
+        "answerLink": "Yes I've worked with a small start up and have develeped an app for their user "
+    },
+    {
         "id": "199",
         "question": "What is the size of an integer in bits?",
         "answerLink": "The size of an integer is of 32 bits "
-}, 
+    },
     {
         "id": "200 ",
         "question": "what brings us to us  ?",
@@ -1058,57 +1028,57 @@
         "id": "201",
         "question": "have you applied to other companies",
         "answerLink": "no, i  have not "
-        },
-        {
+    },
+    {
         "id": "202 ",
         "question": "what is regex ?",
         "answerLink": "it is used for expresstions functions  "
     },
     {
-    "id" : "203",
-    "question" : "Which tag is use to define hyperlink in html?",
-    "answerLink" : "<a></a> tag or anchor tag"  
-},      
-{
-    "id": "204",
-    "question": "How to Flatten or Widen Images With CSS ?",
-    "answerlink": "object-fit: cover;"
-},
-  {
-    "id": "205"
-    "question": "How to centre a div in body?"
-    "answerLink": "Add display flex, justify-conntent centre,align-items centre to body tag in css file ."
-},
-{
-     "id": "206",
-     "question": "What motivates you?",
-     "answerLink": "https://www.thomsonreuters.com/en/careers/careers-blog/20-ways-employees-are-motivated-by-work.html#:~:text=A%20great%20work%20environment,in%20so%20that%20you%20succeed."
+        "id": "203",
+        "question": "Which tag is use to define hyperlink in html?",
+        "answerLink": "<a></a> tag or anchor tag"
     },
-{
+    {
+        "id": "204",
+        "question": "How to Flatten or Widen Images With CSS ?",
+        "answerlink": "object-fit: cover;"
+    },
+    {
+        "id": "205",
+        "question": "How to centre a div in body?",
+        "answerLink": "Add display flex, justify-conntent centre,align-items centre to body tag in css file ."
+    },
+    {
+        "id": "206",
+        "question": "What motivates you?",
+        "answerLink": "https://www.thomsonreuters.com/en/careers/careers-blog/20-ways-employees-are-motivated-by-work.html#:~:text=A%20great%20work%20environment,in%20so%20that%20you%20succeed."
+    },
+    {
         "id": "207",
         "question": "How would you describe your work style?",
         "answerLink": "Fun and Game type because I love games and because it is the only place where we are open and do over best "
     },
     {
-        "id":"208",
-        "question":"What is hashmap in data structure",
-        "answerlink":"It uses an implementation of a hash table data structure which allows access to data in constant time (0(1))complexity if you have the key "
-},
-   {
-    "id": "209"
-    "question": "What is a Self-Join in SQL ?"
-    "answerLink": "A self JOIN is a case of regular join where a table is joined to itself based on some relation between its own column(s).
-   },
-   {
-    "id": "210"
-    "question": "What is thread explain?"
-    "answerLink": "A thread is a single sequential flow of control within a program."
-},
-{
-        "id":"211"
-        "question":"Can we Overload Static Methods",
-        "answerlink":"Yes we can but tey should have different parameters"
-},
+        "id": "208",
+        "question": "What is hashmap in data structure",
+        "answerlink": "It uses an implementation of a hash table data structure which allows access to data in constant time (0(1))complexity if you have the key "
+    },
+    {
+        "id": "209",
+        "question": "What is a Self-Join in SQL ?",
+        "answerLink": "A self JOIN is a case of regular join where a table is joined to itself based on some relation between its own column(s)"
+    },
+    {
+        "id": "210",
+        "question": "What is thread explain?",
+        "answerLink": "A thread is a single sequential flow of control within a program."
+    },
+    {
+        "id": "211",
+        "question": "Can we Overload Static Methods",
+        "answerlink": "Yes we can but tey should have different parameters"
+    }
 {
     "id": "212"
     "question": "How to add class in?"
@@ -1184,4 +1154,9 @@
     "question": "Are you interested in watching in sci-fi"
     "answerLink": "yes"
 },
-    ]
+{
+        "id":"227"
+        "question":"Are you a risk taker?"
+        "answerLink":"https://novoresume.com/career-blog/interview-questions-and-best-answers-guide#are-you-a-risktaker"
+   },
+   ]
