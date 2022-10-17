@@ -1119,5 +1119,10 @@
         "question":"What happens if you remove static modifier from the main method",
         "answerlink":"Program compiles successfully.But at runtime throws an error"
 },
+{
+        "id":"214"
+        "question":"What is blank final variable",
+        "answerlink":"A final variable in Java can be assigned a value once,we can assign a value either in declaration or later"
+},
     ]
 
