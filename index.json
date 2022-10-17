@@ -1150,7 +1150,12 @@
     "answerLink": "Max 3 hours ."
 },
 {
-        "id":"226"
+    "id": "226"
+    "question": "What is the full form of DRDO?"
+    "answerLink": "Defence Research and Development Organisation"
+},
+{
+        "id":"227"
         "question":"Are you a risk taker?"
         "answerLink":"https://novoresume.com/career-blog/interview-questions-and-best-answers-guide#are-you-a-risktaker"
    },
