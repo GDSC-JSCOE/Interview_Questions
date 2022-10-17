@@ -1124,5 +1124,15 @@
         "question":"What is blank final variable",
         "answerlink":"A final variable in Java can be assigned a value once,we can assign a value either in declaration or later"
 },
+{
+    "id": "215"
+    "question": "Full form of AR?"
+    "answerLink": "Augmented Reality"
+},
+{
+    "id": "216"
+    "question": "Full form of OOP?"
+    "answerLink": "Object Oriented Programing"
+},
     ]
 
