@@ -1149,5 +1149,10 @@
    "question":"what is hyperlink in html"
    "answerLink":"it is tagline which is use to link from one page to another"    
    },
+   {
+        "id":"220"
+        "question":"What is full form of VR",
+        "answerlink":"The full form of VR is Virtual Reality",
+},
     ]
 
