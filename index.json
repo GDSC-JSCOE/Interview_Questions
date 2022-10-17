@@ -1079,5 +1079,8 @@
     "question": "How to centre a div in body?"
     "answerLink": "Add display flex, justify-conntent centre,align-items centre to body tag in css file ."
 },
-]
+{
+  "id":"206"
+  "question":"Do you love to code?"
+  "answerLink":"yes"
 
