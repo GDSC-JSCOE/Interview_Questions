@@ -1090,6 +1090,10 @@
         "question": "How would you describe your work style?",
         "answerLink": "Fun and Game type because I love games and because it is the only place where we are open and do over best "
     },
-    
+    {
+        "id":"208",
+        "question":"What is hashmap in data structure",
+        "answerlink":"It uses an implementation of a hash table data structure which allows access to data in constant time (0(1))complexity if you have the key "
+},
     ]
 
