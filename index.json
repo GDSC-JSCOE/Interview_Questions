@@ -1099,5 +1099,10 @@
     "question": "What is a Self-Join in SQL ?"
     "answerLink": "A self JOIN is a case of regular join where a table is joined to itself based on some relation between its own column(s).
    },
+   {
+    "id": "210"
+    "question": "What is thread explain?"
+    "answerLink": "A thread is a single sequential flow of control within a program."
+},
     ]
 
