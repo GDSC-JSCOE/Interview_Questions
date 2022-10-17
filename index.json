@@ -1002,8 +1002,8 @@
   { 
     "id" : "190",
     "question" : "Which of the following is not a system call?",
-    "answerLink" : "Open"
-        },
+    "answerLink" : "Open"        
+},
   {
          "id": "191",
         "question": "What is your favourite language ?",
@@ -1028,7 +1028,6 @@
     "id" : "195",
     "question" : "Which of the following is not a system call?",
     "answerLink" : "Open"
-        
 },
    {
   	"id": "196",
@@ -1050,9 +1049,41 @@
         "question": "What is the size of an integer in bits?",
         "answerLink": "The size of an integer is of 32 bits "
 }, 
+    {
+        "id": "200 ",
+        "question": "what brings us to us  ?",
+        "answerLink": "your ethics and values "
+    },
+    {
+        "id": "201",
+        "question": "have you applied to other companies",
+        "answerLink": "no, i  have not "
+        },
+        {
+        "id": "202 ",
+        "question": "what is regex ?",
+        "answerLink": "it is used for expresstions functions  "
+    },
+    {
+    "id" : "203",
+    "question" : "Which tag is use to define hyperlink in html?",
+    "answerLink" : "<a></a> tag or anchor tag"  
+},      
 {
-        "id": "200",
+"id": "204",
+    "question": "How to Flatten or Widen Images With CSS ?",
+    "answerlink": "object-fit: cover;"
+},
+  {
+    "id": "205"
+    "question": "How to centre a div in body?"
+    "answerLink": "Add display flex, justify-conntent centre,align-items centre to body tag in css file ."
+},
+{
+        "id": "206",
         "question": "How would you describe your work style?",
         "answerLink": "Fun and Game type because I love games and because it is the only place where we are open and do over best "
     },
-]
+    
+    ]
+
