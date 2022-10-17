@@ -1079,4 +1079,79 @@
         "question": "Can we Overload Static Methods",
         "answerlink": "Yes we can but tey should have different parameters"
     }
-]
+{
+    "id": "212"
+    "question": "How to add class in?"
+    "answerLink": "By using '.' and '#'."
+},
+{
+        "id":"213"
+        "question":"What happens if you remove static modifier from the main method",
+        "answerlink":"Program compiles successfully.But at runtime throws an error"
+},
+{
+        "id":"214"
+        "question":"What is blank final variable",
+        "answerlink":"A final variable in Java can be assigned a value once,we can assign a value either in declaration or later"
+},
+{
+    "id": "215"
+    "question": "Full form of AR?"
+    "answerLink": "Augmented Reality"
+},
+{
+    "id": "216"
+    "question": "Full form of OOP?"
+    "answerLink": "Object Oriented Programing"
+},
+{
+    "id": "217"
+    "question": "Full form of OOP?"
+    "answerLink": "Object Oriented Programing"
+},
+{
+    "id": "218"
+    "question": "Full form of TCS?"
+    "answerLink": "Tata Consultancy Services"
+},
+ {
+  "id":"219"
+   "question":"what is hyperlink in html"
+   "answerLink":"it is tagline which is use to link from one page to another"    
+   },
+   {
+        "id":"220"
+        "question":"What is full form of VR",
+        "answerlink":"The full form of VR is Virtual Reality",
+},
+{
+   "id":"221"
+     "question":"which is most secure interface?"
+     "answerLink":"Linux"   
+},
+{
+   "id":"222"
+   "question":"which language do you prefer python or C++?"
+   "answerlink":"python"
+},
+{
+  "id":"223"
+  "question":"Do you love to code?"
+  "answerLink":"yes"
+},
+{
+        "id":"224"
+        "question":"Which programming language have you learned in first year"
+        "answerLink":"Python"
+},
+{
+    "id": "225"
+    "question": "How many hours you require for job  interview preparation"
+    "answerLink": "Max 3 hours ."
+},
+{
+        "id":"226"
+        "question":"Are you a risk taker?"
+        "answerLink":"https://novoresume.com/career-blog/interview-questions-and-best-answers-guide#are-you-a-risktaker"
+   },
+   ]
