@@ -1049,7 +1049,7 @@
         "question": "What is the size of an integer in bits?",
         "answerLink": "The size of an integer is of 32 bits "
 }, 
-{
+    {
         "id": "200 ",
         "question": "what brings us to us  ?",
         "answerLink": "your ethics and values "
@@ -1070,7 +1070,7 @@
     "answerLink" : "<a></a> tag or anchor tag"  
 },      
 {
-"id": "204",
+    "id": "204",
     "question": "How to Flatten or Widen Images With CSS ?",
     "answerlink": "object-fit: cover;"
 },
@@ -1079,7 +1079,75 @@
     "question": "How to centre a div in body?"
     "answerLink": "Add display flex, justify-conntent centre,align-items centre to body tag in css file ."
 },
+   {
+     "id": "206",
+     "question": "What motivates you?",
+     "answerLink": "https://www.thomsonreuters.com/en/careers/careers-blog/20-ways-employees-are-motivated-by-work.html#:~:text=A%20great%20work%20environment,in%20so%20that%20you%20succeed."
+    },
+{
+        "id": "207",
+        "question": "How would you describe your work style?",
+        "answerLink": "Fun and Game type because I love games and because it is the only place where we are open and do over best "
+    },
+    {
+        "id":"208",
+        "question":"What is hashmap in data structure",
+        "answerlink":"It uses an implementation of a hash table data structure which allows access to data in constant time (0(1))complexity if you have the key "
+},
+   {
+    "id": "209"
+    "question": "What is a Self-Join in SQL ?"
+    "answerLink": "A self JOIN is a case of regular join where a table is joined to itself based on some relation between its own column(s).
+   },
+   {
+    "id": "210"
+    "question": "What is thread explain?"
+    "answerLink": "A thread is a single sequential flow of control within a program."
+},
+{
+        "id":"211"
+        "question":"Can we Overload Static Methods",
+        "answerlink":"Yes we can but tey should have different parameters"
+},
+{
+    "id": "212"
+    "question": "How to add class in?"
+    "answerLink": "By using '.' and '#'."
+},
+{
+        "id":"213"
+        "question":"What happens if you remove static modifier from the main method",
+        "answerlink":"Program compiles successfully.But at runtime throws an error"
+},
+{
+        "id":"214"
+        "question":"What is blank final variable",
+        "answerlink":"A final variable in Java can be assigned a value once,we can assign a value either in declaration or later"
+},
+{
+    "id": "215"
+    "question": "Full form of AR?"
+    "answerLink": "Augmented Reality"
+},
+{
+    "id": "216"
+    "question": "Full form of OOP?"
+    "answerLink": "Object Oriented Programing"
+},
+{
+    "id": "217"
+    "question": "Full form of OOP?"
+    "answerLink": "Object Oriented Programing"
+},
+{
+    "id": "218"
+    "question": "Full form of TCS?"
+    "answerLink": "Tata Consultancy Services"
+},
  {
-  "id":"206"
+  "id":"219"
    "question":"what is hyperlink in html"
-   "answerLink":"it is tagline which is use to link from one page to another"      
+   "answerLink":"it is tagline which is use to link from one page to another"    
+   },
+    ]
+
