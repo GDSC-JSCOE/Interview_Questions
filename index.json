@@ -1171,8 +1171,8 @@
 },
 {
     "id": "228",
-    "question": "What is the difference between double and float?",
-    "answerLink": "In float the size of data that can be stored is less compared to double. Float can store a maximum value of size 4 bytes in 64 bit compiler while double can store 8 bits. "
+    "question": "What are the different visibility modes for inheritance?",
+    "answerLink": "Public, private and protected. "
 },
 
    ]
