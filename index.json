@@ -1176,7 +1176,7 @@
 },
 {
     "id": "229",
-    "question": "What is abstract data class?",
-    "answerLink": "Abstract data class is a speical class which consists of at least one pure virtual function. We cannot create object for abstract classes but can inherit them and use their members in derived class."
+    "question": "What is high level language?",
+    "answerLink": "High level languages are those programming languages that enables a programmer to write programs that are more or less independent of a particular type of computer. Such languages are considered high-level because they are closer to human languages and further from machine languages. Eg:Python."
 },
    ]
