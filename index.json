@@ -1168,5 +1168,10 @@
     "id": "227",
     "question": "Differentiate between let,var and const in Javascript",
     "answerLink": "https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/"
-}
+},
+{
+    "id": "228",
+    "question": "Atleat how many hours you should code?",
+    "answerLink": "Atleat 3-4 hours daily!"
+},
    ]
