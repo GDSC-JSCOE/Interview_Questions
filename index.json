@@ -1173,5 +1173,10 @@
     "id": "228",
     "question": "What have you done to overcome your greatest weakness?",
     "answerLink": "As I mentioned earlier, my greatest weakness is that I am impatient and get angry easily, to overcome my weakness I do exercise and yoga every morning. The freshness and brightness of morning makes me feel good and light the whole day. If I get angry at someone, I take deep breadth while counting to 10 which calms me down.
-}
+},
+{
+    "id": "229",
+    "question": "What is abstract data class?",
+    "answerLink": "Abstract data class is a speical class which consists of at least one pure virtual function. We cannot create object for abstract classes but can inherit them and use their members in derived class."
+},
    ]
