@@ -1169,4 +1169,9 @@
     "question": "Differentiate between let,var and const in Javascript",
     "answerLink": "https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/"
 }
+{
+    "id": "28116",
+    "question": "Two Sum",
+    "answerLink": "https://leetcode.com/problems/two-sum/submissions/786850077/"
+},
    ]
