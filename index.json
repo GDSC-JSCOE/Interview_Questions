@@ -1169,4 +1169,9 @@
     "question": "Differentiate between let,var and const in Javascript",
     "answerLink": "https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/"
 }
+{
+    "id": "255667",
+    "question": "Remove Duplicates from Sorted List",
+    "answerLink": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/solutions/2685601/simple-and-fast-solution/"
+},
    ]
