@@ -1169,4 +1169,11 @@
     "question": "Differentiate between let,var and const in Javascript",
     "answerLink": "https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/"
 }
+ {
+        "id": "228",
+        "question": "How much do you expect to be earning in five years?",
+        "answerLink": "https://www.glassdoor.com/blog/guide/where-do-you-see-yourself-in-5-years/",
+        "answerLink": "http://www.lioncubjobsearch.com/2014/05/what-do-you-expect-to-be-earning-in.html",
+        "answerLink": "https://www.livecareer.com/resources/interviews/questions/what-do-you-expect-to-be-earning-in-five-years"
+    },
    ]
