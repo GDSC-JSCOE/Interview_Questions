@@ -1168,5 +1168,10 @@
     "id": "227",
     "question": "Differentiate between let,var and const in Javascript",
     "answerLink": "https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/"
+},
+{
+    "id": "228",
+    "question": "What is meant by integer overflow",
+    "answerLink": "https://www.sciencedirect.com/topics/computer-science/integer-overflow"
 }
    ]
