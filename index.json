@@ -1199,4 +1199,9 @@
     "question": "Remove Duplicates from Sorted List",
     "answerLink": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/solutions/2685601/simple-and-fast-solution/"
 },
+{
+    "id": "236",
+    "question": "Atleat how many hours you should code?",
+    "answerLink": "Atleat 3-4 hours daily!"
+},
    ]
