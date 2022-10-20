@@ -1214,4 +1214,9 @@
     "question": "What is the biggest challenge you faced in the 4 years of your college life?"
     "answerLink": "The biggest challenge was time management. It was like a war to complete and submit assignments before their due dates, study for exam at the same time, participate in club activities and also take out time for yourself. But this taught me to properly divide my schedule and I believe I will benefit in my working life from this as well."
 },
+{
+    "id": "239",
+    "question": "What is wildcard in SQL?",
+    "answerLink": "In SQL, wildcard is a format to check for matching characters while searching in a particular column of a table. It is used when we want to find values which have constraints of some type, eg: find the names in which the last alphabet is E"
+},
 ]
