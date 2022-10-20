@@ -1229,4 +1229,9 @@
     "question": "What are the different visibility modes for inheritance?",
     "answerLink": "Public, private and protected. "
 },
+{
+    "id": "242",
+    "question": "What is the scope of private data members when child class is derived with visibility mode as protected?",
+    "answerLink": "Private members cannot be inherited in any visibility mode."
+},
 ]
