@@ -1189,4 +1189,9 @@
     "question" : "Who is the Time Complexity of Radix Sort?",
     "answerLink" : "Radix Sort's time complexity of O(nd), where n is the size of the array and d is the number of digits in the largest number"
 }
+{
+    "id": "255667",
+    "question": "Remove Duplicates from Sorted List",
+    "answerLink": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/solutions/2685601/simple-and-fast-solution/"
+},
    ]
