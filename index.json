@@ -1254,4 +1254,8 @@
     "question": Which Language is faster 'Python' or 'C++'?
     "answerLink": C++ is faster then Python by significant margin."
 },
-]
+{
+    "id": "247",
+    "question": "What are your hobbies?”,
+    "answerlink": "I like playing video games and I also like to do code in various programming languages"
+}, ]
