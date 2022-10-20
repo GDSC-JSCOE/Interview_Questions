@@ -1287,5 +1287,11 @@
     "question": "Why you have used ReacJS in your project instead of Angular?",
     "answerLink": "https://www.cleveroad.com/blog/angular-vs-react/"
 },
+{
+    "id": "253",
+    "question": "What is meant by integer overflow",
+    "answerLink": "https://www.sciencedirect.com/topics/computer-science/integer-overflow"
+},
 ]
+
 
