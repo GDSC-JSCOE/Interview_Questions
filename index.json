@@ -1249,4 +1249,9 @@
     "question": "Difference Between Angular and AngularJS",
     "answerLink": "https://www.interviewbit.com/blog/difference-between-angular-and-angularjs/#:~:text=The%20main%20difference%20between%20AngularJS,dynamic%20web%20applications%20and%20SPAs."
 },
+{
+    "id": "246",
+    "question": Which Language is faster 'Python' or 'C++'?
+    "answerLink": C++ is faster then Python by significant margin."
+},
 ]
