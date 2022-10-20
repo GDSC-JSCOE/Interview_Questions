@@ -1304,7 +1304,7 @@
     "answer": "Both size and length are used to return the number of characters in the string."
 },
 {
-    "id": "255",
+    "id": "256",
     "question": "If RAM size is 4GB, if 4 processes of size 2GB are launched! What happens?",
     "answeLink": "https://www.geeksforgeeks.org/virtual-memory-in-operating-system/"
 }
