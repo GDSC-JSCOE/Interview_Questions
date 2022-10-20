@@ -212,7 +212,7 @@
     {
         "id": "41",
         "question": "How do you define an ideal project? ",
-        "answerLink": ""
+        "answerLink": "https://www.studocu.com/en-ca/document/the-university-of-british-columbia/management/project-qeustions/11274173"
     },
     {
         "id": "42",
@@ -258,7 +258,7 @@
     {
         "id": "50",
         "question": "Define processes and process groups in a project management framework. ",
-        "answerLink": ""
+        "answerLink": "https://www.wrike.com/blog/demystifying-pmbok-process-group/"
     },
     {
         "id": "51",
@@ -268,7 +268,7 @@
     {
         "id": "52",
         "question": "What are the techniques you may use to define the scope of a project?",
-        "answerLink": ""
+        "answerLink": "https://www.greycampus.com/blog/project-management/steps-involved-in-defining-project-scope#:~:text=Project%20scope%20definition%20must%20be,documentation%2C%20and%20scope%20change%20management."
     },
     {
         "id": "53",
@@ -1155,23 +1155,114 @@
     "answerLink": "yes"
 },
 {
-        "id":"227"
-        "question":"Are you a risk taker?"
-        "answerLink":"https://novoresume.com/career-blog/interview-questions-and-best-answers-guide#are-you-a-risktaker"
+    "id":"227"
+    "question":"Are you a risk taker?"
+    "answerLink":"https://novoresume.com/career-blog/interview-questions-and-best-answers-guide#are-you-a-risktaker"
    },
    {
-    "id": "226"
+    "id": "228"
     "question": "Which programming language are you most comfortable with?"
     "answerLink": "Python and SQL"
 },
 {
-    "id": "227",
+    "id": "229",
     "question": "Differentiate between let,var and const in Javascript",
     "answerLink": "https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/"
-}
+},
+{    
+    "id": "230",
+    "question": "What have you done to overcome your greatest weakness?",
+    "answerLink": "As I mentioned earlier, my greatest weakness is that I am impatient and get angry easily, to overcome my weakness I do exercise and yoga every morning. The freshness and brightness of morning makes me feel good and light the whole day. If I get angry at someone, I take deep breadth while counting to 10 which calms me down.
+},
 {
-        "id": "228",
+    "id": "231",
+    "question": "What is abstract data class?",
+    "answerLink": "Abstract data class is a speical class which consists of at least one pure virtual function. We cannot create object for abstract classes but can inherit them and use their members in derived class."
+},
+{
+    "id" : "232",
+    "question" : "What is Circular Linked List?",
+    "answerLink" : "https://www.geeksforgeeks.org/circular-linked-list/"
+},
+{
+    "id" : "233",
+    "question" : "Who is the Time Complexity of Radix Sort?",
+    "answerLink" : "Radix Sort's time complexity of O(nd), where n is the size of the array and d is the number of digits in the largest number"
+},
+{
+    "id": "234",
+    "question": "Two Sum",
+    "answerLink": "https://leetcode.com/problems/two-sum/submissions/786850077/"
+},
+{
+    "id": "235",
+    "question": "Remove Duplicates from Sorted List",
+    "answerLink": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/solutions/2685601/simple-and-fast-solution/"
+},
+{
+    "id": "236",
+    "question": "Atleat how many hours you should code?",
+    "answerLink": "Atleat 3-4 hours daily!"
+},
+{
+    "id": "237",
+    "question": "What motivates you?”,
+    "answerlink": "I’m driven primarily by my desire to learn new things—big or small—and take on new responsibilities so that I’m constantly growing as an employee and contributing more to my team and organization."
+},   
+{
+    "id": "238"
+    "question": "What is the biggest challenge you faced in the 4 years of your college life?"
+    "answerLink": "The biggest challenge was time management. It was like a war to complete and submit assignments before their due dates, study for exam at the same time, participate in club activities and also take out time for yourself. But this taught me to properly divide my schedule and I believe I will benefit in my working life from this as well."
+},
+{
+    "id": "239",
+    "question": "What is wildcard in SQL?",
+    "answerLink": "In SQL, wildcard is a format to check for matching characters while searching in a particular column of a table. It is used when we want to find values which have constraints of some type, eg: find the names in which the last alphabet is E"
+},
+{
+    "id": "240",
+    "question": "What is the difference between double and float?",
+    "answerLink": "In float the size of data that can be stored is less compared to double. Float can store a maximum value of size 4 bytes in 64 bit compiler while double can store 8 bits. "
+},
+{
+    "id": "241",
+    "question": "What are the different visibility modes for inheritance?",
+    "answerLink": "Public, private and protected. "
+},
+{
+    "id": "242",
+    "question": "What is the scope of private data members when child class is derived with visibility mode as protected?",
+    "answerLink": "Private members cannot be inherited in any visibility mode."
+},
+{
+    "id": "243",
+    "question": "Tell us your biggest strength which will be beneficial for the company.",
+    "answerLink": "If I have to mention my biggest strength, I would say I have ability to deal with the stress of deadlines and adopt to situations. This strength will surely help me deal with variety of clients and also produce quality work in limited time."
+},
+{
+    "id": "244",
+    "question": "What is high level language?",
+    "answerLink": "High level languages are those programming languages that enables a programmer to write programs that are more or less independent of a particular type of computer. Such languages are considered high-level because they are closer to human languages and further from machine languages. Eg:Python."
+},
+{
+    "id": "245",
+    "question": "Difference Between Angular and AngularJS",
+    "answerLink": "https://www.interviewbit.com/blog/difference-between-angular-and-angularjs/#:~:text=The%20main%20difference%20between%20AngularJS,dynamic%20web%20applications%20and%20SPAs."
+},
+{
+    "id": "246",
+    "question": Which Language is faster 'Python' or 'C++'?
+    "answerLink": C++ is faster then Python by significant margin."
+},
+{
+    "id": "247",
+    "question": "What are your hobbies?”,
+    "answerlink": "I like playing video games and I also like to do code in various programming languages"
+},
+{
+        "id": "248",
         "question": "What is the meaning of your name and how do you live up to your name?",
         "answerLink": "https://www.adda247.com/defence-jobs/questions-asked-in-ssb-interview"
- },
-   ]
+},
+]
+
