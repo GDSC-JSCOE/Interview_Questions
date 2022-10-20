@@ -1234,4 +1234,9 @@
     "question": "What is the scope of private data members when child class is derived with visibility mode as protected?",
     "answerLink": "Private members cannot be inherited in any visibility mode."
 },
+{
+    "id": "243",
+    "question": "Tell us your biggest strength which will be beneficial for the company.",
+    "answerLink": "If I have to mention my biggest strength, I would say I have ability to deal with the stress of deadlines and adopt to situations. This strength will surely help me deal with variety of clients and also produce quality work in limited time."
+},
 ]
