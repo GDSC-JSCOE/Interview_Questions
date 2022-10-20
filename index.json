@@ -1168,7 +1168,7 @@
     "id": "229",
     "question": "Differentiate between let,var and const in Javascript",
     "answerLink": "https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/"
-}
+},
 {    
     "id": "230",
     "question": "What have you done to overcome your greatest weakness?",
@@ -1281,6 +1281,11 @@
     "id": "251",
     "question": " How do you prioritize your work?",
     "answer": "I’d be lost without my daily to-do list! At the beginning of each workday."
+},
+{
+    "id": "252",
+    "question": "Why you have used ReacJS in your project instead of Angular?",
+    "answerLink": "https://www.cleveroad.com/blog/angular-vs-react/"
 },
 ]
 
