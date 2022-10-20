@@ -1155,22 +1155,52 @@
     "answerLink": "yes"
 },
 {
-        "id":"227"
-        "question":"Are you a risk taker?"
-        "answerLink":"https://novoresume.com/career-blog/interview-questions-and-best-answers-guide#are-you-a-risktaker"
+    "id":"227"
+    "question":"Are you a risk taker?"
+    "answerLink":"https://novoresume.com/career-blog/interview-questions-and-best-answers-guide#are-you-a-risktaker"
    },
    {
-    "id": "226"
+    "id": "228"
     "question": "Which programming language are you most comfortable with?"
     "answerLink": "Python and SQL"
 },
 {
-    "id": "227",
+    "id": "229",
     "question": "Differentiate between let,var and const in Javascript",
     "answerLink": "https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/"
 },
+{    
+    "id": "230",
+    "question": "What have you done to overcome your greatest weakness?",
+    "answerLink": "As I mentioned earlier, my greatest weakness is that I am impatient and get angry easily, to overcome my weakness I do exercise and yoga every morning. The freshness and brightness of morning makes me feel good and light the whole day. If I get angry at someone, I take deep breadth while counting to 10 which calms me down.
+},
 {
-    "id": "228",
+    "id": "231",
+    "question": "What is abstract data class?",
+    "answerLink": "Abstract data class is a speical class which consists of at least one pure virtual function. We cannot create object for abstract classes but can inherit them and use their members in derived class."
+},
+{
+    "id" : "232",
+    "question" : "What is Circular Linked List?",
+    "answerLink" : "https://www.geeksforgeeks.org/circular-linked-list/"
+},
+{
+    "id" : "233",
+    "question" : "Who is the Time Complexity of Radix Sort?",
+    "answerLink" : "Radix Sort's time complexity of O(nd), where n is the size of the array and d is the number of digits in the largest number"
+},
+{
+    "id": "234",
+    "question": "Two Sum",
+    "answerLink": "https://leetcode.com/problems/two-sum/submissions/786850077/"
+},
+{
+    "id": "235",
+    "question": "Remove Duplicates from Sorted List",
+    "answerLink": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/solutions/2685601/simple-and-fast-solution/"
+},
+{
+    "id": "236",
     "question": "Atleat how many hours you should code?",
     "answerLink": "Atleat 3-4 hours daily!"
 },
