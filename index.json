@@ -1244,4 +1244,9 @@
     "question": "What is high level language?",
     "answerLink": "High level languages are those programming languages that enables a programmer to write programs that are more or less independent of a particular type of computer. Such languages are considered high-level because they are closer to human languages and further from machine languages. Eg:Python."
 },
+{
+    "id": "245",
+    "question": "Difference Between Angular and AngularJS",
+    "answerLink": "https://www.interviewbit.com/blog/difference-between-angular-and-angularjs/#:~:text=The%20main%20difference%20between%20AngularJS,dynamic%20web%20applications%20and%20SPAs."
+},
 ]
