@@ -1313,6 +1313,11 @@
     "question": "Tell me one thing about yourself you wouldn't want me to know.",
     "answer": "A good response to a question asking you to reveal your weaknesses could be along the lines of: Sometimes I take my work maybe a little too seriously. While my friends are able to leave work at work once they go home for the night, my brain is always thinking about how to improve my department."
 },
+{
+    "id": "257",
+    "question": "What is meant by ACID properties in DBMS",
+    "answer": "ACID stands for Atomicity, Consistency, Isolation, and Durability in a DBMS these are those properties that ensure a safe and secure way of sharing data among multiple users."
+},
 ]
 
 
