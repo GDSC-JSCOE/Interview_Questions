@@ -1318,6 +1318,11 @@
     "question": "What is meant by ACID properties in DBMS",
     "answer": "ACID stands for Atomicity, Consistency, Isolation, and Durability in a DBMS these are those properties that ensure a safe and secure way of sharing data among multiple users."
 },
+{
+    "id": "258",
+    "question": "What are some applications of Data structures?",
+    "answer": "1. Decision Making 2. Genetics 3. Image Processing 4. Blockchain 5. Numerical and Statistical Analysis 6. Compiler Design 7. Database Design and many more"
+},
 ]
 
 
