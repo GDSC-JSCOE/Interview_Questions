@@ -1366,6 +1366,12 @@
     "question": "What would your former manager say about you?",
     "answerlink": "My former manager said that I was one of the best hires he had made in his career, I was the go to person to get things accomplished and delivered on our team and he would say I was one of the best professionals he has worked for in his career."
 }
+{
+    "id": "278",
+    "question": "What is the difference between type keys and type commands?",
+    "answer": "TypeKeys() will trigger JavaScript event in most of the cases whereas .type() won't."
+},
+
 ]
 
 
