@@ -1366,6 +1366,11 @@
     "question": "What would your former manager say about you?",
     "answerlink": "My former manager said that I was one of the best hires he had made in his career, I was the go to person to get things accomplished and delivered on our team and he would say I was one of the best professionals he has worked for in his career."
 }
+{
+    "id": "277",
+    "question": "What is Selenium?",
+    "answer": "Selenium is a portable framework for software testing. Selenium tool facilitates with a playback tool for authoring functional tests without the need to learn a test scripting language."
+},
 ]
 
 
