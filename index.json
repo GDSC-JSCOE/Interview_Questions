@@ -1366,6 +1366,17 @@
     "question": "What would your former manager say about you?",
     "answerlink": "My former manager said that I was one of the best hires he had made in his career, I was the go to person to get things accomplished and delivered on our team and he would say I was one of the best professionals he has worked for in his career."
 }
+{
+    "id": "273",
+    "question": "How many buckets can be created in S3?",
+    "answerlink": "By default, you can create up to 100 buckets"
+},
+{
+    "id": "274",
+    "question": "What is the minimum and maximum size that you can store in S3?",
+    "answerlink": "The minimum size of an object that you can store in S3 is 0 bytes and the maximum size of an object that you can store in S3 is 5 TB.
+},
+]
 ]
 
 
