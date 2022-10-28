@@ -1445,6 +1445,16 @@
     "question": "What is the minimum and maximum size that you can store in S3?",
     "answerlink": "The minimum size of an object that you can store in S3 is 0 bytes and the maximum size of an object that you can store in S3 is 5 TB.
 },
+{
+    "id": "284",
+    "question": "How many Elastic IPs can you create?",
+    "answer": "5 elastic IP addresses that you can create per AWS account per region."
+},
+{
+    "id": "285",
+    "question": "What is the maximum size of messages in SQS?",
+    "answer": "The maximum size of message in SQS IS 256 KB."
+},
 ]
 
 
