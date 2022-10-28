@@ -1425,6 +1425,11 @@
     "question": "Is flutter open source or not?",
     "answer": "Yes, Flutter is a free and open-source UI software development kit from Google that allows developers to build cross-platform mobile apps with ease"
 },
+{
+    "id": "280",
+    "question": "Name two database packages mostly used in flutter.",
+    "answer": "Widely accepted and mostly used databses in flutter are Firebase Database and SQFlite database."
+},
 ]
 
 
