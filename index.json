@@ -1419,7 +1419,11 @@
     "id": "278",
     "question": "If you were to become the CEO of this company what changes in the workculture would you propose?",
     "answer": "I would firstly make a provision for granting allowances for Therapy Sessions whenever needed because Mental Health is a sensitive thing and is at high risk in profession like ours."
-
+},
+{
+    "id": "279",
+    "question": "Is flutter open source or not?",
+    "answer": "Yes, Flutter is a free and open-source UI software development kit from Google that allows developers to build cross-platform mobile apps with ease"
 },
 ]
 
