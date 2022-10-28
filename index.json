@@ -1455,6 +1455,11 @@
     "question": "What is the maximum size of messages in SQS?",
     "answer": "The maximum size of message in SQS IS 256 KB."
 },
+{
+    "id": "286",
+    "question": "What is Selenium?",
+    "answer": "Selenium is a portable framework for software testing. Selenium tool facilitates with a playback tool for authoring functional tests without the need to learn a test scripting language."
+},
 ]
 
 
