@@ -1430,6 +1430,11 @@
     "question": "Name two database packages mostly used in flutter.",
     "answer": "Widely accepted and mostly used databses in flutter are Firebase Database and SQFlite database."
 },
+{
+    "id": "281",
+    "question": "What is Singleton class?",
+    "answer": "Singleton Class limited the number to one but allowing the flexibility to create more object if the situation changes."
+},
 ]
 
 
