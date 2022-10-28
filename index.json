@@ -1271,40 +1271,40 @@
         "answerLink": "https://kissflow.com/project/how-to-manage-multiple-projects/"
  },
 
-        "id": "249",
+        "id": "250",
         "question": "How much do you expect to be earning in five years?",
         "answerLink": "https://www.glassdoor.com/blog/guide/where-do-you-see-yourself-in-5-years/",
         "answerLink": "http://www.lioncubjobsearch.com/2014/05/what-do-you-expect-to-be-earning-in.html",
         "answerLink": "https://www.livecareer.com/resources/interviews/questions/what-do-you-expect-to-be-earning-in-five-years"
 },
 {
-        "id": "250",
+        "id": "251",
         "question": "Which technologies and languages would you need to develop a project from scratch?",
         "answerLink": "https://www.digitalvidya.com/blog/popular-full-stack-web-developer-interview-questions-and-answers/#:~:text=which%20technologies%20and%20languages%20would%20you%20need%20to%20develop%20a%20project%20from%20scratch%3F"
 
 },
 {
-    "id": "251",
+    "id": "252",
     "question": " How do you prioritize your work?",
     "answer": "I’d be lost without my daily to-do list! At the beginning of each workday."
 },
 {
-    "id": "252",
+    "id": "253",
     "question": "Why you have used ReacJS in your project instead of Angular?",
     "answerLink": "https://www.cleveroad.com/blog/angular-vs-react/"
 },
 {
-    "id": "253",
+    "id": "254",
     "question": "What is meant by integer overflow",
     "answerLink": "https://www.sciencedirect.com/topics/computer-science/integer-overflow"
 },
 {
-    "id": "254",
+    "id": "255",
     "question": "What among these is used to return the number of characters in the string?",
     "answer": "Both size and length are used to return the number of characters in the string."
 },
 {
-    "id": "255",
+    "id": "256",
     "question": "How do you stay organized?",
     "answer": "First, I keep a really meticulous calendar for each of the platforms I’m responsible for using Hootsuite—which I noticed you use here as well—and I try to block off time twice a week to get ahead on creating and slotting in posts. "
     },
@@ -1315,37 +1315,37 @@
         "answer":"This is an easy question if you’re prepared. Have a recent exampleready that demonstrates either:1. A quality most important to the job at hand; or2. A quality that is always in demand, such as leadership, initiative, managerial skill,persuasiveness, courage, persistence, intelligence, etc."
         },
 {
-    "id": "256",
+    "id": "258",
     "question": "Tell me one thing about yourself you wouldn't want me to know.",
     "answer": "A good response to a question asking you to reveal your weaknesses could be along the lines of: Sometimes I take my work maybe a little too seriously. While my friends are able to leave work at work once they go home for the night, my brain is always thinking about how to improve my department."
 },
 {
-    "id": "257",
+    "id": "259",
     "question": "Which language was first used as programming language?",
     "answer": "Assembly language was first used as a type of computer programming language that was able to simplify machine code language, which is necessary for telling a computer what to do."
 },
 {
-    "id": "258",
+    "id": "260",
     "question": "What is meant by ACID properties in DBMS",
     "answer": "ACID stands for Atomicity, Consistency, Isolation, and Durability in a DBMS these are those properties that ensure a safe and secure way of sharing data among multiple users."
 },
 {
-    "id": "259",
+    "id": "261",
     "question": "What are some applications of Data structures?",
     "answer": "1. Decision Making 2. Genetics 3. Image Processing 4. Blockchain 5. Numerical and Statistical Analysis 6. Compiler Design 7. Database Design and many more"
 },
 {
-        "id": "260",
+        "id": "262",
         "question": "What is your name? Introduce yourself.",
         "answerLink": "Hi my name is Prathmesh Lodhi, I am currently studying computer engineering at JSCOE (Jaywantrao sawant College of Engineering , and I will be graduated in year 2024 as a fresher)"
     },
 {
-    "id": "261",
+    "id": "263",
     "question": "Where do you see yourself after 5 years ??",
     "answer": " In place of you asking better questions .."
 },
 {
-    "id": "269",
+    "id": "264",
     "question": "Where do you see yourself after 5 years ??",
     "answer link": "https://www.simplilearn.com/deloitte-interview-questions-answers-article"
 },
@@ -1355,23 +1355,115 @@
     "question": "How did you get into the field of accounting?",
     "answer": "Being the CEO of this company"
 },
-
 {
-    "id": "263",
+    "id": "266",
     "question": "Describe yourself in one word.",
     "answerlink": "Ambitious, Dynamic, Analytical, Innovative, Meticulous, Strategic and Systematic are some of the words that can be used when the recruiters ask you to introduce yourself in one word."
-}
+},
 {
-    "id": "264",
+    "id": "267",
     "question": "What would your former manager say about you?",
     "answerlink": "My former manager said that I was one of the best hires he had made in his career, I was the go to person to get things accomplished and delivered on our team and he would say I was one of the best professionals he has worked for in his career."
-}
+},
+{
+    "id": "268",
+    "question": "What is the difference between confidence and over confidence?",
+    "answerlink": "I can crack this interview is confidence.I am the only one who can crack the interview is overconfidence."
+},
+{
+    "id": "269",
+    "question": "How do you feel about working nights and weekends?",
+    "answerlink": "I feel ok and complete the work on time by using my time management skills."
+},
+{
+    "id": "270",
+    "question": "Give me an example of your creativity.",
+    "answerlink": "Creativity means doing the long procedure work in a very simplified manner and gain the result very early and also handling the hard situation in different manner."
+},
+{
+    "id": "271",
+    "question": "Why have you been out of work so long?",
+    "answerlink": "Sir, I think everyone at some point in life wants to know what's more to life offer other than work, so I took some time off from work and explored and opened myself up to new experiences in life.This indeed had made my perspective towards work and balance change dramatically and made me appreciate the opportunities I have in regards to work-life balance"
+},
+{
+    "id": "272",
+    "question": "How do you feel about working nights and weekends?",
+    "answerlink": "I feel ok and complete the work on time by using my time management skills."
+},
+{
+    "id": "273",
+    "question": "Why are not you earning more money at this stage of your career?",
+    "answerlink": "I think This is the initial stage for everyone. In this stage, we have to focus on gaining knowledge from various sources that is very important to everyone. If I have More knowledge in a particular field, I can also gain more money. Each and everyone thinks like this."
+},
+{
+    "id": "274",
+    "question": "what you will choose a high paying compeny or a start up at your initial stage of your careear",
+    "answerlink": "I will choose start up as my first chooise because this will give me lot of exprience in different fields , provide enviroment to do work under pressure . once I will get exprience and skill i can easilly target a big compeny"
+},
+{
+    "id": "275",
+    "question": "What kind of work ecosystem do you prefer 'Work from Home' or 'Work from Office'?",
+    "answer": "I would prefer working from home as it gives me more flexibility and agility in working arrangements also it would be very convinient for me to maintain my work life balance and cut my extra expenses done on travelling."
+},
+{
+    "id": "276",
+    "question": "Tell us about one time where you demonstrated your management skills.",
+    "answer": "I have had oppurtunity to be a lead organiser in our College's Annual cultural fest where i had managed the whole event."
+},
+{
+    "id": "277",
+    "question": "Tell us about the biggest blunder you've made so far in any of your assigned task.",
+    "answerlink": "I did screw up in the mailing list task assigned to me by manager,for which my entire team had to coverup working extra hours."
+},
 {
     "id": "278",
+    "question": "If you were to become the CEO of this company what changes in the workculture would you propose?",
+    "answer": "I would firstly make a provision for granting allowances for Therapy Sessions whenever needed because Mental Health is a sensitive thing and is at high risk in profession like ours."
+},
+{
+    "id": "279",
+    "question": "Is flutter open source or not?",
+    "answer": "Yes, Flutter is a free and open-source UI software development kit from Google that allows developers to build cross-platform mobile apps with ease"
+},
+{
+    "id": "280",
+    "question": "Name two database packages mostly used in flutter.",
+    "answer": "Widely accepted and mostly used databses in flutter are Firebase Database and SQFlite database."
+},
+{
+    "id": "281",
+    "question": "What is Singleton class?",
+    "answer": "Singleton Class limited the number to one but allowing the flexibility to create more object if the situation changes."
+},
+{
+    "id": "282",
+    "question": "How many buckets can be created in S3?",
+    "answerlink": "By default, you can create up to 100 buckets"
+},
+{
+    "id": "283",
+    "question": "What is the minimum and maximum size that you can store in S3?",
+    "answerlink": "The minimum size of an object that you can store in S3 is 0 bytes and the maximum size of an object that you can store in S3 is 5 TB.
+},
+{
+    "id": "284",
+    "question": "How many Elastic IPs can you create?",
+    "answer": "5 elastic IP addresses that you can create per AWS account per region."
+},
+{
+    "id": "285",
+    "question": "What is the maximum size of messages in SQS?",
+    "answer": "The maximum size of message in SQS IS 256 KB."
+},
+{
+    "id": "286",
+    "question": "What is Selenium?",
+    "answer": "Selenium is a portable framework for software testing. Selenium tool facilitates with a playback tool for authoring functional tests without the need to learn a test scripting language."
+},
+{
+    "id": "287",
     "question": "What is the difference between type keys and type commands?",
     "answer": "TypeKeys() will trigger JavaScript event in most of the cases whereas .type() won't."
-},
-
-]
+},]
 
 
