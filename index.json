@@ -1435,6 +1435,16 @@
     "question": "What is Singleton class?",
     "answer": "Singleton Class limited the number to one but allowing the flexibility to create more object if the situation changes."
 },
+{
+    "id": "282",
+    "question": "How many buckets can be created in S3?",
+    "answerlink": "By default, you can create up to 100 buckets"
+},
+{
+    "id": "283",
+    "question": "What is the minimum and maximum size that you can store in S3?",
+    "answerlink": "The minimum size of an object that you can store in S3 is 0 bytes and the maximum size of an object that you can store in S3 is 5 TB.
+},
 ]
 
 
