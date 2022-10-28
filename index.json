@@ -1460,6 +1460,10 @@
     "question": "What is Selenium?",
     "answer": "Selenium is a portable framework for software testing. Selenium tool facilitates with a playback tool for authoring functional tests without the need to learn a test scripting language."
 },
-]
+{
+    "id": "287",
+    "question": "What is the difference between type keys and type commands?",
+    "answer": "TypeKeys() will trigger JavaScript event in most of the cases whereas .type() won't."
+},]
 
 
