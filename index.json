@@ -1464,6 +1464,12 @@
     "id": "287",
     "question": "What is the difference between type keys and type commands?",
     "answer": "TypeKeys() will trigger JavaScript event in most of the cases whereas .type() won't."
-},]
+},
+{
+    "id": "288 ",
+    "question": "What are your weaknesses?",
+    "answerLink": "I hyperfixate on issues. Sometimes that's a strength, though."
+},
+]
 
 
