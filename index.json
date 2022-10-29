@@ -288,7 +288,7 @@
     {
         "id": "56",
         "question": "What do you know about the triple constraint triangle of project management?",
-        "answerLink": ""
+        "answerLink": "https://lucidspark.com/blog/the-triple-constraint-theory-in-project-management"
     },
     {
         "id": "57",
@@ -1078,90 +1078,90 @@
         "id": "211",
         "question": "Can we Overload Static Methods",
         "answerlink": "Yes we can but tey should have different parameters"
-    }
+    },
 {
-    "id": "212"
-    "question": "How to add class in?"
+    "id": "212",
+    "question": "How to add class in?",
     "answerLink": "By using '.' and '#'."
 },
 {
-        "id":"213"
-        "question":"What happens if you remove static modifier from the main method",
-        "answerlink":"Program compiles successfully.But at runtime throws an error"
+    "id":"213",
+    "question":"What happens if you remove static modifier from the main method",
+    "answerlink":"Program compiles successfully.But at runtime throws an error"
 },
 {
-        "id":"214"
-        "question":"What is blank final variable",
-        "answerlink":"A final variable in Java can be assigned a value once,we can assign a value either in declaration or later"
+    "id":"214",
+    "question":"What is blank final variable",
+    "answerlink":"A final variable in Java can be assigned a value once,we can assign a value either in declaration or later"
 },
 {
-    "id": "215"
-    "question": "Full form of AR?"
+    "id": "215",
+    "question": "Full form of AR?",
     "answerLink": "Augmented Reality"
 },
 {
-    "id": "216"
-    "question": "Full form of OOP?"
+    "id": "216",
+    "question": "Full form of OOP?",
     "answerLink": "Object Oriented Programing"
 },
 {
-    "id": "217"
-    "question": "Full form of OOP?"
+    "id": "217",
+    "question": "Full form of OOP?",
     "answerLink": "Object Oriented Programing"
 },
 {
-    "id": "218"
-    "question": "Full form of TCS?"
+    "id": "218",
+    "question": "Full form of TCS?",
     "answerLink": "Tata Consultancy Services"
 },
  {
-  "id":"219"
-   "question":"what is hyperlink in html"
+  "id":"219",
+   "question":"What is hyperlink in html",
    "answerLink":"it is tagline which is use to link from one page to another"    
-   },
-   {
-        "id":"220"
-        "question":"What is full form of VR",
-        "answerlink":"The full form of VR is Virtual Reality",
 },
 {
-   "id":"221"
-     "question":"which is most secure interface?"
+    "id":"220",
+    "question":"What is full form of VR",
+    "answerlink":"The full form of VR is Virtual Reality"
+},
+{
+   "id":"221",
+     "question":"Which is most secure interface?",
      "answerLink":"Linux"   
 },
 {
-   "id":"222"
-   "question":"which language do you prefer python or C++?"
+   "id":"222",
+   "question":"Which language do you prefer python or C++?",
    "answerlink":"python"
 },
 {
-  "id":"223"
-  "question":"Do you love to code?"
+  "id":"223",
+  "question":"Do you love to code?",
   "answerLink":"yes"
 },
 {
-        "id":"224"
-        "question":"Which programming language have you learned in first year"
+        "id":"224",
+        "question":"Which programming language have you learned in first year",
         "answerLink":"Python"
 },
 {
-    "id": "225"
-    "question": "How many hours you require for job  interview preparation"
+    "id": "225",
+    "question": "How many hours you require for job  interview preparation",
     "answerLink": "Max 3 hours ."
 },
 {
-    "id": "226"
-    "question": "Are you interested in watching in sci-fi"
+    "id": "226",
+    "question": "Are you interested in watching in sci-fi",
     "answerLink": "yes"
 },
 {
-    "id":"227"
-    "question":"Are you a risk taker?"
+    "id":"227",
+    "question":"Are you a risk taker?",
     "answerLink":"https://novoresume.com/career-blog/interview-questions-and-best-answers-guide#are-you-a-risktaker"
    },
    {
-    "id": "228"
-    "question": "Which programming language are you most comfortable with?"
+    "id": "228",
+    "question": "Which programming language are you most comfortable with?",
     "answerLink": "Python and SQL"
 },
 {
@@ -1172,7 +1172,7 @@
 {    
     "id": "230",
     "question": "What have you done to overcome your greatest weakness?",
-    "answerLink": "As I mentioned earlier, my greatest weakness is that I am impatient and get angry easily, to overcome my weakness I do exercise and yoga every morning. The freshness and brightness of morning makes me feel good and light the whole day. If I get angry at someone, I take deep breadth while counting to 10 which calms me down.
+    "answerLink": "As I mentioned earlier, my greatest weakness is that I am impatient and get angry easily, to overcome my weakness I do exercise and yoga every morning. The freshness and brightness of morning makes me feel good and light the whole day. If I get angry at someone, I take deep breadth while counting to 10 which calms me down."
 },
 {
     "id": "231",
@@ -1206,12 +1206,12 @@
 },
 {
     "id": "237",
-    "question": "What motivates you?”,
-    "answerlink": "I’m driven primarily by my desire to learn new things—big or small—and take on new responsibilities so that I’m constantly growing as an employee and contributing more to my team and organization."
+    "question": "What motivates you?",
+    "answerlink": "I am driven primarily by my desire to learn new things—big or small—and take on new responsibilities so that I am constantly growing as an employee and contributing more to my team and organization."
 },   
 {
-    "id": "238"
-    "question": "What is the biggest challenge you faced in the 4 years of your college life?"
+    "id": "238",
+    "question": "What is the biggest challenge you faced in the 4 years of your college life?",
     "answerLink": "The biggest challenge was time management. It was like a war to complete and submit assignments before their due dates, study for exam at the same time, participate in club activities and also take out time for yourself. But this taught me to properly divide my schedule and I believe I will benefit in my working life from this as well."
 },
 {
@@ -1251,36 +1251,35 @@
 },
 {
     "id": "246",
-    "question": Which Language is faster 'Python' or 'C++'?
-    "answerLink": C++ is faster then Python by significant margin."
+    "question": "Which Language is faster 'Python' or 'C++'?",
+    "answerLink": "C++ is faster than Python by significant margin because of being closer to machine language"
 },
 {
     "id": "247",
-    "question": "What are your hobbies?”,
+    "question": "What are your hobbies?",
     "answerlink": "I like playing video games and I also like to do code in various programming languages"
 },
 {
-        "id": "248",
-        "question": "What is the meaning of your name and how do you live up to your name?",
-        "answerLink": "https://www.adda247.com/defence-jobs/questions-asked-in-ssb-interview"
+    "id": "248",
+    "question": "What is the meaning of your name and how do you live up to your name?",
+    "answerLink": "https://www.adda247.com/defence-jobs/questions-asked-in-ssb-interview"
 },
 {
 
-        "id ": "249",
-        "question": "When you’re balancing multiple projects, how do you keep yourself organized?",
-        "answerLink": "https://kissflow.com/project/how-to-manage-multiple-projects/"
+    "id ": "249",
+    "question": "When you’re balancing multiple projects, how do you keep yourself organized?",
+    "answerLink": "https://kissflow.com/project/how-to-manage-multiple-projects/"
  },
 
-        "id": "250",
-        "question": "How much do you expect to be earning in five years?",
-        "answerLink": "https://www.glassdoor.com/blog/guide/where-do-you-see-yourself-in-5-years/",
-        "answerLink": "http://www.lioncubjobsearch.com/2014/05/what-do-you-expect-to-be-earning-in.html",
-        "answerLink": "https://www.livecareer.com/resources/interviews/questions/what-do-you-expect-to-be-earning-in-five-years"
+{ "id": "250",
+    "question": "How much do you expect to be earning in five years?",
+    "answerLink": "https://www.glassdoor.com/blog/guide/where-do-you-see-yourself-in-5-years/",
+    "answerLink": "https://www.livecareer.com/resources/interviews/questions/what-do-you-expect-to-be-earning-in-five-years"
 },
 {
-        "id": "251",
-        "question": "Which technologies and languages would you need to develop a project from scratch?",
-        "answerLink": "https://www.digitalvidya.com/blog/popular-full-stack-web-developer-interview-questions-and-answers/#:~:text=which%20technologies%20and%20languages%20would%20you%20need%20to%20develop%20a%20project%20from%20scratch%3F"
+    "id": "251",
+    "question": "Which technologies and languages would you need to develop a project from scratch?",
+    "answerLink": "https://www.digitalvidya.com/blog/popular-full-stack-web-developer-interview-questions-and-answers/#:~:text=which%20technologies%20and%20languages%20would%20you%20need%20to%20develop%20a%20project%20from%20scratch%3F"
 
 },
 {
@@ -1307,13 +1306,12 @@
     "id": "256",
     "question": "How do you stay organized?",
     "answer": "First, I keep a really meticulous calendar for each of the platforms I’m responsible for using Hootsuite—which I noticed you use here as well—and I try to block off time twice a week to get ahead on creating and slotting in posts. "
-    },
-    {
-        "id": "257",
-        "question": "What was the toughest challenge you’ve ever faced?"
-        ,
-        "answer":"This is an easy question if you’re prepared. Have a recent exampleready that demonstrates either:1. A quality most important to the job at hand; or2. A quality that is always in demand, such as leadership, initiative, managerial skill,persuasiveness, courage, persistence, intelligence, etc."
-        },
+},
+{
+    "id": "257",
+    "question": "What was the toughest challenge you’ve ever faced?",
+    "answer":"This is an easy question if you’re prepared. Have a recent exampleready that demonstrates either:1. A quality most important to the job at hand; or2. A quality that is always in demand, such as leadership, initiative, managerial skill,persuasiveness, courage, persistence, intelligence, etc."
+},
 {
     "id": "258",
     "question": "Tell me one thing about yourself you wouldn't want me to know.",
@@ -1335,10 +1333,10 @@
     "answer": "1. Decision Making 2. Genetics 3. Image Processing 4. Blockchain 5. Numerical and Statistical Analysis 6. Compiler Design 7. Database Design and many more"
 },
 {
-        "id": "262",
-        "question": "What is your name? Introduce yourself.",
-        "answerLink": "Hi my name is Prathmesh Lodhi, I am currently studying computer engineering at JSCOE (Jaywantrao sawant College of Engineering , and I will be graduated in year 2024 as a fresher)"
-    },
+    "id": "262",
+    "question": "What is your name? Introduce yourself.",
+    "answerLink": "Hi my name is Prathmesh Lodhi, I am currently studying computer engineering at JSCOE (Jaywantrao sawant College of Engineering , and I will be graduated in year 2024 as a fresher)"
+},
 {
     "id": "263",
     "question": "Where do you see yourself after 5 years ??",
@@ -1443,7 +1441,7 @@
 {
     "id": "283",
     "question": "What is the minimum and maximum size that you can store in S3?",
-    "answerlink": "The minimum size of an object that you can store in S3 is 0 bytes and the maximum size of an object that you can store in S3 is 5 TB.
+    "answerlink": "The minimum size of an object that you can store in S3 is 0 bytes and the maximum size of an object that you can store in S3 is 5 TB."
 },
 {
     "id": "284",
@@ -1471,15 +1469,15 @@
     "answerLink": "I hyperfixate on issues. Sometimes that's a strength, though."
 },
 {
-        "id": "289",
-        "question": "what is creative writing?",
-        "answerLink": "Think about a task in a different way "
+    "id": "289",
+    "question": "what is creative writing?",
+    "answerLink": "Think about a task in a different way "
 },
 {
-        "id": "290",
-        "question": "Give an example of when you showed leadership qualities?",
-        "answerLink": "Keep in mind, though, that this question doesn't necessarily mean that you should have held a managerial position. "
- },
+    "id": "290",
+    "question": "Give an example of when you showed leadership qualities?",
+    "answerLink": "Keep in mind, though, that this question doesn't necessarily mean that you should have held a managerial position. "
+ }
 ]
 
 
