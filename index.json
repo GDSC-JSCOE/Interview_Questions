@@ -1474,10 +1474,17 @@
     "answerLink": "Think about a task in a different way "
 },
 {
-    "id": "290",
-    "question": "Give an example of when you showed leadership qualities?",
-    "answerLink": "Keep in mind, though, that this question doesn't necessarily mean that you should have held a managerial position. "
- }
+        "id": "290",
+        "question": "Give an example of when you showed leadership qualities?",
+        "answerLink": "Keep in mind, though, that this question doesn't necessarily mean that you should have held a managerial position. "
+ },
+ 
+{
+        "id": "291",
+        "question": "Which is better HackerRank or Codechef?",
+        "answerLink": "https://www.quora.com/Which-is-better-Hackerrank-or-Codechef "
+ },
+
 ]
 
 
