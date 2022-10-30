@@ -595,4 +595,9 @@
         "question" : "How much are you excited in joining our company , Rate from 1 to 10",
         "answerLink" : " 10 "
     }
+{
+        "id" : "108",
+        "question" : "Tell me about a time you demonstrated leadership skills.",
+        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#828ba3e1-21a6-4a80-9387-98584f7781a4"
+    }
 ]
