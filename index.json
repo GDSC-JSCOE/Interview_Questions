@@ -1511,6 +1511,11 @@
         "question": "What is Shortest Job First Scheduling?",
         "answerLink": "https://www.guru99.com/shortest-job-first-sjf-scheduling.html"
  },
+    {
+        "id": "297",
+        "question": "What is the type of the algorithm used in solving the 8 Queens problem?,
+        "answerLink": "Backtracking."
+ },
 
 ]
 
