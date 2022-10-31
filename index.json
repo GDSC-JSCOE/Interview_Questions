@@ -1511,6 +1511,11 @@
         "question": "What is Shortest Job First Scheduling?",
         "answerLink": "https://www.guru99.com/shortest-job-first-sjf-scheduling.html"
  },
+    {
+        "id": "298",
+        "question": "Minimum number of queues needed to implement the priority queue?,
+        "answerLink": "Two. One queue is used for actual storing of data and another for storing priorities."
+ },
 
 ]
 
