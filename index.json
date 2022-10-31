@@ -1511,6 +1511,11 @@
         "question": "What is Shortest Job First Scheduling?",
         "answerLink": "https://www.guru99.com/shortest-job-first-sjf-scheduling.html"
  },
+    {
+        "id": "297",
+        "question": "What are the notations used in Evaluation of Arithmetic Expressions using prefix and postfix forms?,
+        "answerLink": "Polish and Reverse Polish notations"
+ },
 
 ]
 
