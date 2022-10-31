@@ -1511,7 +1511,11 @@
         "question": "What is Shortest Job First Scheduling?",
         "answerLink": "https://www.guru99.com/shortest-job-first-sjf-scheduling.html"
  },
-
+{
+        "id": "300",
+        "question": " What is your salary range expectation?",
+        "answerLink": "I am seeking a position that pays between $75,000 and $80,000 annually, but I am open to negotiating salary depending on benefits, bonuses, equity, stock options and other opportunities.”"
+ },
 ]
 
 
