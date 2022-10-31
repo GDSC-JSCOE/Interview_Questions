@@ -1512,6 +1512,11 @@
         "answerLink": "https://www.guru99.com/shortest-job-first-sjf-scheduling.html"
  },
 
+    {
+        "id": "297",
+        "question": "What are the merits of the incremental model?",
+        "answerLink": "It can deliver iteration faster, in the first iteration itself.Development takes place in parallel to each other.We can reduce the first delivery cost by using this method.The user or client can provide feedback at each level and unexpected changes in the requirement can be avoided.Risks can be identified and managed on a module-by-module basis."
+ },
 ]
 
 
