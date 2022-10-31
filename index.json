@@ -1511,6 +1511,12 @@
         "question": "What is Shortest Job First Scheduling?",
         "answerLink": "https://www.guru99.com/shortest-job-first-sjf-scheduling.html"
  },
+    
+    {
+        "id": "297",
+        "question": "What is a spanning Tree?",
+        "answerLink": "A spanning tree is a tree associated with a network. All the nodes of the graph appear on the tree once. A minimum spanning tree is a spanning tree organized so that the total edge weight between nodes is minimized."
+ },
 
 ]
 
