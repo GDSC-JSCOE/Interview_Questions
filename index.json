@@ -1516,6 +1516,11 @@
         "question": "What Is Your Greatest Accomplishment?",
         "answerLink": "Well, my last role was as a manager at a seasonal restaurant in Nantucket. Out of the 4 months I spent there, 3 of them were a total nightmare. The restaurant was completely packed 90%+ of the time, and we barely had any breathing room"
  },
+    {
+        "id": "298",
+        "question": "What is a linked list?",
+        "answerLink": "A linked list is a sequence of nodes in which each node is connected to the node following it. This forms a chain-like link for data storage"
+ },
 ]
 
 
