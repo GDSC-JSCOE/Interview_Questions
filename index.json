@@ -1511,6 +1511,12 @@
         "question": "What is Shortest Job First Scheduling?",
         "answerLink": "https://www.guru99.com/shortest-job-first-sjf-scheduling.html"
  },
+    
+    {
+        "id": "297",
+        "question": "What does a software project manager do?",
+        "answerLink": "A software product manager leads and manages the software product management department. They are in charge of the software product's specialization, goals, structure, and expectations. They also head the planning, backlog grooming, stakeholder management, and providing roadmap necessary to create the best software."
+ },
 
 ]
 
