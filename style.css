@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    justify-content: center;
+
+}
+
+/* button style */
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120vh;
+}
+
+.btnc {
+    color: crimson;
+    padding: auto;
+    margin-left: 10px;
+    height: 30px;
+    border-radius: 10%;
+    border-style: none;
+}
+
+.btn-1 {
+    width: 150px;
+}
+
+.btn-2 {
+    width: 125px;
+}
+
+.btn-1:hover {
+    background-color: rgb(143, 204, 206);
+    color: darkred;
+}
+
+.btn-2:hover {
+    background-color: cadetblue;
+    color: darkmagenta;
+}
