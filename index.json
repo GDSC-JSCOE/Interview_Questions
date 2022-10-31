@@ -1473,14 +1473,16 @@
     "question": "what is creative writing?",
     "answerLink": "Think about a task in a different way "
 },
-     {
-        "id": "300",
-        "question": "Tell me about a time where you had to deal with conflict on the job.",
-        "answerLink": "Not done any job yet so your company will be the first to experince such a thing"
-    },
     
 {
         "id": "290",
+        "question": "Tell me about a time where you had to deal with conflict on the job.",
+        "answerLink": "Not done any job yet so your company will be the first to experince such a thing"
+},
+     
+    
+{
+        "id": "291",
         "question": "Give an example of when you showed leadership qualities?",
         "answerLink": "Keep in mind, though, that this question doesn't necessarily mean that you should have held a managerial position. "
  },
@@ -1491,10 +1493,22 @@
     },
  
 {
-        "id": "291",
+        "id": "292",
         "question": "Which is better HackerRank or Codechef?",
         "answerLink": "https://www.quora.com/Which-is-better-Hackerrank-or-Codechef "
  },
+
+{
+        "id": "293",
+        "question": "What is CPU Scheduling and illustrate its types?",
+        "answerLink": "https://www.guru99.com/cpu-scheduling-algorithms.html#:~:text=CPU%20Scheduling%20is%20a%20process,the%20ready%20queue%20for%20execution"
+ },
+    
+{
+        "id": "294",
+        "question": "What is Shortest Job First Scheduling?",
+        "answerLink": "https://www.guru99.com/shortest-job-first-sjf-scheduling.html"
+ }
 
 ]
 
