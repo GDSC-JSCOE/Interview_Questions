@@ -1532,6 +1532,11 @@
 
         "answerLink": "A binary search is an algorithm that starts with searching in the middle element. If the middle element is not the target element then it further checks whether to continue searching the lower half of the higher half. The process continues until the target element is found.
  },
+         {
+        "id": "301",
+        "question": " Tell me about yourself and your background ?"
+        "answerLink": "Hello, my name is Rajesh, and I graduated from Xyz University. I majored in B.Tech Computer Science. I’ve always had a fascination with computers since I was a child, and my fascination with computers led me to want to learn new programming languages. I am well-versed in C programming, Java, data structures, and SQL."
+ },
 ]
 
 
