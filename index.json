@@ -1521,6 +1521,11 @@
         "question": "What is a linked list?",
         "answerLink": "A linked list is a sequence of nodes in which each node is connected to the node following it. This forms a chain-like link for data storage"
  },
+     {
+        "id": "299",
+        "question": "What is a queue?",
+        "answerLink": "A queue is a data structure that can simulate a list or stream of data. In this structure, new elements are inserted at one end, and existing elements are removed from the other end."
+ },
 ]
 
 
