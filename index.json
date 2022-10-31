@@ -1486,29 +1486,31 @@
         "question": "Give an example of when you showed leadership qualities?",
         "answerLink": "Keep in mind, though, that this question doesn't necessarily mean that you should have held a managerial position. "
  },
-    {
-        "id": "11",
-        "question": "What is your greatest failure, and what did you learn from it?",
-        "answerLink": "My greatest failure was I was not able to clear Jee Mains exam, But I learnt that Failures are the Keys to success and I worked hard and now I have achieved success in many tasks. we grow from failures "
-    },
- 
 {
         "id": "292",
         "question": "Which is better HackerRank or Codechef?",
         "answerLink": "https://www.quora.com/Which-is-better-Hackerrank-or-Codechef "
- },
-
+},
 {
-        "id": "293",
+        "id" : "293",
+        "question" : "How much are you excited in joining our company , Rate from 1 to 10",
+        "answerLink" : " 10 "
+},
+{
+        "id" : "294",
+        "question" : "Tell me about a time you demonstrated leadership skills.",
+        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#828ba3e1-21a6-4a80-9387-98584f7781a4"
+    },
+    {
+        "id": "295",
         "question": "What is CPU Scheduling and illustrate its types?",
         "answerLink": "https://www.guru99.com/cpu-scheduling-algorithms.html#:~:text=CPU%20Scheduling%20is%20a%20process,the%20ready%20queue%20for%20execution"
- },
-    
+        },  
 {
-        "id": "294",
+        "id": "296",
         "question": "What is Shortest Job First Scheduling?",
         "answerLink": "https://www.guru99.com/shortest-job-first-sjf-scheduling.html"
- }
+ },
 
 ]
 
