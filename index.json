@@ -1526,6 +1526,13 @@
         "question": "What is a queue?",
         "answerLink": "A queue is a data structure that can simulate a list or stream of data. In this structure, new elements are inserted at one end, and existing elements are removed from the other end."
  },
+     {
+        "id": "300",
+        "question": "What do you understand by a binary search?
+
+        "answerLink": "A binary search is an algorithm that starts with searching in the middle element. If the middle element is not the target element then it further checks whether to continue searching the lower half of the higher half. The process continues until the target element is found.
+ },
 ]
+
 
 
