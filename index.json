@@ -1511,14 +1511,36 @@
         "question": "What is Shortest Job First Scheduling?",
         "answerLink": "https://www.guru99.com/shortest-job-first-sjf-scheduling.html"
  },
-    
-    {
+     {
         "id": "297",
+        "question": "What is the full form of SDLC?",
+        "answerLink": "The full form of SDLC is Software Development Life Cycle. It is a well-known process that provides quality software products in a short time."
+},
+    {
+        "id": "298",
+        "question": "What is Software Engineering?",
+        "answerLink": "https://www.interviewbit.com/software-engineering-interview-questions/amp/"
+},
+    {
+        "id": "299",
+        "question": "In which language we can do machine learning?",
+        "answerLink": "Python and Ruby"
+ },
+    {
+        "id": "300",
+        "question": "Minimum number of queues needed to implement the priority queue?,
+        "answerLink": "Two. One queue is used for actual storing of data and another for storing priorities."
+},
+    {
+        "id": "301",
+        "question": "What are the notations used in Evaluation of Arithmetic Expressions using prefix and postfix forms?,
+        "answerLink": "Polish and Reverse Polish notations"
+ },
+     {
+        "id": "302",
         "question": "What is concurrency?",
         "answerLink": "In software engineering, concurrency refers to a set of techniques and mechanisms that allow the software to do many tasks at the same time. Concurrency can be achieved by using languages like C++ or Java because these languages support the concept of thread. New hardware and software features are required to achieve concurrency."
  },
-
-
-]
+ ]
 
 
