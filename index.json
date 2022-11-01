@@ -1516,6 +1516,11 @@
         "id": "297",
         "question": "What is Software Engineering?",
         "answerLink": "https://www.interviewbit.com/software-engineering-interview-questions/amp/"
+},
+    {
+        "id": "298",
+        "question": "In which language we can do machine learning?",
+        "answerLink": "Python and Ruby"
  },
 
 ]
