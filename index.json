@@ -1526,7 +1526,11 @@
         "question": "In which language we can do machine learning?",
         "answerLink": "Python and Ruby"
  },
-
+    {
+        "id": "300",
+        "question": "Minimum number of queues needed to implement the priority queue?,
+        "answerLink": "Two. One queue is used for actual storing of data and another for storing priorities."
+},
 ]
 
 
