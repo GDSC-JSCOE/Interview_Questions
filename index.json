@@ -1511,14 +1511,18 @@
         "question": "What is Shortest Job First Scheduling?",
         "answerLink": "https://www.guru99.com/shortest-job-first-sjf-scheduling.html"
  },
-    
-    {
+     {
         "id": "297",
+        "question": "What is the full form of SDLC?",
+        "answerLink": "The full form of SDLC is Software Development Life Cycle. It is a well-known process that provides quality software products in a short time."
+},
+    {
+        "id": "298",
         "question": "What is Software Engineering?",
         "answerLink": "https://www.interviewbit.com/software-engineering-interview-questions/amp/"
 },
     {
-        "id": "298",
+        "id": "299",
         "question": "In which language we can do machine learning?",
         "answerLink": "Python and Ruby"
  },
