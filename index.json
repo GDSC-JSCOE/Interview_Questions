@@ -1511,6 +1511,11 @@
         "question": "What is Shortest Job First Scheduling?",
         "answerLink": "https://www.guru99.com/shortest-job-first-sjf-scheduling.html"
  },
+    {
+        "id": "297",
+        "question": "In which language we can do machine learning?",
+        "answerLink": "Python and Ruby"
+ },
 
 ]
 
