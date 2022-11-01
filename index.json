@@ -1536,6 +1536,11 @@
         "question": "What are the notations used in Evaluation of Arithmetic Expressions using prefix and postfix forms?,
         "answerLink": "Polish and Reverse Polish notations"
  },
+     {
+        "id": "302",
+        "question": "What is concurrency?",
+        "answerLink": "In software engineering, concurrency refers to a set of techniques and mechanisms that allow the software to do many tasks at the same time. Concurrency can be achieved by using languages like C++ or Java because these languages support the concept of thread. New hardware and software features are required to achieve concurrency."
+ },
  ]
 
 
