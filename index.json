@@ -1561,6 +1561,11 @@
         "question": "What interests you about this role?",
         "answerLink": "“While I highly valued my time at my previous company, there are no longer opportunities for growth that align with my career goals. This position fits perfectly with my skill set and how I’m looking to grow in my career. I’m also looking for a position at a company like yours that supports underserved communities, which is a personal passion of mine.”"
  },
+     {
+        "id": "307",
+        "question": "What are the merits of the incremental model?",
+        "answerLink": "It can deliver iteration faster, in the first iteration itself.Development takes place in parallel to each other.We can reduce the first delivery cost by using this method.The user or client can provide feedback at each level and unexpected changes in the requirement can be avoided.Risks can be identified and managed on a module-by-module basis."
+ },
  ]
 
 
