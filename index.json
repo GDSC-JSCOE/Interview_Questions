@@ -1551,6 +1551,11 @@
         "question": "Why do you want to work here?",
         "answerLink": "“The company’s mission to help college grads pay off their student loan debt resonates with me. I’ve been in student loan debt myself and would love the opportunity to work with a company that’s making a difference. Finding a company with a positive work environment and values that align with my own has remained a priority throughout my job search and this company ranks at the top of the list.”"
  },
+     {
+        "id": "305",
+        "question": "What is a spanning Tree?",
+        "answerLink": "A spanning tree is a tree associated with a network. All the nodes of the graph appear on the tree once. A minimum spanning tree is a spanning tree organized so that the total edge weight between nodes is minimized."
+ },
  ]
 
 
