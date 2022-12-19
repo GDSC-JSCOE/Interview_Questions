@@ -1556,6 +1556,11 @@
         "question": "What is a spanning Tree?",
         "answerLink": "A spanning tree is a tree associated with a network. All the nodes of the graph appear on the tree once. A minimum spanning tree is a spanning tree organized so that the total edge weight between nodes is minimized."
  },
+  {
+        "id": "306",
+        "question": "What interests you about this role?",
+        "answerLink": "“While I highly valued my time at my previous company, there are no longer opportunities for growth that align with my career goals. This position fits perfectly with my skill set and how I’m looking to grow in my career. I’m also looking for a position at a company like yours that supports underserved communities, which is a personal passion of mine.”"
+ },
  ]
 
 
