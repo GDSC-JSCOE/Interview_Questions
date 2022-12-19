@@ -1511,12 +1511,61 @@
         "question": "What is Shortest Job First Scheduling?",
         "answerLink": "https://www.guru99.com/shortest-job-first-sjf-scheduling.html"
  },
-
-    {
+     {
         "id": "297",
+        "question": "What is the full form of SDLC?",
+        "answerLink": "The full form of SDLC is Software Development Life Cycle. It is a well-known process that provides quality software products in a short time."
+},
+    {
+        "id": "298",
+        "question": "What is Software Engineering?",
+        "answerLink": "https://www.interviewbit.com/software-engineering-interview-questions/amp/"
+},
+    {
+        "id": "299",
+        "question": "In which language we can do machine learning?",
+        "answerLink": "Python and Ruby"
+ },
+    {
+        "id": "300",
+        "question": "Minimum number of queues needed to implement the priority queue?,
+        "answerLink": "Two. One queue is used for actual storing of data and another for storing priorities."
+},
+    {
+        "id": "301",
+        "question": "What are the notations used in Evaluation of Arithmetic Expressions using prefix and postfix forms?,
+        "answerLink": "Polish and Reverse Polish notations"
+ },
+     {
+        "id": "302",
+        "question": "What is concurrency?",
+        "answerLink": "In software engineering, concurrency refers to a set of techniques and mechanisms that allow the software to do many tasks at the same time. Concurrency can be achieved by using languages like C++ or Java because these languages support the concept of thread. New hardware and software features are required to achieve concurrency."
+ },
+     {
+        "id": "303",
+        "question": "What is the type of the algorithm used in solving the 8 Queens problem?,
+        "answerLink": "Backtracking."
+ },
+ {
+        "id": "304",
+        "question": "Why do you want to work here?",
+        "answerLink": "“The company’s mission to help college grads pay off their student loan debt resonates with me. I’ve been in student loan debt myself and would love the opportunity to work with a company that’s making a difference. Finding a company with a positive work environment and values that align with my own has remained a priority throughout my job search and this company ranks at the top of the list.”"
+ },
+     {
+        "id": "305",
+        "question": "What is a spanning Tree?",
+        "answerLink": "A spanning tree is a tree associated with a network. All the nodes of the graph appear on the tree once. A minimum spanning tree is a spanning tree organized so that the total edge weight between nodes is minimized."
+ },
+  {
+        "id": "306",
+        "question": "What interests you about this role?",
+        "answerLink": "“While I highly valued my time at my previous company, there are no longer opportunities for growth that align with my career goals. This position fits perfectly with my skill set and how I’m looking to grow in my career. I’m also looking for a position at a company like yours that supports underserved communities, which is a personal passion of mine.”"
+ },
+     {
+        "id": "307",
         "question": "What are the merits of the incremental model?",
         "answerLink": "It can deliver iteration faster, in the first iteration itself.Development takes place in parallel to each other.We can reduce the first delivery cost by using this method.The user or client can provide feedback at each level and unexpected changes in the requirement can be avoided.Risks can be identified and managed on a module-by-module basis."
  },
-]
+ ]
 
 
