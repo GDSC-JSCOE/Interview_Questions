@@ -1566,6 +1566,11 @@
         "question": "What are the merits of the incremental model?",
         "answerLink": "It can deliver iteration faster, in the first iteration itself.Development takes place in parallel to each other.We can reduce the first delivery cost by using this method.The user or client can provide feedback at each level and unexpected changes in the requirement can be avoided.Risks can be identified and managed on a module-by-module basis."
  },
+ {
+        "id": "308",
+        "question": "Can you provide an example of a time when you faced a significant obstacle or setback in a project or task? How did you handle it, and what did you learn from the experience?",
+        "answerLink": "Certainly. In a previous project, we encountered a significant setback when a key supplier faced unexpected production delays. To address this, I promptly convened a meeting with stakeholders, adjusted timelines, and redistributed tasks. I also worked closely with the supplier to expedite the process. This experience underscored the importance of adaptability and proactive communication in project management, and I've since prioritized contingency planning in my approach."
+ },
  ]
 
 
