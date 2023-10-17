@@ -1566,6 +1566,11 @@
         "question": "What are the merits of the incremental model?",
         "answerLink": "It can deliver iteration faster, in the first iteration itself.Development takes place in parallel to each other.We can reduce the first delivery cost by using this method.The user or client can provide feedback at each level and unexpected changes in the requirement can be avoided.Risks can be identified and managed on a module-by-module basis."
  },
+{
+        "id": "308",
+        "question": "What are the advantages of a linked list over an array? In which scenarios do we use Linked List and when Array?",
+        "answerLink": "https://www.simplilearn.com/data-structure-interview-questions-and-answers-article",
+}
  ]
 
 
